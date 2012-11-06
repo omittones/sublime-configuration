@@ -1,2 +1,5 @@
 *.cache
 *.pyc
+/Tino/*.sqlite
+/Tino/test/*.sqlite
+/Tino/test/*.cPickle
