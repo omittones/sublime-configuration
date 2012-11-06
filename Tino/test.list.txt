@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Tino: Super Jump",
+        "command": "super_jump"
+    }
+]

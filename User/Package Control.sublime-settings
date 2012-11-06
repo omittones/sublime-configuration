@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1352169435,
+	"auto_upgrade_last_run": 1352176948,
 	"installed_packages":
 	[
 		"Alignment",
@@ -9,7 +9,6 @@
 		"ColorPicker",
 		"DeleteBlankLines",
 		"Package Control",
-		"Sublime Files",
 		"SublimeAStyleFormatter",
 		"Switch File Deluxe"
 	]
