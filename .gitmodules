@@ -1,3 +1,3 @@
 [submodule "Sublime Files"]
 	path = Sublime Files
-	url = git://github.com/omittones/SublimeFiles.git
+	url = git@github.com:omittones/SublimeFiles.git
