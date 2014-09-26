@@ -1,7 +1,0 @@
-[
-    {"command": "move", "args": {"by": "lines", "forward":true} },
-    {"command": "move", "args": {"by": "lines", "forward":true} },
-    {"command": "move", "args": {"by": "lines", "forward":true} },
-    {"command": "move", "args": {"by": "lines", "forward":true} },
-    {"command": "move", "args": {"by": "lines", "forward":true} }
-]

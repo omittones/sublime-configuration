@@ -1,9 +1,0 @@
-[
-    {
-        "caption": "File: Rename",
-        "command": "rename_path",
-        "args": {
-            "paths": ["$file_name"]
-        }
-    }
-]
