@@ -1,0 +1,30 @@
+{
+	"scope": "source.sql",
+
+	"completions":
+	[
+			"char"
+		,	"from"
+		,	"fetch next from"
+		,	"full"
+		,	"identity"
+		,	"identity_insert"
+		,	"insert"
+		,	"into"
+		,	"inner join"
+		,	"left join"
+		,	"merge"
+		,	"nchar"
+		,	"nvarchar"
+		,	"outer"
+		,	"pivot"
+		,	"select"
+		,	"set nocount"
+		,	"set"
+		,	"transaction isolation level"
+		,	"transaction"
+		,	"unpivot"
+		,	"update"
+		,	"varchar"
+	]
+}
