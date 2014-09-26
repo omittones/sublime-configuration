@@ -1,0 +1,12 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.sqlite-journal"
+			],
+			"path": "/D/UserData/SublimeText2.0/Data/Packages"
+		}
+	]
+}
