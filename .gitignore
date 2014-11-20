@@ -3,3 +3,4 @@
 /Data/Settings
 /Data/Pristine Packages
 /Data/Packages/*/*.cache
+/**.pyc
