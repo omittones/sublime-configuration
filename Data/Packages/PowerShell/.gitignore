@@ -1,3 +1,10 @@
 *.pyc
 *.cache
-*.sublime-project
+
+# Editor files
+*.sublime-workspace
+
+# Temporary/generated files
+dist/
+MANIFEST
+*.YAML-tmLanguage
