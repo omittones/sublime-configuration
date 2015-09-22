@@ -1,1 +1,1 @@
-{"description": "Support for the MS PowerShell programming language.", "url": "https://github.com/SublimeText/PowerShell", "platforms": ["*"], "version": "2015.03.25.21.07.12", "sublime_text": "*", "dependencies": []}
+{"description": "Support for the MS PowerShell programming language.", "url": "https://github.com/SublimeText/PowerShell", "platforms": ["*"], "version": "2015.08.29.16.56.21", "sublime_text": "*", "dependencies": []}

@@ -1,5 +1,6 @@
 {
 	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -15,13 +16,13 @@
 		"DevDocs",
 		"Emmet",
 		"Git",
+		"Google Spell Check",
 		"Indent XML",
 		"Nodejs",
 		"Package Control",
 		"PowerShell",
 		"ShowEncoding",
 		"SideBarEnhancements",
-		"Sublime Files",
-		"TernJS"
+		"Sublime Files"
 	]
 }
