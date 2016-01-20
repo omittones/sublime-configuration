@@ -1,1 +1,1 @@
-{"description": "Uses Google Search spelling magic to fix words or phrases for Sublime Text.", "url": "https://github.com/noahcoad/google-spell-check", "platforms": ["*"], "version": "2014.04.10.07.43.27", "sublime_text": "<3000", "dependencies": []}
+{"description": "Uses Google Search spelling magic to fix words or phrases for Sublime Text.", "url": "https://github.com/noahcoad/google-spell-check", "platforms": ["*"], "version": "2015.10.19.16.10.48", "sublime_text": "<3000", "dependencies": []}

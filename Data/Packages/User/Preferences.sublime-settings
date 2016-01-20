@@ -51,6 +51,7 @@
 	"ignored_packages":
 	[
 		"AutoFileName",
+		"Nodejs",
 		"Sublime Files",
 		"Tino",
 		"Vintage"
