@@ -1,9 +1,17 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/fgbrealw58sd8ado/branch/dev?svg=true)](https://ci.appveyor.com/project/guillermooo/powershell/branch/dev)
+# PowerShell Package for Sublime Text 3
 
-
-## PowerShell Package for Sublime Text 3
+[![Join the chat at https://gitter.im/SublimeText/PowerShell](https://badges.gitter.im/SublimeText/PowerShell.svg)](https://gitter.im/SublimeText/PowerShell?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Adds support for the MS PowerShell programming language.
+
+
+## Status
+
+|         |Windows |
+|---------|:------:|
+|master|[![Build status](https://ci.appveyor.com/api/projects/status/fgbrealw58sd8ado/branch/master?svg=true)](https://ci.appveyor.com/project/guillermooo/powershell/branch/master)|
+|dev|[![Build status](https://ci.appveyor.com/api/projects/status/fgbrealw58sd8ado/branch/dev?svg=true)](https://ci.appveyor.com/project/guillermooo/powershell/branch/dev)|
+
 
 
 ### Installing

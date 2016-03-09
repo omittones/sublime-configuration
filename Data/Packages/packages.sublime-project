@@ -6,7 +6,7 @@
 			[
 				"*.sqlite-journal"
 			],
-			"path": "/D/UserData/SublimeText2.0/Data/Packages"
+			"path": "."
 		}
 	]
 }
