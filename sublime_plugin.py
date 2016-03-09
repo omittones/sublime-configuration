@@ -1,8 +1,16 @@
+import sublime
+import threading
+import imp
+import importlib
 import os
 import sys
+import zipfile
+import sublime_api
+import traceback
 import time
-import sublime
-import imp
+import math
+
+api_ready = False
 
 application_command_classes = []
 window_command_classes = []
@@ -10,13 +18,29 @@ text_command_classes = []
 
 all_command_classes = [application_command_classes, window_command_classes, text_command_classes]
 
-all_callbacks = {'on_new': [], 'on_clone': [], 'on_load': [], 'on_close': [],
+all_callbacks = {'on_new': [], 'on_clone': [], 'on_load': [], 'on_pre_close': [], 'on_close': [],
     'on_pre_save': [], 'on_post_save': [], 'on_modified': [],
     'on_selection_modified': [],'on_activated': [], 'on_deactivated': [],
-    'on_project_load': [], 'on_project_close': [], 'on_query_context': [],
-    'on_query_completions': []}
+    'on_query_context': [], 'on_query_completions': [],
+    'on_text_command': [], 'on_window_command': [],
+    'on_post_text_command': [], 'on_post_window_command': [],
+
+    'on_modified_async': [],
+    'on_selection_modified_async': [],
+    'on_pre_save_async': [],
+    'on_post_save_async': [],
+    'on_activated_async': [],
+    'on_deactivated_async': [],
+    'on_new_async': [],
+    'on_load_async': [],
+    'on_clone_async': []}
+
+profile = {}
 
 def unload_module(module):
+    if "plugin_unloaded" in module.__dict__:
+        module.plugin_unloaded()
+    # Check unload_handler too, for backwards compat
     if "unload_handler" in module.__dict__:
         module.unload_handler()
 
@@ -34,37 +58,27 @@ def unload_module(module):
                 except ValueError:
                     pass
 
-def unload_plugin(fname):
-    print "Unloading plugin", fname
-
-    modulename, ext = os.path.splitext(os.path.basename(fname))
+def unload_plugin(modulename):
+    print("unloading plugin", modulename)
 
     was_loaded = modulename in sys.modules
     if was_loaded:
-        m = __import__(modulename)
+        m = sys.modules[modulename]
         unload_module(m)
+        del sys.modules[modulename]
 
-def reload_plugin(fname):
-    print "Reloading plugin", fname
-    path = os.path.dirname(fname)
-
-    # Change the current directory to that of the module. It's not safe to just
-    # add the modules directory to sys.path, as that won't accept unicode paths
-    # on Windows
-    oldpath = os.getcwdu()
-    os.chdir(path)
-
-    modulename, ext = os.path.splitext(os.path.basename(fname))
+def reload_plugin(modulename):
+    print("reloading plugin", modulename)
 
     if modulename in sys.modules:
-        unload_module(sys.modules[modulename])
-    m_info = imp.find_module(modulename, ["."])
-    m = imp.load_module(modulename, *m_info)
-
-    # Restore the current directory
-    os.chdir(oldpath)
+        m = sys.modules[modulename]
+        unload_module(m)
+        m = imp.reload(m)
+    else:
+        m = importlib.import_module(modulename)
 
     module_plugins = []
+    on_activated_targets = []
     for type_name in dir(m):
         try:
             t = m.__dict__[type_name]
@@ -85,9 +99,12 @@ def reload_plugin(fname):
 
                 if issubclass(t, EventListener):
                     obj = t()
-                    for p in all_callbacks.iteritems():
+                    for p in all_callbacks.items():
                         if p[0] in dir(obj):
                             p[1].append(obj)
+
+                    if "on_activated" in dir(obj):
+                        on_activated_targets.append(obj)
 
                     module_plugins.append(obj)
 
@@ -97,151 +114,322 @@ def reload_plugin(fname):
     if len(module_plugins) > 0:
         m.plugins = module_plugins
 
+    if api_ready:
+        if "plugin_loaded" in m.__dict__:
+            try:
+                m.plugin_loaded()
+            except:
+                traceback.print_exc()
+
+        # Synthesize any required on_activated calls
+        for el in on_activated_targets:
+            w = sublime.active_window()
+            if w:
+                v = w.active_view()
+                if v:
+                    try:
+                        el.on_activated(v)
+                    except:
+                        traceback.print_exc()
+
 def create_application_commands():
     cmds = []
     for class_ in application_command_classes:
         cmds.append(class_())
-    return cmds
+    sublime_api.notify_application_commands(cmds)
 
-def create_window_commands(window):
+def create_window_commands(window_id):
+    window = sublime.Window(window_id)
     cmds = []
     for class_ in window_command_classes:
         cmds.append(class_(window))
     return cmds
 
-def create_text_commands(view):
+def create_text_commands(view_id):
+    view = sublime.View(view_id)
     cmds = []
     for class_ in text_command_classes:
         cmds.append(class_(view))
     return cmds
 
-EVENT_TIMEOUT = 0.2
-FAST_EVENT_TIMEOUT = 1 / 60.0
+def on_api_ready():
+    global api_ready
+    api_ready = True
 
-first_time_msgs = set()
-msgs = set()
+    for m in list(sys.modules.values()):
+        if "plugin_loaded" in m.__dict__:
+            try:
+                m.plugin_loaded()
+            except:
+                traceback.print_exc()
 
-def show_timeout(plugin_name, elapsed, callback):
-    global first_time_msgs
-    global msgs
+    # Synthesize an on_activated call
+    w = sublime.active_window()
+    if w:
+        view_id = sublime_api.window_active_view(w.window_id)
+        if view_id != 0:
+            try:
+                on_activated(view_id)
+            except:
+                traceback.print_exc()
 
-    key = plugin_name + callback
-    msg = ("A plugin (%s) may be making Sublime Text unresponsive by taking too " +
-        "long (%fs) in its %s callback.\n\nThis message can be disabled via the " +
-        "detect_slow_plugins setting") % (plugin_name, elapsed, callback)
+def on_new(view_id):
+    v = sublime.View(view_id)
+    for callback in all_callbacks['on_new']:
+        try:
+            callback.on_new(v)
+        except:
+            traceback.print_exc()
 
-    # Give plugins one chance to respond slowly, to handle any initialisation issues etc.
-    # This allowance may be removed in the future due to startup time concerns
-    if not key in first_time_msgs:
-        first_time_msgs.add(key)
-        return
+def on_new_async(view_id):
+    v = sublime.View(view_id)
+    for callback in all_callbacks['on_new_async']:
+        try:
+            callback.on_new_async(v)
+        except:
+            traceback.print_exc()
 
-    if not key in msgs:
-        msgs.add(key)
-        if sublime.load_settings('Preferences.sublime-settings').get('detect_slow_plugins', True):
-            sublime.error_message(msg)
+def on_clone(view_id):
+    v = sublime.View(view_id)
+    for callback in all_callbacks['on_clone']:
+        try:
+            callback.on_clone(v)
+        except:
+            traceback.print_exc()
 
-blocking_api_call_count = 0
-def on_blocking_api_call():
-    global blocking_api_call_count
-    blocking_api_call_count += 1
+def on_clone_async(view_id):
+    v = sublime.View(view_id)
+    for callback in all_callbacks['on_clone_async']:
+        try:
+            callback.on_clone_async(v)
+        except:
+            traceback.print_exc()
 
-def run_timed_function(f, name, event_name, timeout):
-    global blocking_api_call_count
+class Summary(object):
+    def __init__(self):
+        self.max = 0.0
+        self.sum = 0.0
+        self.count = 0
 
+    def record(self, x):
+        self.count += 1
+        self.sum += x
+        self.max = max(self.max, x)
+
+    def __str__(self):
+        if self.count > 1:
+            return "{0:.3f}s total, mean: {1:.3f}s, max: {2:.3f}s".format(self.sum, self.sum / self.count, self.max)
+        elif self.count == 1:
+            return "{0:.3f}s total".format(self.sum)
+        else:
+            return "0s total"
+
+def run_callback(event, callback, expr):
     t0 = time.time()
-    blocking_count = blocking_api_call_count
-    ret = f()
+
+    try:
+        expr()
+    except:
+        traceback.print_exc()
+
     elapsed = time.time() - t0
 
-    if elapsed > timeout and blocking_api_call_count == blocking_count:
-        show_timeout(name, elapsed, event_name)
+    if event not in profile:
+        profile[event] = {}
 
-    return ret
+    p = profile[event]
 
-def on_new(v):
-    for callback in all_callbacks['on_new']:
-        run_timed_function(lambda: callback.on_new(v),
-            callback.__module__, "on_new", EVENT_TIMEOUT)
+    name = callback.__module__
+    if name not in p:
+        p[name] = Summary()
 
-def on_clone(v):
-    for callback in all_callbacks['on_clone']:
-        run_timed_function(lambda: callback.on_clone(v),
-            callback.__module__, "on_clone", EVENT_TIMEOUT)
+    p[name].record(elapsed)
 
-def on_load(v):
+def on_load(view_id):
+    v = sublime.View(view_id)
+
     for callback in all_callbacks['on_load']:
-        run_timed_function(lambda: callback.on_load(v),
-            callback.__module__, "on_load", EVENT_TIMEOUT)
+        run_callback('on_load', callback, lambda: callback.on_load(v))
 
-def on_close(v):
+def on_load_async(view_id):
+    v = sublime.View(view_id)
+    for callback in all_callbacks['on_load_async']:
+        try:
+            callback.on_load_async(v)
+        except:
+            traceback.print_exc()
+
+def on_pre_close(view_id):
+    v = sublime.View(view_id)
+    for callback in all_callbacks['on_pre_close']:
+        run_callback('on_pre_close', callback, lambda: callback.on_pre_close(v))
+
+def on_close(view_id):
+    v = sublime.View(view_id)
     for callback in all_callbacks['on_close']:
-        run_timed_function(lambda: callback.on_close(v),
-            callback.__module__, "on_close", EVENT_TIMEOUT)
+        run_callback('on_close', callback, lambda: callback.on_close(v))
 
-def on_pre_save(v):
+def on_pre_save(view_id):
+    v = sublime.View(view_id)
     for callback in all_callbacks['on_pre_save']:
-        run_timed_function(lambda: callback.on_pre_save(v),
-            callback.__module__, "on_pre_save", EVENT_TIMEOUT)
+        run_callback('on_pre_save', callback, lambda: callback.on_pre_save(v))
 
-def on_post_save(v):
+def on_pre_save_async(view_id):
+    v = sublime.View(view_id)
+    for callback in all_callbacks['on_pre_save_async']:
+        try:
+            callback.on_pre_save_async(v)
+        except:
+            traceback.print_exc()
+
+def on_post_save(view_id):
+    v = sublime.View(view_id)
     for callback in all_callbacks['on_post_save']:
-        run_timed_function(lambda: callback.on_post_save(v),
-            callback.__module__, "on_post_save", EVENT_TIMEOUT)
+        run_callback('on_post_save', callback, lambda: callback.on_post_save(v))
 
-def on_modified(v):
+def on_post_save_async(view_id):
+    v = sublime.View(view_id)
+    for callback in all_callbacks['on_post_save_async']:
+        try:
+            callback.on_post_save_async(v)
+        except:
+            traceback.print_exc()
+
+def on_modified(view_id):
+    v = sublime.View(view_id)
     for callback in all_callbacks['on_modified']:
-        run_timed_function(lambda: callback.on_modified(v),
-            callback.__module__, "on_modified", FAST_EVENT_TIMEOUT)
+        run_callback('on_modified', callback, lambda: callback.on_modified(v))
 
-def on_selection_modified(v):
+def on_modified_async(view_id):
+    v = sublime.View(view_id)
+    for callback in all_callbacks['on_modified_async']:
+        try:
+            callback.on_modified_async(v)
+        except:
+            traceback.print_exc()
+
+def on_selection_modified(view_id):
+    v = sublime.View(view_id)
     for callback in all_callbacks['on_selection_modified']:
-        run_timed_function(lambda: callback.on_selection_modified(v),
-            callback.__module__, "on_selection_modified", FAST_EVENT_TIMEOUT)
+        run_callback('on_selection_modified', callback, lambda: callback.on_selection_modified(v))
 
-def on_activated(v):
+def on_selection_modified_async(view_id):
+    v = sublime.View(view_id)
+    for callback in all_callbacks['on_selection_modified_async']:
+        try:
+            callback.on_selection_modified_async(v)
+        except:
+            traceback.print_exc()
+
+def on_activated(view_id):
+    v = sublime.View(view_id)
     for callback in all_callbacks['on_activated']:
-        run_timed_function(lambda: callback.on_activated(v),
-            callback.__module__, "on_activated", EVENT_TIMEOUT)
+        run_callback('on_activated', callback, lambda: callback.on_activated(v))
 
-def on_deactivated(v):
+def on_activated_async(view_id):
+    v = sublime.View(view_id)
+    for callback in all_callbacks['on_activated_async']:
+        try:
+            callback.on_activated_async(v)
+        except:
+            traceback.print_exc()
+
+def on_deactivated(view_id):
+    v = sublime.View(view_id)
     for callback in all_callbacks['on_deactivated']:
-        run_timed_function(lambda: callback.on_deactivated(v),
-            callback.__module__, "on_deactivated", EVENT_TIMEOUT)
+        run_callback('on_deactivated', callback, lambda: callback.on_deactivated(v))
 
-def on_project_load(v):
-    for callback in all_callbacks['on_project_load']:
-        run_timed_function(lambda: callback.on_project_load(v),
-            callback.__module__, "on_project_load", EVENT_TIMEOUT)
+def on_deactivated_async(view_id):
+    v = sublime.View(view_id)
+    for callback in all_callbacks['on_deactivated_async']:
+        try:
+            callback.on_deactivated_async(v)
+        except:
+            traceback.print_exc()
 
-def on_project_close(v):
-    for callback in all_callbacks['on_project_close']:
-        run_timed_function(lambda: callback.on_project_close(v),
-            callback.__module__, "on_project_close", EVENT_TIMEOUT)
-
-def on_query_context(v, key, operator, operand, match_all):
+def on_query_context(view_id, key, operator, operand, match_all):
+    v = sublime.View(view_id)
     for callback in all_callbacks['on_query_context']:
-        val = run_timed_function(lambda: callback.on_query_context(v, key, operator, operand, match_all),
-            callback.__module__, "on_query_context", FAST_EVENT_TIMEOUT)
-
-        if val:
-            return True
+        try:
+            val = callback.on_query_context(v, key, operator, operand, match_all)
+            if val:
+                return True
+        except:
+            traceback.print_exc()
 
     return False
 
-def on_query_completions(v, prefix, locations):
+def normalise_completion(c):
+    if len(c) == 1:
+        return (c[0], "", "")
+    elif len(c) == 2:
+        return (c[0], "", c[1])
+    else:
+        return c
+
+def on_query_completions(view_id, prefix, locations):
+    v = sublime.View(view_id)
+
     completions = []
     flags = 0
     for callback in all_callbacks['on_query_completions']:
-        res = callback.on_query_completions(v, prefix, locations)
+        try:
+            res = callback.on_query_completions(v, prefix, locations)
 
-        if isinstance(res, tuple):
-            completions += res[0]
-            flags |= res[1]
-        elif isinstance(res, list):
-            completions += res
+            if isinstance(res, tuple):
+                completions += [normalise_completion(c) for c in res[0]]
+                flags |= res[1]
+            elif isinstance(res, list):
+                completions += [normalise_completion(c) for c in res]
+        except:
+            traceback.print_exc()
 
     return (completions,flags)
+
+def on_text_command(view_id, name, args):
+    v = sublime.View(view_id)
+    for callback in all_callbacks['on_text_command']:
+        try:
+            res = callback.on_text_command(v, name, args)
+            if isinstance(res, tuple):
+                return res
+            elif res:
+                return (res, None)
+        except:
+            traceback.print_exc()
+
+    return ("", None)
+
+def on_window_command(window_id, name, args):
+    window = sublime.Window(window_id)
+    for callback in all_callbacks['on_window_command']:
+        try:
+            res = callback.on_window_command(window, name, args)
+            if isinstance(res, tuple):
+                return res
+            elif res:
+                return (res, None)
+        except:
+            traceback.print_exc()
+
+    return ("", None)
+
+def on_post_text_command(view_id, name, args):
+    v = sublime.View(view_id)
+    for callback in all_callbacks['on_post_text_command']:
+        try:
+            callback.on_post_text_command(v, name, args)
+        except:
+            traceback.print_exc()
+
+def on_post_window_command(window_id, name, args):
+    window = sublime.Window(window_id)
+    for callback in all_callbacks['on_post_window_command']:
+        try:
+            callback.on_post_window_command(window, name, args)
+        except:
+            traceback.print_exc()
+
 
 class Command(object):
     def name(self):
@@ -260,63 +448,91 @@ class Command(object):
         return name
 
     def is_enabled_(self, args):
+        ret = None
         try:
+            args = self.filter_args(args)
             if args:
-                if 'event' in args:
-                    del args['event']
-
-                return self.is_enabled(**args)
+                ret = self.is_enabled(**args)
             else:
-                return self.is_enabled()
+                ret = self.is_enabled()
         except TypeError:
-            return self.is_enabled()
+            ret = self.is_enabled()
+
+        if not isinstance(ret, bool):
+            raise ValueError("is_enabled must return a bool", self)
+
+        return ret
 
     def is_enabled(self):
         return True
 
     def is_visible_(self, args):
+        ret = None
         try:
+            args = self.filter_args(args)
             if args:
-                return self.is_visible(**args)
+                ret = self.is_visible(**args)
             else:
-                return self.is_visible()
+                ret = self.is_visible()
         except TypeError:
-            return self.is_visible()
+            ret = self.is_visible()
+
+        if not isinstance(ret, bool):
+            raise ValueError("is_visible must return a bool", self)
+
+        return ret
 
     def is_visible(self):
         return True
 
     def is_checked_(self, args):
+        ret = None
         try:
+            args = self.filter_args(args)
             if args:
-                return self.is_checked(**args)
+                ret = self.is_checked(**args)
             else:
-                return self.is_checked()
+                ret = self.is_checked()
         except TypeError:
-            return self.is_checked()
+            ret = self.is_checked()
+
+        if not isinstance(ret, bool):
+            raise ValueError("is_checked must return a bool", self)
+
+        return ret
 
     def is_checked(self):
         return False
 
     def description_(self, args):
         try:
-            if args:
+            args = self.filter_args(args)
+            if args != None:
                 return self.description(**args)
             else:
                 return self.description()
         except TypeError as e:
-            return None
+            return ""
 
     def description(self):
-        return None
+        return ""
+
+    def filter_args(self, args):
+        if args:
+            if 'event' in args and not self.want_event():
+                args = args.copy()
+                del args['event']
+
+        return args
+
+    def want_event(self):
+        return False
 
 
 class ApplicationCommand(Command):
-    def run_(self, args):
+    def run_(self, edit_token, args):
+        args = self.filter_args(args)
         if args:
-            if 'event' in args:
-                del args['event']
-
             return self.run(**args)
         else:
             return self.run()
@@ -329,11 +545,9 @@ class WindowCommand(Command):
     def __init__(self, window):
         self.window = window
 
-    def run_(self, args):
+    def run_(self, edit_token, args):
+        args = self.filter_args(args)
         if args:
-            if 'event' in args:
-                del args['event']
-
             return self.run(**args)
         else:
             return self.run()
@@ -346,18 +560,16 @@ class TextCommand(Command):
     def __init__(self, view):
         self.view = view
 
-    def run_(self, args):
+    def run_(self, edit_token, args):
+        args = self.filter_args(args)
         if args:
-            if 'event' in args:
-                del args['event']
-
-            edit = self.view.begin_edit(self.name(), args)
+            edit = self.view.begin_edit(edit_token, self.name(), args)
             try:
                 return self.run(edit, **args)
             finally:
                 self.view.end_edit(edit)
         else:
-            edit = self.view.begin_edit(self.name())
+            edit = self.view.begin_edit(edit_token, self.name())
             try:
                 return self.run(edit)
             finally:
@@ -369,3 +581,134 @@ class TextCommand(Command):
 
 class EventListener(object):
     pass
+
+
+class MultizipImporter(object):
+    def __init__(self):
+        self.loaders = []
+        self.file_loaders = []
+
+    def find_module(self, fullname, path = None):
+        if not path:
+            for l in self.loaders:
+                if l.name == fullname:
+                    return l
+
+        for l in self.loaders:
+            if path == [l.zippath]:
+                if l.has(fullname):
+                    return l
+
+        return None
+
+
+class ZipLoader(object):
+    def __init__(self, zippath):
+        self.zippath = zippath
+        self.name = os.path.splitext(os.path.basename(zippath))[0]
+
+        self.contents = {"":""}
+        self.packages = {""}
+
+        z = zipfile.ZipFile(zippath, 'r')
+        files = [i.filename for i in z.infolist()]
+
+        for f in files:
+            base, ext = os.path.splitext(f)
+            if ext != ".py":
+                continue
+
+            paths = base.split('/')
+            if len(paths) > 0 and paths[len(paths) - 1] == "__init__":
+                paths.pop()
+                self.packages.add('.'.join(paths))
+
+            try:
+                self.contents['.'.join(paths)] = z.read(f).decode('utf-8')
+            except UnicodeDecodeError:
+                print(f, "in", zippath, "is not utf-8 encoded, unable to load plugin")
+                continue
+
+            while len(paths) > 1:
+                paths.pop()
+                parent = '.'.join(paths)
+                if parent not in self.contents:
+                    self.contents[parent] = ""
+                    self.packages.add(parent)
+
+        z.close()
+
+    def has(self, fullname):
+        key = '.'.join(fullname.split('.')[1:])
+        if key in self.contents:
+            return True
+
+        override_file = os.path.join(override_path, os.sep.join(fullname.split('.')) + '.py')
+        if os.path.isfile(override_file):
+            return True
+
+        override_package = os.path.join(override_path, os.sep.join(fullname.split('.')))
+        if os.path.isdir(override_package):
+            return True
+
+        return False
+
+    def load_module(self, fullname):
+        if fullname in sys.modules:
+            mod = sys.modules[fullname]
+        else:
+            mod = sys.modules.setdefault(fullname, imp.new_module(fullname))
+
+        mod.__file__ = self.zippath + "/" + fullname
+        mod.__name__ = fullname
+        mod.__path__ = [self.zippath]
+        mod.__loader__ = self
+
+        key = '.'.join(fullname.split('.')[1:])
+
+        if key in self.contents:
+            source = self.contents[key]
+            source_path = key + " in " + self.zippath
+
+        is_pkg = key in self.packages
+
+        try:
+            override_file = os.path.join(override_path, os.sep.join(fullname.split('.')) + '.py')
+            override_package_init = os.path.join(os.path.join(override_path, os.sep.join(fullname.split('.'))), '__init__.py')
+
+            if os.path.isfile(override_file):
+                with open(override_file, 'r') as f:
+                    source = f.read()
+                    source_path = override_file
+            elif os.path.isfile(override_package_init):
+                with open(override_package_init, 'r') as f:
+                    source = f.read()
+                    source_path = override_package_init
+                    is_pkg = True
+        except:
+            pass
+
+        if is_pkg:
+            mod.__package__ = mod.__name__
+        else:
+            mod.__package__ = fullname.rpartition('.')[0]
+
+        exec(compile(source, source_path, 'exec'), mod.__dict__)
+        return mod
+
+
+override_path = None
+multi_importer = MultizipImporter()
+sys.meta_path.insert(0, multi_importer)
+
+def update_compressed_packages(pkgs):
+    multi_importer.loaders = []
+    for p in pkgs:
+        try:
+            multi_importer.loaders.append(ZipLoader(p))
+        except (FileNotFoundError, zipfile.BadZipFile) as e:
+            print("error loading " + p + ": " + str(e))
+
+def set_override_path(path):
+    global override_path
+    override_path = path
