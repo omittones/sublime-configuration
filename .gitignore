@@ -1,6 +1,7 @@
-/Data/Packages/User/Package Control.last-run
-/Data/Backup
-/Data/Settings
-/Data/Pristine Packages
-/Data/Packages/*/*.cache
 *.pyc
+/Data/Cache
+/Data/Local
+/Data/Index
+/Data/Packages/User/Package Control.cache/
+/Data/Packages/*.sublime-workspace
+*.cache
