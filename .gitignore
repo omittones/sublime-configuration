@@ -1,6 +1,5 @@
 *.pyc
 /Data/Cache
-/Data/Local
 /Data/Index
 /Data/Packages/User/Package Control.cache/
 /Data/Packages/*.sublime-workspace
