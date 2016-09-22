@@ -4900,9 +4900,35 @@
 		"recent_workspaces":
 		[
 			"/D/Code/neogov/personal/neogov.platform.sublime-workspace",
-			"/D/Code/bosnjak/csv-editor/csv-editor.sublime-workspace",
+			"/D/Code/angular-taiga-front/angular-taiga-front.sublime-workspace",
+			"/D/Code/angular-test/angular-test.sublime-workspace",
 			"/D/Code/booking/Booking.sublime-workspace",
-			"/D/Code/seed-gulp-ts/seed-gulp-ts.sublime-workspace"
+			"/D/Code/bosnjak/csv-editor/csv-editor.sublime-workspace",
+			"/D/Code/chrome-command-palette/chrome-command-palette.sublime-workspace",
+			"/D/Code/cpp-test-libs/main/code.sublime-workspace",
+			"/D/Code/cs-example-ddd-frontdesk/FrontDeskSolution/frondesk.sublime-workspace",
+			"/D/Code/cs-example-nopcommerce/nopcommerce.sublime-workspace",
+			"/D/Code/cs-lib-inheritbdd-xunit/inheritbdd-xunit.sublime-workspace",
+			"/D/Code/cs-lib-security-framework/cs-lib-security-framework.sublime-workspace",
+			"/D/Code/cs-sample-zoo/cs-sample-zoo.sublime-workspace",
+			"/D/Code/cs-test-mvc/cs-test-mvc.sublime-workspace",
+			"/D/Code/Inetpub/wwwroot/Ego_Radna/Ego.sublime-workspace",
+			"/D/Code/jog-tracker/jog-tracker.sublime-workspace",
+			"/D/Code/js-node-visualstudio/js-node-visualstudio.sublime-workspace",
+			"/D/Code/neogov/online/src/GJobs/UITests/node_modules/wd-parallel/node_modules/wd-sync/node_modules/wd/node_modules/request/node_modules/form-data/node-form-data.sublime-workspace",
+			"/D/Code/neogov/personal/code/Contacts/Contacts.sublime-workspace",
+			"/D/Code/neogov/personal/entityframework.sublime-workspace",
+			"/D/Code/neogov/personal/neogov.all.sublime-workspace",
+			"/D/Code/neogov/personal/neogov.corehr.sublime-workspace",
+			"/D/Code/neogov/personal/neogov.sublime-workspace",
+			"/D/Code/python-test/python.sublime-workspace",
+			"/D/Code/seed-gulp-ts/seed-gulp-ts.sublime-workspace",
+			"/D/DotNet/_Private/Educ.Codility/codility.sublime-workspace",
+			"/D/DotNet/_Private/private.sublime-workspace",
+			"/D/DotNet/Prijevoznik/_KOD_/Prijevoznik/prijevoznik.sublime-workspace",
+			"/D/DotNet/Python/project.sublime-workspace",
+			"/D/UserData/SublimeText2.0/Data/Packages/PowerShell/PowerShell.sublime-workspace",
+			"/D/UserData/SublimeText3.0/Data/Packages/packages.sublime-workspace"
 		]
 	}
 }
