@@ -2,7 +2,7 @@
 	"folder_history":
 	[
 	],
-	"last_version": 3124,
+	"last_version": 3126,
 	"last_window_id": 4,
 	"log_indexing": false,
 	"settings":
@@ -3498,6 +3498,26 @@
 			],
 			"file_history":
 			[
+				"/D/UserData/SublimeText3.0/.git",
+				"/D/UserData/SublimeText3.0/.gitignore",
+				"/D/DotNet/_Private/_PowerShells/7z.bat",
+				"/D/Dropbox/Private/Certificates/augustin.juricic@gmail.com.pub",
+				"/D/Code/neogov/platform/src/WebApp/Scripts/angular/shared/BusinessWidgets/Components/Content/Flyouts/Content-AddEditItemFlyout.ts",
+				"/D/Code/neogov/platform/src/WebApp/Scripts/framework/Watts.config.json",
+				"/D/Code/neogov/platform/src/WebApp/Scripts/Areas/Evaluation/Content/Directives/Evaluation-Content-SectionItemList.js",
+				"/D/Code/neogov/platform/src/WebApp/Content/CompiledTypescript/framework/services/flyout-caller-service.js",
+				"/D/Code/neogov/platform/src/WebApp/Scripts/framework/services/flyout-caller-service.ts",
+				"/D/Code/neogov/platform/src/WebApp/Scripts/Areas/Evaluation/AddEditGoal/Templates/Evaluation-Goal-Task-Detail.cshtml",
+				"/D/Code/neogov/platform/src/WebApp/Scripts/Areas/Evaluation/AddEditGoal/Directives/goal-task-detail.ts",
+				"/D/Code/neogov/platform/src/WebApp/Scripts/Areas/Evaluation/Content/Directives/Evaluation-Content-EvaluationContentSection-Details.cshtml",
+				"/D/Code/neogov/platform/src/WebApp/Scripts/Areas/Evaluation/Content/Editors/Evaluation-Content-EvaluationDetailsContentSectionEditor.js",
+				"/D/Code/neogov/platform/src/WebApp/Scripts/Areas/Evaluation/Content/Directives/Evaluation-Content-EvaluationContentSection-Details.js",
+				"/D/Code/neogov/platform/src/PerformModules/Perform.GoalManagement.Infrastructure/Repositories/GoalRepository.cs",
+				"/D/Code/neogov/platform/src/WebApp/App_Start/BundleConfig.cs",
+				"/D/Code/neogov/platform/src/WebApp/Scripts/angular/shared/BusinessWidgets/Components/Content/pe-content-section-item-picker.ts",
+				"/D/Code/neogov/platform/src/WebApp/APIs/Employee/Controllers/EmployeeController.cs",
+				"/D/Code/neogov/platform/src/WebApp/Scripts/framework/components/flyout/goal-add-edit-flyout.ts",
+				"/D/Code/neogov/platform/src/WebApp/Scripts/framework/widgets/goal/goal-add-edit.cshtml",
 				"/D/UserData/SublimeText3.0/Data/Local/Session.sublime_session",
 				"/D/Code/neogov/platform/mig-qa.config",
 				"/D/Code/seed-gulp-ts/node_modules/@types/node/index.d.ts",
@@ -3587,7 +3607,6 @@
 				"/D/Code/neogov/platform/src/WebApp/ConfigurationFiles/appSettings.config",
 				"/D/Code/neogov/platform/databases/neogovpe/01_scripts/0207-PF-16183/01_Create_Table_EmployeeInfo.sql",
 				"/D/Code/neogov/platform/src/PerformModules/Perform.Common.Core/Enums/EvaluationStatus.cs",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/angular/shared/BusinessWidgets/Components/Content/pe-content-section-item-picker.ts",
 				"/D/Code/neogov/platform/src/PerformModules/Perform.Common.Core/DomainEvents/GoalChangedEvent.cs",
 				"/D/Code/neogov/platform/src/WebApp/Content/CompiledTypescript/framework/endpoints/Endpoints.js",
 				"/D/Code/neogov/platform/databases/neogovpe/04_stored_procedures/dbo.Employees_Insert.StoredProcedure.sql",
@@ -3606,36 +3625,19 @@
 				"/D/Code/neogov/platform/src/WebApp/Scripts/angular/shared/BusinessWidgets/Controllers/Flyouts/viewProcessSectionFlyoutController.ts",
 				"/D/Code/neogov/platform/src/WebApp/Scripts/angular/shared/BusinessWidgets/Controllers/Flyouts/Add-FromProcessLibraryController.ts",
 				"/D/Code/neogov/platform/src/WebApp/Content/CompiledTypescript/angular/shared/BusinessWidgets/Controllers/Flyouts/ViewProcessSectionFlyoutController.js",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/CustomObjects/WorkflowAPIAction.js",
-				"/D/Code/neogov/platform/src/WebApp/Content/CompiledTypescript/angular/shared/BusinessWidgets/Controllers/Flyouts/Add-FromProcessLibraryController.js",
-				"/D/Code/neogov/platform/src/WebApp/App_Start/BundleConfig.cs",
-				"/D/Code/bosnjak/csv-editor/build_Debug.ps1",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/Areas/EvaluationProgram/People/Services/EvaluationProgram-People-ApiUrlService.js",
-				"/D/Code/neogov/platform/databases/neogovpe/04_stored_procedures/dbo.EvaluationWorkflowStageReviewers_Select_ByReviewerID.StoredProcedure.sql",
-				"/D/Code/neogov/platform/databases/neogovpe/04_stored_procedures/dbo.EmployeeEvaluationSections_Select_ByEmployeeEvaluationID.StoredProcedure.sql",
-				"/D/Code/neogov/platform/databases/neogovpe/01_scripts/0199-PF-17074/001-AddColumns.sql",
-				"/D/Code/neogov/platform/src/WebApp/WebApp.csproj",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/Areas/Reports/PerformanceRating/Chart/IPerformanceRatingReportChartView.ts",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/framework/models/IPerformanceRatingReportChartView.ts",
-				"/D/Code/neogov/platform/mig.config",
-				"/D/Code/neogov/platform/databases/neogovpe/04_stored_procedures/dbo.EmployeeEvaluationCreationQueue_FetchAndReserve.sql",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/Areas/Reports/PerformanceRating/controller.ts",
-				"/D/Code/bosnjak/csv-editor/csv-editor.sublime-project",
-				"/D/Code/neogov/personal/neogov.sublime-project",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor.sln",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/Areas/Reports/PerformanceRating/service.ts",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.Readonly.Core/Views/PerformanceRatingReportChartView.cs",
-				"/D/Code/bosnjak/csv-editor/.gitignore"
+				"/D/Code/neogov/platform/src/WebApp/Scripts/CustomObjects/WorkflowAPIAction.js"
 			],
 			"find":
 			{
-				"height": 47.0
+				"height": 80.0
 			},
 			"find_in_files":
 			{
 				"height": 220.0,
 				"where_history":
 				[
+					"*.ts, *.js, *.cshtml",
+					"*.cshtml",
 					"*.resx",
 					"*.cshtml,*.html, *.js",
 					"*.cshtml,*.html",
@@ -3761,8 +3763,6 @@
 					"D:\\Code\\neogov\\platform,*.cs",
 					"D:\\Code\\neogov\\platform,*.sln",
 					"D:\\Code\\neogov\\platform,*.sql,*.cs",
-					"D:\\Code\\neogov\\platform,*.sql",
-					"D:\\Code\\neogov\\platform,*.cs",
 					"D:\\Code\\neogov\\platform,*.sql"
 				]
 			},
@@ -3771,6 +3771,19 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"IAddEditFlyoutModel",
+					"openGoalAddEditFlyout",
+					"sectionItemList",
+					"revealAddIndividualItem",
+					"evaluation-details-content-section-editor",
+					"revealAddIndividualItem",
+					"contentNewItemService",
+					"busin",
+					"edit",
+					"revamped",
+					"GoalAddEditController",
+					"extensionFields",
+					"GoalAddEditController",
 					"\\",
 					"D:\\",
 					"sublime-project",
@@ -3885,20 +3898,7 @@
 					"assets/vendor",
 					"\"Scripts",
 					"\"scripts",
-					"scripts",
-					"2016-04-0",
-					"2015-01-01",
-					"15-01-01",
-					"CreateDateTime",
-					"ource=.;I",
-					"Lookup",
-					"InsertUpdateChecklistItem",
-					"activatio",
-					"IsActive",
-					"VisibleEmployees",
-					"EmployeeInfo",
-					"istempl",
-					"fn_GetUTCDatetime_AsDate"
+					"scripts"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -4080,7 +4080,7 @@
 				"height": 100.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,1642,305,305,1937",
+			"position": "0,2,3,-1,-1,-1,-1,1644,306,306,1939",
 			"project": "neogov.platform.sublime-project",
 			"replace":
 			{
@@ -4093,6 +4093,30 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"evaluationcontensecidetalis",
+						"platform\\src\\WebApp\\Scripts\\Areas\\Evaluation\\Content\\Directives\\Evaluation-Content-EvaluationContentSection-Details.js"
+					],
+					[
+						"evaluationgoaltaskdetail",
+						"platform\\src\\WebApp\\Scripts\\Areas\\Evaluation\\AddEditGoal\\Directives\\goal-task-detail.ts"
+					],
+					[
+						"goalrepo",
+						"platform\\src\\PerformModules\\Perform.GoalManagement.Infrastructure\\Repositories\\GoalRepository.cs"
+					],
+					[
+						"budnlecon",
+						"platform\\src\\WebApp\\App_Start\\BundleConfig.cs"
+					],
+					[
+						"bundleconfi",
+						"platform\\src\\WebApp\\App_Start\\BundleConfig.cs"
+					],
+					[
+						"employeecontro",
+						"platform\\src\\WebApp\\APIs\\Employee\\Controllers\\EmployeeController.cs"
+					],
 					[
 						"employeegoalq",
 						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\Queries\\Administrative\\EmployeeGoalQuery.cs"
@@ -4580,30 +4604,6 @@
 					[
 						"apitag",
 						"platform\\src\\WebApp\\scripts\\angular\\shared\\SharedServices\\Models\\ITagView.ts"
-					],
-					[
-						"xemployeejour",
-						"platform\\databases\\neogovpe\\01_scripts\\0207-PF-17077\\0001-Create-xEmployeeJournals_Employees-table.sql"
-					],
-					[
-						"neogovpejo",
-						"platform\\src\\Neogov.PE.Jobs\\Neogov.PE.Jobs.csproj"
-					],
-					[
-						"employeecontrol",
-						"platform\\src\\WebApp\\APIs\\Employee\\Controllers\\EmployeeController.cs"
-					],
-					[
-						"employeelook",
-						"platform\\src\\PerformModules\\Perform.Readonly.Core\\Views\\EmployeeLookupView.cs"
-					],
-					[
-						"storagestt",
-						"platform\\src\\WebApp\\ConfigurationFiles\\storageSettings.config"
-					],
-					[
-						"peconfi",
-						"platform\\src\\WebApp\\Common\\PEConfiguration.cs"
 					]
 				],
 				"width": 0.0
@@ -4611,9 +4611,17 @@
 			"select_project":
 			{
 				"height": 1250.0,
-				"last_filter": "",
+				"last_filter": "csvd",
 				"selected_items":
 				[
+					[
+						"csvd",
+						"D:\\Code\\bosnjak\\csv-editor\\csv-editor.sublime-project"
+					],
+					[
+						"seed",
+						"D:\\Code\\seed-gulp-ts\\seed-gulp-ts.sublime-project"
+					],
 					[
 						"see",
 						"D:\\Code\\seed-gulp-ts\\seed-gulp-ts.sublime-project"
@@ -4625,10 +4633,6 @@
 					[
 						"cs",
 						"D:\\Code\\bosnjak\\csv-editor\\csv-editor.sublime-project"
-					],
-					[
-						"seed",
-						"D:\\Code\\seed-gulp-ts\\seed-gulp-ts.sublime-project"
 					],
 					[
 						"csv",
@@ -4900,10 +4904,11 @@
 		"recent_workspaces":
 		[
 			"/D/Code/neogov/personal/neogov.platform.sublime-workspace",
+			"/D/Code/bosnjak/csv-editor/csv-editor.sublime-workspace",
+			"/D/Code/seed-gulp-ts/seed-gulp-ts.sublime-workspace",
 			"/D/Code/angular-taiga-front/angular-taiga-front.sublime-workspace",
 			"/D/Code/angular-test/angular-test.sublime-workspace",
 			"/D/Code/booking/Booking.sublime-workspace",
-			"/D/Code/bosnjak/csv-editor/csv-editor.sublime-workspace",
 			"/D/Code/chrome-command-palette/chrome-command-palette.sublime-workspace",
 			"/D/Code/cpp-test-libs/main/code.sublime-workspace",
 			"/D/Code/cs-example-ddd-frontdesk/FrontDeskSolution/frondesk.sublime-workspace",
@@ -4922,7 +4927,6 @@
 			"/D/Code/neogov/personal/neogov.corehr.sublime-workspace",
 			"/D/Code/neogov/personal/neogov.sublime-workspace",
 			"/D/Code/python-test/python.sublime-workspace",
-			"/D/Code/seed-gulp-ts/seed-gulp-ts.sublime-workspace",
 			"/D/DotNet/_Private/Educ.Codility/codility.sublime-workspace",
 			"/D/DotNet/_Private/private.sublime-workspace",
 			"/D/DotNet/Prijevoznik/_KOD_/Prijevoznik/prijevoznik.sublime-workspace",
