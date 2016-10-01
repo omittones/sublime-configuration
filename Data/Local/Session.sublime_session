@@ -1,13 +1,14 @@
 {
 	"folder_history":
 	[
+		"/D/Code/gulp-asar"
 	],
 	"last_version": 3126,
-	"last_window_id": 4,
+	"last_window_id": 15,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 1200.0,
+		"new_window_height": 1201.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -15,516 +16,148 @@
 				"selected_items":
 				[
 					[
-						"gro",
-						"groupBox4"
+						"recent",
+						"recentBallance\tlet"
 					],
 					[
-						"o",
-						"OIB"
+						"dur",
+						"Duration\tinterface"
 					],
 					[
-						"mast",
-						"masterKey"
-					],
-					[
-						"De",
-						"Debug"
-					],
-					[
-						"confi",
-						"configurationData\tparameter"
-					],
-					[
-						"curr",
-						"currentEmployeeMatchesQuery\tlocal var"
-					],
-					[
-						"Create",
-						"CreateNotificationDataMap"
-					],
-					[
-						"Ratings",
-						"RatingScaleLevel"
-					],
-					[
-						"Assi",
-						"AssigneeID"
+						"pro",
+						"port\tproperty"
 					],
 					[
 						"st",
-						"styleUrl"
+						"statusMessage\tproperty"
 					],
 					[
-						"Emplo",
-						"EmployeeID"
+						"htt",
+						"HttpResponseCallback\ttype"
 					],
 					[
-						"X",
-						"xUsers_SecurityProfile"
+						"sta",
+						"startsWith\tmethod"
 					],
 					[
-						"user",
-						"UserId"
+						"Ihttp",
+						"IHttpBackendService\tinterface"
 					],
 					[
-						"xe",
-						"xUsers_SecurityProfile"
+						"wi",
+						"withCredentials\tparameter"
 					],
 					[
-						"emplo",
-						"EmployerID"
-					],
-					[
-						"Cr",
-						"CurrentManagerId"
-					],
-					[
-						"Repo",
-						"ReportingToEmployeeID"
-					],
-					[
-						"Old",
-						"OldManagerEmployeeID"
-					],
-					[
-						"Mana",
-						"ManagerProfileId"
-					],
-					[
-						"Activ",
-						"ActiveEvaluationFilterMode\tenum"
+						"$http",
+						"$httpBackend\tvar"
 					],
 					[
 						"req",
-						"request"
+						"RequestAPI\tinterface"
 					],
 					[
-						"Ne",
-						"NEW_TaskStatus"
+						"drop",
+						"DropletResponse\tinterface"
 					],
 					[
-						"task",
-						"taskModel"
+						"ca",
+						"CallbackAny\ttype"
 					],
 					[
-						"eval",
-						"evaluationId"
+						"mine",
+						"MinerFileRespone\ttype"
 					],
 					[
-						"cons",
-						"constructor\tkeyword"
+						"nu",
+						"number\tkeyword"
 					],
 					[
-						"User",
-						"UserId"
+						"re",
+						"resolve\tmethod"
 					],
 					[
-						"find",
-						"findWhere"
+						"Action",
+						"Action2\ttype"
 					],
 					[
-						"filt",
-						"filters"
+						"Dropl",
+						"DropletResponse\tinterface"
 					],
 					[
-						"Date",
-						"DateRestrict"
+						"to",
+						"toString\tmethod"
 					],
 					[
-						"filter",
-						"filterType"
+						"iang",
+						"IAngularStatic\tinterface"
 					],
 					[
-						"After",
-						"AfterTheSpecificDate"
+						"imp",
+						"implements\tkeyword"
 					],
 					[
-						"befor",
-						"BeforeTheSpecificDate"
+						"Ia",
+						"IAngularStatic\tmodule"
 					],
 					[
-						"datep",
-						"dateFilterOperator"
+						"Compo",
+						"ComponentClass\tinterface"
 					],
 					[
-						"upda",
-						"updateHeaderValue"
+						"miner",
+						"MinerQuery\tclass"
 					],
 					[
-						"filte",
-						"filterOperator"
+						"min",
+						"MinerQuery\tclass"
 					],
 					[
-						"upd",
-						"updateHeaderValue"
+						"minerfi",
+						"minerFile\tparameter"
 					],
 					[
-						"filr",
-						"filterOperator"
+						"minerfile",
+						"MinerFileRequest\ttype"
 					],
 					[
-						"oper",
-						"operator"
+						"Miner",
+						"MinerFileRequest\ttype"
 					],
 					[
-						"isv",
-						"isValueDate"
+						"Ihtt",
+						"IHttpService\tinterface"
 					],
 					[
-						"ext",
-						"extendDataSourceWithPrefilter"
+						"ihtt",
+						"IHttpService\tinterface"
 					],
 					[
-						"extend",
-						"extendDataSource"
+						"def",
+						"defer\tmethod"
 					],
 					[
-						"set",
-						"setFilter"
+						"Tre",
+						"TRequest\ttype parameter"
 					],
 					[
-						"file",
-						"filter"
+						"Chart",
+						"ChartData\tinterface"
 					],
 					[
-						"sele",
-						"selectionModel"
+						"mi",
+						"milliseconds\tmethod"
 					],
 					[
-						"apply",
-						"applyPredefinedFilterToUserFilter"
+						"folde",
+						"folder_exclude_patterns"
 					],
 					[
-						"data",
-						"dataSource"
+						"ran",
+						"range\tmethod"
 					],
 					[
-						"grid",
-						"gridInstance"
-					],
-					[
-						"le",
-						"length"
-					],
-					[
-						"va",
-						"value"
-					],
-					[
-						"trn",
-						"translateValue"
-					],
-					[
-						"trans",
-						"translateFilter"
-					],
-					[
-						"temp",
-						"tempFilter"
-					],
-					[
-						"Work",
-						"EvaluationWorkflowID"
-					],
-					[
-						"TestReposi",
-						"TestRepository"
-					],
-					[
-						"Is",
-						"IsOverdue"
-					],
-					[
-						"step",
-						"StepType_Rater"
-					],
-					[
-						"Step",
-						"StepType"
-					],
-					[
-						"TaskSt",
-						"TaskStatus_Current"
-					],
-					[
-						"Neogo",
-						"NeogovPeDb"
-					],
-					[
-						"employee",
-						"employeeRepository"
-					],
-					[
-						"evaluation",
-						"evaluationService"
-					],
-					[
-						"Curre",
-						"CurrentUserAsRater"
-					],
-					[
-						"Eval",
-						"EvaluationProcessStepView"
-					],
-					[
-						"Cur",
-						"Current"
-					],
-					[
-						"Curr",
-						"CurrentUser"
-					],
-					[
-						"Completion",
-						"CompletionType_Optional"
-					],
-					[
-						"EmployeeEval",
-						"EmployeeEvaluationID"
-					],
-					[
-						"Evalu",
-						"EvaluationProcessStep"
-					],
-					[
-						"Empl",
-						"EmployeeEvaluationSection"
-					],
-					[
-						"back",
-						"background-color"
-					],
-					[
-						"font",
-						"font-size"
-					],
-					[
-						"margin",
-						"margin"
-					],
-					[
-						"CRE",
-						"CreatedFromLibrarySectionID"
-					],
-					[
-						"Item",
-						"ItemAssignableToProgram"
-					],
-					[
-						"ite",
-						"ItemAssignableToProgram"
-					],
-					[
-						"log",
-						"logger"
-					],
-					[
-						"posi",
-						"positionID"
-					],
-					[
-						"entity",
-						"entityTypeCache"
-					],
-					[
-						"in",
-						"InstancePerLifetimeScope"
-					],
-					[
-						"sle",
-						"SelectedHierarchy"
-					],
-					[
-						"Ins",
-						"InstancePerLifetimeScope"
-					],
-					[
-						"As",
-						"AsSelf"
-					],
-					[
-						"Asso",
-						"AssociatedApproverId"
-					],
-					[
-						"Per",
-						"Performance"
-					],
-					[
-						"Perf",
-						"PerfEvalParentMenuID"
-					],
-					[
-						"per",
-						"PerfEvalParentMenuID"
-					],
-					[
-						"Tas",
-						"TaskID"
-					],
-					[
-						"Task",
-						"TaskID"
-					],
-					[
-						"ass",
-						"AssigneeEntityTypeID"
-					],
-					[
-						"Assigne",
-						"AssigneeEntityTypeID"
-					],
-					[
-						"Employ",
-						"EmployeeID"
-					],
-					[
-						"Ass",
-						"AssociatedEntityID"
-					],
-					[
-						"Associ",
-						"AssociatedEntityTypeID"
-					],
-					[
-						"Evaluation",
-						"EvaluationEntityType"
-					],
-					[
-						"Associa",
-						"AssociatedEvaluationId"
-					],
-					[
-						"asso",
-						"AssociatedApproverId"
-					],
-					[
-						"Config",
-						"ConfigurationManager"
-					],
-					[
-						"Send",
-						"SendToCustomEmployeeID"
-					],
-					[
-						"prob",
-						"probation"
-					],
-					[
-						"MAx",
-						"MaxProbationDate"
-					],
-					[
-						"Max",
-						"MaxProbationDate"
-					],
-					[
-						"Calc",
-						"CalculatedMaxProbationDate"
-					],
-					[
-						"Temp",
-						"TempDate"
-					],
-					[
-						"max",
-						"MaxProbationDate"
-					],
-					[
-						"Las",
-						"LastEvaluationDueDate"
-					],
-					[
-						"STa",
-						"StartingPoint_Immediatly"
-					],
-					[
-						"Sta",
-						"StartingPoint"
-					],
-					[
-						"dbsch",
-						"dbschemas"
-					],
-					[
-						"EMpl",
-						"EmployeeEvaluationID"
-					],
-					[
-						"sou",
-						"EmployeeEvaluationSourceID"
-					],
-					[
-						"sue",
-						"SupervisorID"
-					],
-					[
-						"Tasks",
-						"TaskStatusDate"
-					],
-					[
-						"wid",
-						"width"
-					],
-					[
-						"USe",
-						"UserData"
-					],
-					[
-						"Nex",
-						"NextDueDate"
-					],
-					[
-						"Fre",
-						"FrequencyBasis_LastProbitionary"
-					],
-					[
-						"Cre",
-						"CreationDate"
-					],
-					[
-						"Ove",
-						"OverrideOutputFormat"
-					],
-					[
-						"Templ",
-						"TemplateSourceID"
-					],
-					[
-						"ove",
-						"OverrideTemplateID"
-					],
-					[
-						"GoalVersion",
-						"GoalVersionID"
-					],
-					[
-						"EmployeeF",
-						"EmployeeFirstName"
-					],
-					[
-						"PE",
-						"PEStatus"
-					],
-					[
-						"cur",
-						"CurrentEvaluationStatus"
-					],
-					[
-						"empl",
-						"EmployeeEvaluationID"
-					],
-					[
-						"empo",
-						"EmployeeEvaluationID"
-					],
-					[
-						"eva",
-						"EmployeeEvaluationID"
-					],
-					[
-						"IsC",
-						"IsCancelled"
+						"node",
+						"node_modules"
 					]
 				]
 			},
@@ -534,531 +167,218 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 585.0,
-				"last_filter": "renam",
+				"height": 145.0,
+				"last_filter": "git status",
 				"selected_items":
 				[
 					[
-						"renam",
-						"File: Rename"
+						"git status",
+						"Git: Status"
 					],
 					[
-						"newre",
-						"File: New File Relative to Current View"
+						"re",
+						"TypeScript: Rename"
 					],
 					[
-						"json",
-						"Indent JSON"
-					],
-					[
-						"conver",
-						"Convert Case: Upper Case"
-					],
-					[
-						"lowe",
-						"Convert Case: Lower Case"
-					],
-					[
-						"newrel",
-						"File: New File Relative to Current View"
-					],
-					[
-						"filene",
-						"File: New File Relative to Current View"
-					],
-					[
-						"erro",
-						"TypeScript: Show Error List"
-					],
-					[
-						"findr",
-						"TypeScript: Find References"
-					],
-					[
-						"error",
-						"TypeScript: Show Error List"
-					],
-					[
-						"newfi",
-						"File: New File Relative to Current View"
-					],
-					[
-						"ren",
-						"File: Rename"
+						"rnem",
+						"TypeScript: Rename"
 					],
 					[
 						"rena",
-						"File: Rename"
+						"TypeScript: Rename"
 					],
 					[
-						"project",
-						"Project: Close"
+						"form",
+						"TypeScript: Format Document"
 					],
 					[
-						"book",
-						"Bookmarks: Clear All"
+						"formd",
+						"TypeScript: Format Document"
 					],
 					[
-						"bookm",
-						"Bookmarks: Select All"
+						"ren",
+						"TypeScript: Rename"
 					],
 					[
-						"bookma",
-						"Bookmarks: Toggle"
+						"comm",
+						"Git: Commit"
 					],
 					[
-						"sql",
-						"Set Syntax: SQL"
+						"add",
+						"Git: Add All"
 					],
 					[
-						"dele",
-						"File: Delete"
-					],
-					[
-						"delete",
-						"File: Delete"
-					],
-					[
-						"dupl",
-						"File: Duplicate"
-					],
-					[
-						"ne",
-						"File: New File Relative to Current View"
-					],
-					[
-						"rene",
-						"File: Rename"
+						"git stat",
+						"Git: Status"
 					],
 					[
 						"rename",
 						"TypeScript: Rename"
 					],
 					[
-						"gitbla",
-						"Git: Blame"
-					],
-					[
-						"blame",
-						"Git: Blame"
-					],
-					[
-						"converto",
+						"conver",
 						"Indentation: Convert to Spaces"
 					],
 					[
-						"convert",
-						"Indentation: Convert to Spaces"
+						"renam",
+						"TypeScript: Rename"
 					],
 					[
-						"dlee",
-						"File: Delete"
+						"stat",
+						"Git: Status"
 					],
 					[
-						"convet",
-						"Indentation: Convert to Spaces"
+						"git adda",
+						"Git: Add All"
 					],
 					[
-						"newfl",
-						"File: New File Relative to Current View"
+						"commit",
+						"Git: Commit"
 					],
 					[
-						"con",
-						"Indentation: Convert to Spaces"
+						"git sta",
+						"Git: Status"
 					],
 					[
-						"form",
-						"Format: Javascript"
-					],
-					[
-						"type",
-						"Set Syntax: TypeScript"
-					],
-					[
-						"new ",
-						"File: New File Relative to Current View"
-					],
-					[
-						"newf",
-						"File: New File Relative to Current View"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"removepa",
-						"Package Control: Remove Package"
-					],
-					[
-						"intallpa",
-						"Package Control: Install Package"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"filede",
-						"File: Delete"
-					],
-					[
-						"setsyjson",
-						"Set Syntax: JSON"
-					],
-					[
-						"js",
-						"Indent JSON"
-					],
-					[
-						"upda",
-						"Package Control: Upgrade/Overwrite All Packages"
-					],
-					[
-						"re",
-						"File: Rename"
-					],
-					[
-						"spaces",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"disablep",
-						"Package Control: Disable Package"
-					],
-					[
-						"iden",
-						"Auto indent"
-					],
-					[
-						"enab",
-						"Package Control: Enable Package"
-					],
-					[
-						"autod",
-						"Auto indent"
-					],
-					[
-						"ide",
-						"Indentation: Reindent Lines"
-					],
-					[
-						"autid",
-						"Auto indent"
-					],
-					[
-						"setjava",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"setsja",
-						"Set Syntax: Java Properties"
-					],
-					[
-						"disa",
-						"Package Control: Disable Package"
-					],
-					[
-						"conve",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"convetto",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"convr",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"installp",
-						"Package Control: Install Package"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
-					],
-					[
-						"convertto",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"spell",
-						"Google Spell Check"
-					],
-					[
-						"rem",
-						"File: Rename"
-					],
-					[
-						"text",
-						"Set Syntax: Plain Text"
-					],
-					[
-						"dev",
-						"DevDocs: Search From Input"
-					],
-					[
-						"xml",
-						"Set Syntax: XML"
-					],
-					[
-						"synttext",
-						"Set Syntax: Plain Text"
-					],
-					[
-						"setsyma",
-						"Set Syntax: Markdown"
-					],
-					[
-						"set",
-						"Set Syntax: Plain Text"
-					],
-					[
-						"file",
-						"File: Duplicate"
-					],
-					[
-						"packa",
-						"Package Control: List Packages"
-					],
-					[
-						"setpow",
-						"Set Syntax: PowerShell"
-					],
-					[
-						"setsynhtml",
-						"Set Syntax: HTML"
+						"gitadd",
+						"Git: Add All"
 					],
 					[
 						"installpa",
 						"Package Control: Install Package"
 					],
 					[
-						"listpa",
-						"Package Control: List Packages"
+						"enable",
+						"Package Control: Enable Package"
 					],
 					[
-						"sortli",
-						"Sort Lines"
+						"rne",
+						"TypeScript: Rename"
 					],
 					[
-						"c#",
-						"Set Syntax: C#"
+						"conve",
+						"Indentation: Convert to Spaces"
 					],
 					[
-						"delet",
-						"File: Delete"
+						"for",
+						"File: New Folder Relative to Project Root"
 					],
 					[
-						"du",
-						"File: Duplicate"
+						"fileree",
+						"File: Reveal"
 					],
 					[
-						"filedu",
-						"File: Duplicate"
+						"mo",
+						"File: Move"
 					],
 					[
-						"html",
-						"Set Syntax: HTML"
-					],
-					[
-						"power",
-						"Set Syntax: PowerShell"
-					],
-					[
-						"del",
-						"File: Delete"
-					],
-					[
-						"filenew",
+						"new",
 						"File: New File Relative to Current View"
 					],
 					[
-						"setsyhas",
-						"Set Syntax: Haskell"
+						"move",
+						"File: Move"
 					],
 					[
-						"delte",
-						"File: Delete"
-					],
-					[
-						"cop",
-						"File: Copy Path"
-					],
-					[
-						"filed",
-						"File: Duplicate"
-					],
-					[
-						"ream",
-						"File: Rename"
-					],
-					[
-						"copy",
-						"File: Copy Path"
+						"rn",
+						"TypeScript: Rename"
 					],
 					[
 						"java",
 						"Set Syntax: JavaScript"
 					],
 					[
-						"upper",
-						"Convert Case: Upper Case"
+						"newrel",
+						"File: New File Relative to Current View"
 					],
 					[
-						"file dele",
+						"newfile",
+						"File: New File Relative to Current View"
+					],
+					[
+						"spaces",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"converto",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"dele",
 						"File: Delete"
 					],
 					[
-						"setsynthtml",
-						"Set Syntax: HTML"
+						"duplica",
+						"File: Duplicate"
 					],
 					[
-						"setsyntahtml",
-						"Set Syntax: HTML (ASP)"
+						"err",
+						"TypeScript: Show Error List"
 					],
 					[
-						"pacarem",
-						"Package Control: Remove Package"
+						"newfil",
+						"File: New File Relative to Current View"
 					],
 					[
-						"inst",
-						"Package Control: Install Package"
+						"newfi",
+						"File: New File Relative to Current View"
 					],
 					[
-						"disable",
-						"Package Control: Disable Package"
+						"forma",
+						"TypeScript: Format Document"
 					],
 					[
-						"upperca",
-						"Convert Case: Upper Case"
+						"get",
+						"Snippet: get-property …"
 					],
 					[
-						"uppe",
-						"Convert Case: Upper Case"
+						"doc",
+						"TypeScript: Format Document"
 					],
 					[
-						"conv",
-						"Indentation: Convert to Spaces"
+						"json",
+						"Indent JSON"
 					],
 					[
-						"filedel",
-						"File: Delete"
+						"renme",
+						"File: Rename"
 					],
 					[
-						"powe",
-						"Set Syntax: Powershell v2"
+						"typescript ",
+						"TypeScript: Signature Info"
 					],
 					[
-						"setpo",
-						"Set Syntax: Powershell v2"
+						"typere",
+						"TypeScript: Signature Info"
 					],
 					[
-						"setsyntc",
-						"Set Syntax: C#"
+						"file",
+						"File: New File Relative to Project Root"
 					],
 					[
-						"convertospa",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"space",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"converspa",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"reid",
-						"Indentation: Reindent Lines"
+						"tpefor",
+						"TypeScript: Format Document"
 					],
 					[
 						"ident",
 						"Indentation: Reindent Lines"
 					],
 					[
-						"convert to",
+						"relati",
+						"File: New File Relative to Current View"
+					],
+					[
+						"convert",
 						"Indentation: Convert to Spaces"
-					],
-					[
-						"convert t ",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"convertsp",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"convert to space",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"convert to ",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"wr",
-						"HTML: Wrap Selection With Tag"
-					],
-					[
-						"wra",
-						"HTML: Wrap Selection With Tag"
-					],
-					[
-						"wrap",
-						"HTML: Wrap Selection With Tag"
-					],
-					[
-						"remov",
-						"Package Control: Remove Package"
-					],
-					[
-						"remp",
-						"Package Control: Remove Package"
-					],
-					[
-						"jsli",
-						"JSLint"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"insa",
-						"Package Control: Install Package"
-					],
-					[
-						"bat",
-						"Set Syntax: Batch File"
-					],
-					[
-						"reve",
-						"File: Reveal"
-					],
-					[
-						"upd",
-						"Package Control: Upgrade/Overwrite All Packages"
-					],
-					[
-						"git",
-						"Git: Change Branch"
 					]
 				],
 				"width": 1320.0
 			},
 			"console":
 			{
-				"height": 269.0,
+				"height": 0.0,
 				"history":
 				[
-					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
 			"distraction_free":
@@ -1072,272 +392,81 @@
 			},
 			"file_history":
 			[
-				"/D/Code/bosnjak/csv-editor/assets/documents/csv-test-03-encoding-utf16.txt",
-				"/D/Code/bosnjak/csv-editor/assets/documents/csv-test-03-encoding-utf8.txt",
-				"/D/Mining/tino.wallet.recovery-words",
-				"/D/Mining/tino.wallet.address.txt",
-				"/D/Mining/tino.wallet.keys",
-				"/D/Code/bosnjak/csv-editor/assets/documents/csv-test-02-1000-points.txt",
-				"/D/Dropbox/Private/Wlans/Wi-Fi-Storija.xml",
-				"/D/Code/bosnjak/csv-editor/src/GeoCSV/Properties/AssemblyInfo.cs",
-				"/D/Code/bosnjak/csv-editor/src/GeoCSV/VPPS/VPPSExport.Designer.cs",
-				"/D/Code/bosnjak/csv-editor/src/GeoCSV/DXF/DXFConverter.cs",
-				"/D/Code/bosnjak/csv-editor/src/GeoCSV/DXF/DXFConverter.Designer.cs",
-				"/D/Code/bosnjak/csv-editor/src/GeoCSV/Main.cs",
-				"/D/Code/bosnjak/csv-editor/src/GeoCSV/Main.Designer.cs",
-				"/D/Code/bosnjak/csv-editor/assets/documents/geodeti/geodeti.json",
-				"/D/Code/bosnjak/csv-editor/assets/documents/geodeti/build.ps1",
-				"/D/Code/bosnjak/csv-editor/assets/documents/geodeti/Sisačko-moslavčka županija.txt",
-				"/D/Code/bosnjak/csv-editor/assets/documents/geodeti/Sisačko-moslavačka županija.txt",
-				"/C/Users/ajuricic/Desktop/geodeti.json",
-				"/D/Code/bosnjak/csv-editor/.gitignore",
-				"/D/Code/bosnjak/csv-editor/.gitattributes",
-				"/D/Code/bosnjak/csv-editor/build.ps1",
-				"/D/Code/bosnjak/csv-editor/src/GeoCSV/Program.cs",
-				"/D/Code/bosnjak/csv-editor/src/GeoCSV/MessageBoxManager.cs",
-				"/D/Code/bosnjak/csv-editor/src/GeoCSV/Licensing/GeoCSVApplication.cs",
-				"/D/Code/bosnjak/csv-editor/src/GeoCSV/About.cs",
-				"/D/Code/bosnjak/csv-editor/src/Geo.LicenseServer/Web.config",
-				"/D/Code/bosnjak/csv-editor/src/GeoCSV/Properties/Settings.settings",
-				"/D/Dropbox/GeoModel/GeoCSV.exe.config",
-				"/D/Code/bosnjak/csv-editor/dist/GeoCSV.exe.config",
-				"/D/Code/bosnjak/csv-editor/src/GeoCSV/bin/Release/GeoCSV.exe.config",
-				"/D/Code/bosnjak/csv-editor/src/GeoCSV/bin/Debug/GeoCSV.exe.config",
-				"/D/Code/bosnjak/csv-editor/src/GeoCSV/Properties/Resources.resx",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor.sln",
-				"/D/Code/bosnjak/csv-editor/src/GeoCSV/GeoCSV.csproj",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/BuyDialog.Designer.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/BuyDialog.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/BorderedToolStripButton.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/App.config",
-				"/D/Code/bosnjak/csv-editor/dist/CSVEditor.exe.config",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/CSVEditor.csproj",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/CSVReader.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/DataValidator.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/DXFtemplater.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/ExtensionMethods.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/ImportDialog.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/ImportDialog.Designer.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Lista točaka.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Lista točaka.Designer.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Main.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Main.Designer.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/MessageBoxManager.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Način izvoza.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Način izvoza.Designer.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Način izvoza2.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Način izvoza2.Designer.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Opcija izračuna.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Opcija izračuna.Designer.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Označavanje ćelija.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Označavanje ćelija.Designer.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Program.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/SplashScreen.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/SplashScreen.Designer.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Stupci.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Stupci.Designer.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Tahimetrijski zapisnik.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Tahimetrijski zapisnik.Designer.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Točke opcija.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Točke opcija.Designer.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Unos.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Unos.Designer.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/DXF/Converter.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/DXF/ConvertException.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/DXF/DXFConverter.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/DXF/DXFConverter.Designer.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/DXF/IConverterDelegate.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/DXF/Line.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Licensing/BuyRequest.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Licensing/GeoCSVApplication.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Licensing/ILicensedApplication.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Licensing/LicenseDto.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Licensing/LicenseManager.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Licensing/LicenseServerAPI.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Licensing/TrialModeInfo.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Properties/AssemblyInfo.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Properties/Resources.Designer.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Properties/Settings.Designer.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Properties/Settings.settings",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/VPPS/VPPSExport.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/VPPS/VPPSExport.Designer.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/VPPS/VPPSExport.ProgressReporting.cs",
-				"/D/Code/bosnjak/csv-editor/src/Geo.LicenseServer/Web.Release.config",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/bin/Debug/CSVEditor.exe.config",
-				"/D/Code/bosnjak/csv-editor/src/Geo.LicenseServer/Services/License/LicenseService.cs",
-				"/C/Users/ajuricic/Documents/IntelliLock Example Projects/.NET Application/C#/VS 2015/Form1.cs",
-				"/D/Code/bosnjak/csv-editor/tools/intellilock.cmd",
-				"/D/Code/bosnjak/csv-editor/tools/intellilock.url",
-				"/D/Code/bosnjak/csv-editor/csv-editor.sublime-project",
-				"/D/Code/seed-gulp-ts/typings/globals/node/index.d.ts",
-				"/D/Code/seed-gulp-ts/typings/modules/gulp/index.d.ts",
-				"/D/Code/seed-gulp-ts/gulpfile.ts",
-				"/D/Code/seed-gulp-ts/.gitignore",
-				"/D/Code/seed-gulp-ts/typings/modules/gulp/typings.json",
+				"/D/Code/seed-gulp-ts/node_modules/@types/node/index.d.ts",
 				"/D/Code/seed-gulp-ts/gulpfile.js",
-				"/D/Code/seed-gulp-ts/tsconfig.json",
-				"/D/Code/seed-gulp-ts/typings.json",
-				"/D/Code/seed-gulp-ts/typings/index.d.ts",
-				"/D/Code/seed-gulp-ts/typings/globals/orchestrator/typings.json",
-				"/D/Code/seed-gulp-ts/typings/globals/orchestrator/index.d.ts",
-				"/D/Code/seed-gulp-ts/typings/globals/gulp/index.d.ts",
+				"/D/Code/seed-gulp-ts/src/main.ts",
+				"/D/Code/seed-gulp-ts/package.json",
 				"/D/Code/seed-gulp-ts/seed-gulp-ts.sublime-project",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/Areas/ProcessLibrary/Detail/AddEdit-StepController.js",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/Areas/ProcessLibrary/Detail/add-step-controller.js",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/angular/shared/BusinessWidgets/Templates/Process/pe-process-rater.cshtml",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/angular/shared/BusinessWidgets/Templates/Process/pe-process-step.cshtml",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/angular/shared/BusinessWidgets/Components/pe-reminder-settings.js",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/Areas/Reports/PerformanceRating/view.cshtml",
-				"/D/Code/neogov/platform/src/WebApp/ConfigurationFiles/connectionStrings.config",
-				"/D/Code/neogov/platform/src/WebApp/web.config",
-				"/D/Code/neogov/platform/src/Neogov.Platform.Services.Implementation/Neogov.Platform.Services.Implementation.csproj",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.Readonly.Infrastructure/Queries/Reports/PerformanceRatingReportQuery.cs",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.Readonly.Infrastructure/Queries/Evaluation/EvaluationQuery.cs",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.Readonly.Infrastructure/Queries/Administrative/EmployeeQuery.cs",
-				"/D/Code/neogov/platform/src/WebApp/ConfigurationFiles/hangfireConfiguration.config",
-				"/D/Code/neogov/platform/src/WebApp/ConfigurationFiles/appSettings.config",
-				"/D/Code/neogov/platform/databases/neogovpe/01_scripts/0207-PF-16183/01_Create_Table_EmployeeInfo.sql",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.Common.Core/Enums/EvaluationStatus.cs",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/angular/shared/BusinessWidgets/Components/Content/pe-content-section-item-picker.ts",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.Common.Core/DomainEvents/GoalChangedEvent.cs"
+				"/D/Code/seed-gulp-ts/tsconfig.json",
+				"/D/Code/seed-gulp-ts/.gitignore",
+				"/D/Code/seed-gulp-ts/src/index.html",
+				"/D/Code/seed-gulp-ts/src/miner-status.html",
+				"/D/Code/seed-gulp-ts/dist/main.js",
+				"/D/Code/seed-gulp-ts/dist/package.json",
+				"/D/Code/seed-gulp-ts/src/miner-status.ts",
+				"/D/Code/seed-gulp-ts/src/index.ts",
+				"/D/Code/seed-gulp-ts/src/dashboard.ts",
+				"/D/Code/seed-gulp-ts/node_modules/@types/request/index.d.ts",
+				"/D/Code/seed-gulp-ts/node_modules/@types/angular/index.d.ts",
+				"/D/Code/seed-gulp-ts/src/queries.ts",
+				"/D/Code/seed-gulp-ts/src/core.ts",
+				"/D/Code/seed-gulp-ts/src/decorators.ts",
+				"/D/Code/seed-gulp-ts/run.ps1",
+				"/D/Code/seed-gulp-ts/src/components.ts",
+				"/D/Code/seed-gulp-ts/TODO.md",
+				"/D/Code/seed-gulp-ts/README.md",
+				"/D/Code/seed-gulp-ts/src/do-wrapper.d.ts",
+				"/D/Code/seed-gulp-ts/tslint.json",
+				"/D/Code/seed-gulp-ts/src/dashboard.html",
+				"/D/Code/seed-gulp-ts/lib/dashboard.js",
+				"/D/Code/seed-gulp-ts/src/types.d.ts",
+				"/D/Code/seed-gulp-ts/src/do-api-service.ts",
+				"/D/Mining/Code/status-aggregator/TODO.md",
+				"/D/Code/seed-gulp-ts/node_modules/do-wrapper/docs/do-wrapper.md",
+				"/D/Mining/Code/status-aggregator/main.js",
+				"/D/Code/seed-gulp-ts/node_modules/do-wrapper/package.json",
+				"/D/Code/seed-gulp-ts/lib/miner-status.js",
+				"/D/Code/seed-gulp-ts/node_modules/angular/index.js",
+				"/D/Code/seed-gulp-ts/node_modules/angular/angular.js",
+				"/D/Code/seed-gulp-ts/lib/miner-status.d.ts",
+				"/D/Code/seed-gulp-ts/lib/core.js",
+				"/D/Code/seed-gulp-ts/lib/index.html",
+				"/D/Code/seed-gulp-ts/test/miner-status.spec.ts",
+				"/D/Code/seed-gulp-ts/lib/greeter.js",
+				"/D/Code/seed-gulp-ts/src/greeter.ts",
+				"/D/Code/seed-gulp-ts/lib/components.js",
+				"/D/Code/seed-gulp-ts/lib/core.d.ts",
+				"/D/Code/seed-gulp-ts/node_modules/moment/moment.d.ts",
+				"/D/Code/seed-gulp-ts/node_modules/@types/moment/README.md",
+				"/D/Code/seed-gulp-ts/lib/index.d.ts",
+				"/D/Code/seed-gulp-ts/lib/main.d.ts",
+				"/D/Code/seed-gulp-ts/lib/miner.js",
+				"/D/Code/seed-gulp-ts/src/bower_components/jquery/src/traversing/findFilter.js",
+				"/D/Code/seed-gulp-ts/node_modules/@types/lodash/index.d.ts",
+				"/D/Code/seed-gulp-ts/src/bower_components/jquery/dist/jquery.js",
+				"/D/Code/seed-gulp-ts/src/js/initialize.js",
+				"/D/Code/seed-gulp-ts/src/bower_components/bootstrap/package.js",
+				"/D/Code/seed-gulp-ts/node_modules/@types/chart.js/chart.js.d.ts",
+				"/D/Code/seed-gulp-ts/node_modules/typescript/lib/lib.d.ts",
+				"/D/Code/seed-gulp-ts/node_modules/@types/electron/index.d.ts",
+				"/D/Code/seed-gulp-ts/node_modules/lodash/package.json",
+				"/D/Code/seed-gulp-ts/lib/main.html",
+				"/D/Code/seed-gulp-ts/src/main.html",
+				"/D/Code/seed-gulp-ts/node_modules/@types/electron/package.json",
+				"/D/UserData/SublimeText3.0/.gitignore",
+				"/D/UserData/SublimeText3.0/Data/Local/Session.sublime_session",
+				"/D/UserData/SublimeText2.0/.git"
 			],
 			"find":
 			{
-				"height": 34.0
+				"height": 80.0
 			},
 			"find_in_files":
 			{
 				"height": 220.0,
 				"where_history":
 				[
-					"",
-					"*.csproj, *.resx",
-					"",
-					"*.ts, *.js, *.cshtml, *.cs, *.html",
-					"*.ts, *.js, *.cshtml, *.cs",
-					"*.ts, *.js, *.cshtml",
-					"*.ts",
-					"*.cs, *.sql",
-					"*.cs",
-					"*.sql",
-					"*.cs",
-					"*.js, *.ts, *.html, *.cshtml",
-					"*.js, *.ts",
-					"*.csproj",
-					"*.js",
-					"*.cs",
-					"*.sql",
-					"*.cs",
-					"",
-					"*.sql, *.cs",
-					"*.sql",
-					"*.cs",
-					"*.sql",
-					"*.ts, *.cshtml",
-					"*.ts",
-					"*.cs",
-					"*.js, *.ts",
-					"*.cshtml",
-					"*.sql, *.cs",
-					"*.sql",
-					"*.js,*.ts,*.html,*.cshtml",
-					"*.js,*.ts",
-					"*.js,*.ts,*.html,*.cshtml, *.cs",
-					"*.js,*.ts,*.html,*.cshtml",
-					"*.js,*.ts,*.html,*.cshtml, *.cs",
-					"*.js,*.ts,*.html,*.cshtml",
-					"*.js,*.ts,*.html",
-					"*.js,*.ts,*.cs",
-					"*.js,*.ts",
-					"*.sql",
-					"",
-					"*.cs",
-					"D:\\Code\\neogov\\platform\\src\\WebApp",
-					"",
-					"*.cs",
-					"*.csproj",
-					"*.sql",
-					"*.cs",
-					"*.sql",
-					"*.cs",
-					"*.ts,*.js",
-					"*.csproj",
-					"*.js",
-					"*.cshtml",
-					"*.js",
-					"",
-					"*.cs",
-					"*.cshtml, *.js",
-					"*.sql",
-					"*.csproj, *.cs, *.js, *.cshtml, *.html, *.sql",
-					"*.csproj, *.cs, *.js, *.cshtml, *.html",
-					"",
-					"*.csproj,*.cs,*.js,*.html,*.cshtml",
-					"*.js,*.html,*.cshtml",
-					"*.csproj",
-					"",
-					"*.csproj,*.sln",
-					"*.sql",
-					"D:\\Code\\neogov\\platform,*.csproj",
-					"D:\\Code\\neogov\\platform,*.cs",
-					"D:\\Code\\neogov\\platform,*.cs,*.js,*.cshtml",
-					"D:\\Code\\neogov,*.cs,*.js,*.cshtml",
-					"D:\\Code\\neogov,*.sql",
-					"D:\\Code\\neogov",
-					"D:\\Code\\neogov\\platform,*.sql",
-					"D:\\Code\\neogov\\platform,*.ts",
-					"D:\\Code\\neogov\\platform,*.cs, *.sql",
-					"D:\\Code\\neogov\\platform,*.cs",
-					"D:\\Code\\neogov\\platform,*.ts",
-					"D:\\Code\\neogov\\platform,*.js",
-					"D:\\Code\\neogov\\platform,*.cshtml",
-					"D:\\Code\\neogov\\platform,*.js",
-					"D:\\Code\\neogov\\platform,*.sql",
-					"D:\\Code\\neogov,*.ts",
-					"D:\\Code\\neogov,*.js,*.ts",
-					"D:\\Code\\neogov,*.cs, *.sql",
-					"D:\\Code\\neogov,*.cs",
-					"D:\\Code\\neogov\\platform,*.cs",
-					"D:\\Code\\neogov\\platform,*.sql",
-					"D:\\Code\\neogov\\platform\\src\\,*.sql",
-					"D:\\Code\\neogov\\platform\\src\\,*.js,*.cshtml,*.html,*.cs",
-					"D:\\Code\\neogov\\platform\\src\\WebApp,*.js, *.cshtml, *.html, *.cs",
-					"D:\\Code\\neogov\\platform\\src\\WebApp,*.js, *.cshtml, *.html",
-					"*.js, *.cshtml, *.html",
-					"*.cs",
-					"*.cshtml, *.html, *.js",
-					"*.cshtml, *.html",
-					"D:\\Code\\neogov\\platform\\src\\WebApp\\APIs,*.cs",
-					"*.cs",
-					"*.js,*.html,*.cshtml",
-					"D:\\Code\\neogov\\platform\\src,*.js,*.html,*.cshtml",
-					"D:\\Code\\neogov\\platform\\src,*.js,*.html,*.cshtml,*.cs, *.config",
-					"D:\\Code\\neogov\\platform\\src,*.js,*.html,*.cshtml,*.cs",
-					"D:\\Code\\neogov\\platform\\src,*.js,*.html,*.cshtml",
-					"D:\\Code\\neogov\\platform\\src,*.js",
-					"D:\\Code\\neogov\\platform\\src,*.cs",
-					"D:\\Code\\neogov\\platform\\src,*.js",
-					"D:\\Code\\neogov\\platform\\src,*.cs",
-					"D:\\Code\\neogov\\platform\\src,*.csproj",
-					"D:\\Code\\neogov\\platform\\src,*.js",
-					"D:\\Code\\neogov\\platform\\src\\WebApp\\scripts\\angular\\shared,*.js",
-					"D:\\Code\\neogov\\platform,*.js",
-					"D:\\Code\\neogov\\platform,*.sql",
-					"D:\\Code\\neogov\\platform,*.csproj",
-					"D:\\Code\\neogov\\platform,*.cs",
-					"D:\\Code\\neogov\\platform,*.sln",
-					"D:\\Code\\neogov\\platform,*.cs",
-					"D:\\Code\\neogov\\platform,*.csproj",
-					"D:\\Code\\neogov\\platform,*.cs",
-					"D:\\Code\\neogov\\platform,*.sql",
-					"D:\\Code\\neogov\\platform,*.js",
-					"D:\\Code\\neogov\\platform,*.cs",
-					"D:\\Code\\neogov\\platform,*.sln",
-					"D:\\Code\\neogov\\platform,*.sql,*.cs",
-					"D:\\Code\\neogov\\platform,*.sql",
-					"D:\\Code\\neogov\\platform,*.cs",
-					"D:\\Code\\neogov\\platform,*.sql",
-					"D:\\Code\\neogov\\platform,*.js, *.cshtml"
+					""
 				]
 			},
 			"find_state":
@@ -1345,134 +474,114 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"File.Read",
-					"maxim",
-					"suspen",
-					"ResumeLayout",
-					"showdxf",
-					"showd",
-					"WindowState",
-					"AutoSize",
-					"auto",
-					"\"EMAIL\"",
-					"EMAIL",
-					"Kambelo",
-					"kambelovac",
-					"\"EMAIL\"",
-					"web/instructions",
-					"OPT_",
-					"OPT",
-					"UnhookWindowsHookEx",
-					"UnsetWindowsHookEx",
-					"SetWindowsHookEx",
-					"task",
-					"OPT_",
-					"if ($",
-					"Assembly.GetExecutingAssembly()",
-					"instanc",
-					"pubxml",
-					"confi",
-					"async",
-					"AppSecret",
-					"GeoCsv",
-					"GeoCsv.sln",
-					"GeoCsv\\bi",
-					"CSVEditor",
-					"tino",
-					"= ",
-					"this.text",
-					"text",
-					"Text",
-					"text",
-					":''",
-					"licence",
-					"adf",
-					"packa",
-					"license.",
-					"License",
-					"license",
-					"License",
-					"license",
-					"License",
-					"license",
-					"License",
-					"license",
-					"License",
-					"license",
-					"License",
-					"license",
-					"License",
-					"license",
-					".\\src\\Geo.Licencing\\master.mkey",
-					"pro",
-					"GoalTypeId",
-					"D:\\Code\\bosnjak\\csv-editor\\dist",
-					"-file",
-					"string.IsNullOrWhiteSpace",
-					"double.Pa",
-					"double.pa",
-					".ToString(decima",
-					"x.ToString(decim",
-					"DXFConverter",
-					"Lista točak",
-					"read?:",
-					"read?: ",
-					"read",
-					"Options",
-					"Flyout.addFromProcessLibraryController",
-					"AddFromProcessLibraryController",
-					"controller",
-					"addEditStepController",
-					"AddEditStep-Controller",
-					"canEnableReminderNotifications",
-					"isReminderNoticeDisabled",
-					"is-reminder-notice-disabled",
-					"isReminderNoticeDisabled",
-					"$flyoutController",
-					"<pe-reminder-settings",
-					"isReminderNoticeDisabled",
-					"UserCanReadRater",
-					"setup",
-					"a-oltpdb.neogo",
-					"qa-oltpdb.neogo",
-					"canViewRaterDetails",
-					"mongo",
-					"rce=.",
-					"    providerName=\"System.Data.SqlClient\" />\n",
-					"providerName=\"System.Data.SqlClient\" />",
-					"GoalChangedEvent",
-					"employeeposi",
-					"EmployeePosition",
-					"UserAddedEvent",
-					"userpro",
-					"UserProductStatus",
-					"stp_GetApplicationSettingForEmployer",
-					"EventOnAction",
-					"NGV_MSBUILD_PATH",
-					"Activator.Create",
-					"TaskRepository",
-					"processBaseRepository",
-					"WorkflowAPIAction",
-					"scripts/NeogovGrid_Prime",
-					"prime",
-					"sidePopup.close()",
-					"sidePopup.close",
-					"externalreferences",
-					"\\packages",
-					"<HintPath",
-					"..\\\\.*\\.dll",
-					"..\\\\.*\\.csproj",
-					"src\\\\.*\\.csproj",
-					"src.*\\.dll",
-					"PerformModules.*\\.csproj",
-					"PerformModules.*\\.dll",
-					"PerformModules.*csproj",
-					"PerformModules\\\\.*csproj\\<",
-					"PerformModules\\\\.*dll\\<",
-					"PerformModules\\.*dll<",
-					"PerformModules",
-					"withDepartmentId",
-					"AllRaters"
+					"lib",
+					"this.model.",
+					"milliseconds",
+					"$ctrl.miner",
+					"chart()",
+					"$unsecuredHttps",
+					"$compileProvider",
+					", ",
+					"httpprov",
+					"static",
+					"var",
+					"         * ",
+					"* Update",
+					"* Request",
+					"* Create",
+					" */",
+					"          * ",
+					"*/",
+					"        * ",
+					"* ",
+					"* Delete",
+					"* Rename",
+					"* Add",
+					"* List",
+					"* **call",
+					"// ",
+					"//",
+					"// Get",
+					"\n        *",
+					"// ",
+					"loadMinerFile",
+					"slef",
+					"this",
+					"DropletRespone",
+					"declare",
+					"d",
+					"declare",
+					"export",
+					"($http: ng.IHttpService)",
+					"TView",
+					"string|{}",
+					"e784ba66d663ecd5cddbacec797505ff1ffec72bda0a8b2e4c8a38d9c66f4bf0",
+					"export",
+					"slu",
+					"query,",
+					"domainRecordId,",
+					"a",
+					"api.",
+					"public",
+					"    function",
+					"function g",
+					"app.get(",
+					"imageId,",
+					"callback: Function",
+					"keyIdentity,",
+					"name,",
+					"dropletId,",
+					"actionId,",
+					"callback)",
+					"ipAddress,",
+					"(ipAddress,",
+					"### DigitalOcean.",
+					"\n\n\n\n\n// Get Account Information\n// Info [https://developers.digitalocean.com/documentation/v2/#account account](https://developers.digitalocean.com/documentation/v2/#account account)\n// **Parameters**\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n\n### DigitalOcean.account(callback) \n\n\n\n\n\n\n\n\n// Get Account Actions\n// **Parameters**\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n\n### DigitalOcean.accountGetActions(query, callback) \n\n\n\n\n\n\n\n\n\n// Get Action Information for Account\n// Info: [https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-action retrieve-an-existing-action](https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-action retrieve-an-existing-action)\n// **Parameters**\n// **actionId**: `number`, The Id of the Action\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.accountGetAction(actionId, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// List all SSH Keys\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-all-keys list-all-keys](https://developers.digitalocean.com/documentation/v2/#list-all-keys list-all-keys)\n// **Parameters**\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.accountGetKeys(query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Add a new SSH Key\n// Info: [https://developers.digitalocean.com/documentation/v2/#create-a-new-key create-a-new-key](https://developers.digitalocean.com/documentation/v2/#create-a-new-key create-a-new-key)\n// **Parameters**\n// **configuration**: `*`, Information required to create SSH Key | {name: ?, public_key: ?}\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.accountAddKey(configuration, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Get an SSH Key via its Id\n// Info: [https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-key retrieve-an-existing-key](https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-key retrieve-an-existing-key)\n// **Parameters**\n// **keyId**: `number`, The Id of the Key\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.accountGetKeyById(keyId, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Get an SSH Key via its Fingerprint\n// Info: [https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-key retrieve-an-existing-key](https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-key retrieve-an-existing-key)\n// **Parameters**\n// **fingerprint**: `string`, The Fingerprint of the Key\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.accountGetKeyByFingerprint(fingerprint, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Rename a SSH Key\n// Info: [https://developers.digitalocean.com/documentation/v2/#update-a-key update-a-key](https://developers.digitalocean.com/documentation/v2/#update-a-key update-a-key)\n// **Parameters**\n// **keyIdentity**: `*`, The Id or Fingerprint of the SSH Key\n// **keyName**: `string`, What to rename the SSH Key to\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.accountRenameKey(keyIdentity, keyName, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Delete a SSH Key\n// Info: [https://developers.digitalocean.com/documentation/v2/#destroy-a-key destroy-a-key](https://developers.digitalocean.com/documentation/v2/#destroy-a-key destroy-a-key)\n// **Parameters**\n// **keyIdentity**: `*`, The Id or Fingerprint of the SSH Key\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.accountDeleteKey(keyIdentity, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Get a list of Droplets\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-all-droplets list-all-droplets](https://developers.digitalocean.com/documentation/v2/#list-all-droplets list-all-droplets)\n// **Parameters**\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.dropletsGetAll(query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Get a list of Kernels available for a Droplet\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-all-available-kernels-for-a-droplet list-all-available-kernels-for-a-droplet](https://developers.digitalocean.com/documentation/v2/#list-all-available-kernels-for-a-droplet list-all-available-kernels-for-a-droplet)\n// **Parameters**\n// **dropletId**: `number`, The Id of the Droplet\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.dropletsGetKernels(dropletId, query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Get a list of Snapshots for a Droplet\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-snapshots-for-a-droplet retrieve-snapshots-for-a-droplet](https://developers.digitalocean.com/documentation/v2/#list-snapshots-for-a-droplet retrieve-snapshots-for-a-droplet)\n// **Parameters**\n// **dropletId**: `number`, The Id of the Droplet\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.dropletsGetSnapshots(dropletId, query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Get a list of Backups for a Droplet\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-backups-for-a-droplet list-backups-for-a-droplet](https://developers.digitalocean.com/documentation/v2/#list-backups-for-a-droplet list-backups-for-a-droplet)\n// **Parameters**\n// **dropletId**: `number`, The Id of the Droplet\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.dropletsGetBackups(dropletId, query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Get a list of Actions for a Droplet\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-actions-for-a-droplet list-actions-for-a-droplet](https://developers.digitalocean.com/documentation/v2/#list-actions-for-a-droplet list-actions-for-a-droplet)\n// **Parameters**\n// **dropletId**: `number`, The Id of the Droplet\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.dropletsGetActions(dropletId, query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Create a New Droplet\n// Info: [https://developers.digitalocean.com/documentation/v2/#create-a-new-droplet create-a-new-droplet](https://developers.digitalocean.com/documentation/v2/#create-a-new-droplet create-a-new-droplet)\n// **Parameters**\n// **configuration**: `*`, Creation parameters, see info for more details.\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.dropletsCreate(configuration, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Get a Droplet by Id\n// Info: [https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-droplet-by-id retrieve-an-existing-droplet-by-id](https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-droplet-by-id retrieve-an-existing-droplet-by-id)\n// **Parameters**\n// **dropletId**: `number`, The Id of the Droplet\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.dropletsGetById(dropletId, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Delete a Droplet\n// Info: [https://developers.digitalocean.com/documentation/v2/#delete-a-droplet delete-a-droplet](https://developers.digitalocean.com/documentation/v2/#delete-a-droplet delete-a-droplet)\n// **Parameters**\n// **dropletId**: `number`, The Id of the Droplet\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.dropletsDelete(dropletId, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Get a list of Droplet Neighbors\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-neighbors-for-a-droplet list-neighbors-for-a-droplet](https://developers.digitalocean.com/documentation/v2/#list-neighbors-for-a-droplet list-neighbors-for-a-droplet)\n// **Parameters**\n// **dropletId**: `number`, The Id of the Droplet\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.dropletsGetNeighbors(dropletId, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Get a report of Droplets sharing the same hardware\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-all-droplet-neighbors list-all-droplet-neighbors](https://developers.digitalocean.com/documentation/v2/#list-all-droplet-neighbors list-all-droplet-neighbors)\n// **Parameters**\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n\n### DigitalOcean.dropletsGetNeighborsReport(callback) \n\n\n\n\n\n\n\n\n\n// Get a list of scheduled Droplet Upgrades\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-droplet-upgrades list-droplet-upgrades](https://developers.digitalocean.com/documentation/v2/#list-droplet-upgrades list-droplet-upgrades)\n// **Parameters**\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n\n### DigitalOcean.dropletsGetUpgrades(callback) \n\n\n\n\n\n\n\n\n\n// Request an Action on a Droplet\n// Info: [https://developers.digitalocean.com/documentation/v2/#droplet-actions droplet-actions](https://developers.digitalocean.com/documentation/v2/#droplet-actions droplet-actions)\n// **Parameters**\n// **dropletId**: `number`, The Id of the Droplet\n// **action**: `*`, Action Object\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.dropletsRequestAction(dropletId, action, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Get an Action for a Droplet\n// Info: [https://developers.digitalocean.com/documentation/v2/#retrieve-a-droplet-action retrieve-a-droplet-action](https://developers.digitalocean.com/documentation/v2/#retrieve-a-droplet-action retrieve-a-droplet-action)\n// **Parameters**\n// **dropletId**: `number`, The Id of the Droplet\n// **actionId**: `number`, The Id of the Action\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.dropletsGetAction(dropletId, actionId, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Get all Domains\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-all-domains list-all-domains](https://developers.digitalocean.com/documentation/v2/#list-all-domains list-all-domains)\n// **Parameters**\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.domainsGetAll(query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Add a new Domain\n// Info: [https://developers.digitalocean.com/documentation/v2/#create-a-new-domain create-a-new-domain](https://developers.digitalocean.com/documentation/v2/#create-a-new-domain create-a-new-domain)\n// **Parameters**\n// **name**: `string`, Domain Name\n// **ip**: `string`, The Ip of the Droplet\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.domainsCreate(name, ip, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Get a Domain\n// Info: [https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-domain retrieve-an-existing-domain](https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-domain retrieve-an-existing-domain)\n// **Parameters**\n// **name**: `string`, The Domain Name\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.domainsGet(name, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Delete a Domain\n// Info: [https://developers.digitalocean.com/documentation/v2/#delete-a-domain delete-a-domain](https://developers.digitalocean.com/documentation/v2/#delete-a-domain delete-a-domain)\n// **Parameters**\n// **name**: `string`, The Domain Name\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.domainsDelete(name, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Get all Domain Records for a Domain\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-all-domain-records list-all-domain-records](https://developers.digitalocean.com/documentation/v2/#list-all-domain-records list-all-domain-records)\n// **Parameters**\n// **name**: `string`, The Domain Name\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.domainRecordsGetAll(name, query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Create a new Domain Record on a Domain\n// Info: [https://developers.digitalocean.com/documentation/v2/#create-a-new-domain-record create-a-new-domain-record](https://developers.digitalocean.com/documentation/v2/#create-a-new-domain-record create-a-new-domain-record)\n// **Parameters**\n// **name**: `string`, The Domain Name\n// **configuration**: `*`, Data required to create the Domain Record\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.domainRecordsCreate(name, configuration, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Get a single Domain Record\n// Info: [https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-domain-record retrieve-an-existing-domain-record](https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-domain-record retrieve-an-existing-domain-record)\n// **Parameters**\n// **name**: `string`, The Domain Name\n// **domainRecordId**: `number`, The Id of the Domain Record\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.domainRecordsGet(name, domainRecordId, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Update a Domain Record\n// Info: [https://developers.digitalocean.com/documentation/v2/#update-a-domain-record update-a-domain-record](https://developers.digitalocean.com/documentation/v2/#update-a-domain-record update-a-domain-record)\n// **Parameters**\n// **name**: `string`, The Domain Name\n// **domainRecordId**: `number`, The Id of the Domain Record\n// **configuration**: `*`, Data required to update the Domain Record\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n### DigitalOcean.domainRecordsUpdate(name, domainRecordId, configuration, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Delete a Domain Record\n// Info: [https://developers.digitalocean.com/documentation/v2/#delete-a-domain-record delete-a-domain-record](https://developers.digitalocean.com/documentation/v2/#delete-a-domain-record delete-a-domain-record)\n// **Parameters**\n// **name**: `string`, The Domain Name\n// **domainRecordId**: `number`, The Id of the Domain Record\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.domainRecordsDelete(name, domainRecordId, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Get all Regions\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-all-regions list-all-regions](https://developers.digitalocean.com/documentation/v2/#list-all-regions list-all-regions)\n// **Parameters**\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.regionsGetAll(query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Get all Droplet sizes\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-all-sizes list-all-sizes](https://developers.digitalocean.com/documentation/v2/#list-all-sizes list-all-sizes)\n// **Parameters**\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.sizesGetAll(query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Get all Images\n// Include type=[distribution,application] or private=true in the query object to limit results.\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-all-images list-all-images](https://developers.digitalocean.com/documentation/v2/#list-all-images list-all-images)\n// **Parameters**\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.imagesGetAll(query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Get an Image using its Id\n// Info: [https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-image-by-id retrieve-an-existing-image-by-id](https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-image-by-id retrieve-an-existing-image-by-id)\n// **Parameters**\n// **imageId**: `number`, The Id of the Image\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.imagesGetById(imageId, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Get an Image using its Slug\n// Info: [https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-image-by-slug retrieve-an-existing-image-by-slug](https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-image-by-slug retrieve-an-existing-image-by-slug)\n// **Parameters**\n// **slug**: `string`, The Slug of the Image\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.imagesGetBySlug(slug, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Get all Actions for an Image\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-all-actions-for-an-image list-all-actions-for-an-image](https://developers.digitalocean.com/documentation/v2/#list-all-actions-for-an-image list-all-actions-for-an-image)\n// **Parameters**\n// **imageId**: `number`, The Id of the Image\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.imagesGetActions(imageId, query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Update the name of an Image\n// Info: [https://developers.digitalocean.com/documentation/v2/#update-an-image update-an-image](https://developers.digitalocean.com/documentation/v2/#update-an-image update-an-image)\n// **Parameters**\n// **imageId**: `number`, The Id of the Image\n// **name**: `string`, The Name to update the Image to\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.imagesUpdate(imageId, name, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Delete an Image\n// Info: [https://developers.digitalocean.com/documentation/v2/#delete-an-image delete-an-image](https://developers.digitalocean.com/documentation/v2/#delete-an-image delete-an-image)\n// **Parameters**\n// **imageId**: `number`, The Id of the Image\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.imagesDelete(imageId, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Request an Action on an Image\n// Info: [https://developers.digitalocean.com/documentation/v2/#image-actions image-actions](https://developers.digitalocean.com/documentation/v2/#image-actions image-actions)\n// **Parameters**\n// **imageId**: `number`, The Id of the Image\n// **action**: `*`, Action Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.imagesRequestAction(imageId, action, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Get the status of an Action\n// Info: [https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-image-action retrieve-an-existing-image-action](https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-image-action retrieve-an-existing-image-action)\n// **Parameters**\n// **imageId**: `number`, The Id of the Image\n// **actionId**: `number`, The Id of the Action\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.imagesGetAction(imageId, actionId, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Get all Floating IPs\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-all-floating-ips list-all-floating-ips](https://developers.digitalocean.com/documentation/v2/#list-all-floating-ips list-all-floating-ips)\n// **Parameters**\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.floatingIpsGetAll(query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Create and assign a Floating IP to a specific droplet.\n// Info: [https://developers.digitalocean.com/documentation/v2/#create-a-new-floating-ip-assigned-to-a-droplet create-a-new-floating-ip-assigned-to-a-droplet](https://developers.digitalocean.com/documentation/v2/#create-a-new-floating-ip-assigned-to-a-droplet create-a-new-floating-ip-assigned-to-a-droplet)\n// **Parameters**\n// **dropletId**: `number`, The ID of Droplet that the Floating IP will be assigned to.\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.floatingIpsAssignDroplet(dropletId, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Create and assign a Floating IP to a region.\n// Info: [https://developers.digitalocean.com/documentation/v2/#create-a-new-floating-ip-assigned-to-a-droplet create-a-new-floating-ip-assigned-to-a-droplet](https://developers.digitalocean.com/documentation/v2/#create-a-new-floating-ip-assigned-to-a-droplet create-a-new-floating-ip-assigned-to-a-droplet)\n// **Parameters**\n// **region**: `string`, The slug identifier for the region the Floating IP will be reserved to.\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.floatingIpsAssignRegion(region, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Retrieve an existing Floating IP\n// Info: [https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-floating-ip retrieve-an-existing-floating-ip](https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-floating-ip retrieve-an-existing-floating-ip)\n// **Parameters**\n// **ipAddress**: `string`, Floating IP address.\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.floatingIpsGet(ipAddress, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Delete a Floating IP\n// Info: [https://developers.digitalocean.com/documentation/v2/#delete-a-floating-ips delete-a-floating-ips](https://developers.digitalocean.com/documentation/v2/#delete-a-floating-ips delete-a-floating-ips)\n// **Parameters**\n// **ipAddress**: `string`, Floating IP address\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.floatingIpsDelete(ipAddress, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Request an action on a Floating IP\n// Info: [https://developers.digitalocean.com/documentation/v2/#floating-ip-actions floating-ip-actions](https://developers.digitalocean.com/documentation/v2/#floating-ip-actions floating-ip-actions)\n// **Parameters**\n// **ipAddress**: `string`, Floating IP address\n// **action**: `*`, Action options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.floatingIpsRequestAction(ipAddress, action, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// List all actions for a Floating IP\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-all-actions-for-a-floating-ip list-all-actions-for-a-floating-ip](https://developers.digitalocean.com/documentation/v2/#list-all-actions-for-a-floating-ip list-all-actions-for-a-floating-ip)\n// **Parameters**\n// **ipAddress**: `string`, Floating IP address\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.floatingIpsGetActions(ipAddress, query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Retrieve an existing Floating IP action\n// Info: [https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-floating-ip-action retrieve-an-existing-floating-ip-action](https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-floating-ip-action retrieve-an-existing-floating-ip-action)\n// **Parameters**\n// **ipAddress**: `string`, Floating IP address\n// **actionId**: `number`, The Id of the action\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.floatingIpsGetAction(ipAddress, actionId, callback) \n\n",
+					"### DigitalOcean.",
+					"public",
+					"### DigitalOce",
+					"### Digi",
+					"### DigitalOcean",
+					"public",
+					"### DigitalOce",
+					"### DigitalOcean.",
+					"require",
+					"type",
+					"https",
+					": ",
+					"public",
+					"$inject",
+					"klass",
+					"    function",
+					"function",
+					"minerFile",
+					"export",
+					"MinerStatusController",
+					"Components",
+					"this",
+					"miner",
+					"class",
+					"interface",
+					"$ctrl.miner.chart",
+					"let",
+					"self.miner",
+					"self.hist",
+					"miner",
+					"miner.chart",
+					"miner",
+					"miner.chart",
+					"nogloba",
+					"  ",
+					"times",
+					"IInt",
+					"interval",
+					"declare ",
+					"module",
+					"type",
+					"\"",
+					"process",
+					"module \"os",
+					"module"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1480,114 +589,6 @@
 				"regex": false,
 				"replace_history":
 				[
-					"GeoCsv",
-					"Workflow",
-					"Neogov.NetSuite.SyncEngine",
-					"DomainModel.Program",
-					"Perform.Readonly.Core.Views",
-					"Resources",
-					"EmployerId",
-					"CurrentUser.HasAccess",
-					"EmployeeCanEditEvaluation",
-					"new ",
-					"Subquery",
-					"IPhoenixQuery",
-					"httpBaseInterceptor",
-					"\"pe.httpBaseInterceptor\"",
-					"addEllipsisToText",
-					"addEllipsisToCSV",
-					"task.type",
-					"step.type",
-					"workflow.SubmitRating(",
-					"6.1.3\\lib\\net45",
-					"<TargetFrameworkVersion>v4.5",
-					"spec.Express().MatchType",
-					"spec",
-					"Where(IDbSpecification",
-					"query, request",
-					"Adjusted.For",
-					"new EmployeeVisibleToUser",
-					"..\\..\\packages",
-					"externalreferences\\Autofac\\Autofac.Mvc5.3.1.0\\lib\\net45\\Autofac.Integration.Mvc.dll",
-					"Version=3.4.1",
-					"\"~/less\\1less\"",
-					"Id",
-					"configuration.UserSetting",
-					"EvaluationStatus.Canceled",
-					"#608021",
-					"#D04020",
-					"Autofac, Version=2.6.1.841",
-					"externalreferences\\Autofac\\2.6.4.841\\Autofac.dll",
-					"clock.Change",
-					"System.Web.Mvc, Version=3.0.0.0",
-					"GetEmployeeEvaluations",
-					"httpGetEnabled=\"false\"",
-					"net.pipe://localhost/corehr-services/",
-					"localhost/corehr-services",
-					"localhost/corehr-service",
-					":59240",
-					"ErrorMessage = ResClass.",
-					".CoreHr.",
-					"= @EmployerID",
-					"..\\lib",
-					"..\\packages",
-					"..\\</SolutionDir>",
-					"database",
-					"mig.engine",
-					"<PlatformTarget>AnyCPU</PlatformTarget>",
-					"bin\\Release",
-					"Unified.Tests.Console",
-					"create procedure",
-					"key=\"SMTPServer\" value=\"127.0.0.1\"",
-					"Unified.Infrastructure",
-					"Unified.Infrastructre",
-					"<MvcBuildViews>false</MvcBuildViews>",
-					"@model Contacts.Web",
-					"\"Contact\"",
-					"@model Contacts.Contact",
-					"Contacts.AllModel",
-					"Contacts.Models;",
-					"key.napomena_o_nabavnoj_prodajnoj",
-					"key.zaboravili_lozinku",
-					"key.isteklo_vrijeme_izmjene_lozinke",
-					"key.opis_klijenata_ponuda_racuna",
-					"key.opis_unosa_stavke",
-					"key.nije_pronadjen_racun",
-					"key.nije_pronadjen_klijent",
-					"\"ReceiptNew\"",
-					"\"ReceiptNewFromTender\"",
-					"key.opis_unosa_u_cijenik",
-					"key.niti_jedan_predlozak",
-					"key.pitanje_obrisi_cijenik",
-					"",
-					"Group",
-					"Product",
-					"\\1,\\2",
-					"DataFormatString = \"{0:#,0.00}\"",
-					"PrintCurr()",
-					".\\1",
-					"\\1.\\2",
-					"\\10",
-					"",
-					"\\1.\\2",
-					"\\0.\\1",
-					"\\1.\\1",
-					"Finance.Round",
-					"FinRound",
-					"\\'",
-					"\\\\",
-					"\\>",
-					"\\<",
-					"\\'",
-					"RebateModified",
-					"NettoModified",
-					"key.promijeni_prodajnu_cijenu_svima",
-					"key.info.adjust_prices.message",
-					"key.title.adjust_prices",
-					"mb_postavke_ispisa",
-					"da_li_zelite_izbrisati_nesto",
-					"\")</div>",
-					"</div>"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -1597,21 +598,33 @@
 			},
 			"incremental_find":
 			{
-				"height": 47.0
+				"height": 44.0
 			},
 			"input":
 			{
-				"height": 76.0
+				"height": 69.0
 			},
 			"menu_visible": true,
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.errorlist":
+			{
+				"height": 424.0
+			},
 			"output.find_results":
 			{
-				"height": 100.0
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 230.0
 			},
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 90.0
+				"height": 88.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1621,516 +634,148 @@
 				"selected_items":
 				[
 					[
-						"encodin",
-						"assets\\documents\\csv-test-03-encoding.txt"
+						"gulp",
+						"seed-gulp-ts\\gulpfile.js"
 					],
 					[
-						"csvtest",
-						"assets\\documents\\csv-test-02-1000-points.txt"
+						"packa",
+						"seed-gulp-ts\\package.json"
 					],
 					[
-						"ass",
-						"src\\GeoCSV\\Properties\\AssemblyInfo.cs"
+						"ma",
+						"seed-gulp-ts\\src\\main.ts"
 					],
 					[
-						"main",
-						"src\\GeoCSV\\Main.cs"
+						"ine",
+						"seed-gulp-ts\\src\\index.html"
 					],
 					[
-						"mainde",
-						"src\\GeoCSV\\Main.Designer.cs"
+						"in",
+						"seed-gulp-ts\\src\\index.html"
 					],
 					[
-						"dxfcon",
-						"src\\GeoCSV\\DXF\\DXFConverter.cs"
+						"run",
+						"seed-gulp-ts\\run.ps1"
 					],
 					[
-						"dxfde",
-						"src\\GeoCSV\\DXF\\DXFConverter.Designer.cs"
+						"querie",
+						"seed-gulp-ts\\src\\queries.ts"
 					],
 					[
-						"asss",
-						"src\\GeoCSV\\Properties\\AssemblyInfo.cs"
+						"inde",
+						"@types\\angular\\index.d.ts"
 					],
 					[
-						"geod",
-						"assets\\documents\\geodeti\\geodeti.json"
+						"typean",
+						"@types\\angular\\index.d.ts"
 					],
 					[
-						"sisa",
-						"assets\\documents\\geodeti\\Sisačko-moslavačka županija.txt"
+						"",
+						"seed-gulp-ts\\package.json"
 					],
 					[
-						"mains",
-						"src\\GeoCSV\\Main.cs"
+						"miners",
+						"seed-gulp-ts\\src\\miner-status.ts"
 					],
 					[
-						"geocsv",
-						"src\\GeoCSV\\Licensing\\GeoCSVApplication.cs"
+						"dash",
+						"seed-gulp-ts\\src\\dashboard.ts"
 					],
 					[
-						"build",
-						"build.ps1"
+						"compo",
+						"seed-gulp-ts\\src\\components.ts"
 					],
 					[
-						"buidl",
-						"build.ps1"
+						"miner",
+						"seed-gulp-ts\\src\\miner-status.ts"
 					],
 					[
-						"aboutcs",
-						"src\\GeoCSV\\About.cs"
+						"do",
+						"seed-gulp-ts\\src\\do-wrapper.d.ts"
 					],
 					[
-						"webconfig",
-						"src\\Geo.LicenseServer\\Web.config"
+						"comp",
+						"seed-gulp-ts\\src\\components.ts"
 					],
 					[
-						"giti",
-						".gitignore"
+						"ind",
+						"seed-gulp-ts\\src\\index.html"
 					],
 					[
-						"buil",
-						"build.ps1"
+						"dashboa",
+						"seed-gulp-ts\\src\\dashboard.ts"
 					],
 					[
-						"resor",
-						"src\\GeoCSV\\Properties\\Resources.resx"
+						"dow",
+						"seed-gulp-ts\\src\\do-wrapper.d.ts"
 					],
 					[
-						"bui",
-						"build.ps1"
+						"indexts",
+						"seed-gulp-ts\\src\\index.ts"
 					],
 					[
-						"csvedito",
-						"src\\CSVEditor.sln"
+						"mine",
+						"seed-gulp-ts\\lib\\miner-status.js"
 					],
 					[
-						"buyd",
-						"src\\CSVEditor\\BuyDialog.Designer.cs"
+						"angulad",
+						"@types\\angular\\index.d.ts"
 					],
 					[
-						"buydialo",
-						"src\\CSVEditor\\BuyDialog.cs"
+						"testgree",
+						"seed-gulp-ts\\test\\greeter-spec.ts"
 					],
 					[
-						"buyreq",
-						"src\\CSVEditor\\Licensing\\BuyRequest.cs"
+						"gree",
+						"seed-gulp-ts\\lib\\greeter.js"
 					],
 					[
-						"geocv",
-						"src\\CSVEditor\\Licensing\\GeoCSVApplication.cs"
+						"tscon",
+						"seed-gulp-ts\\tsconfig.json"
 					],
 					[
-						"gitin",
-						".gitignore"
+						"tsconfif",
+						"seed-gulp-ts\\src\\bower_components\\jquery\\src\\traversing\\findFilter.js"
 					],
 					[
-						"licenseserv",
-						"src\\Geo.LicenseServer\\Services\\License\\LicenseService.cs"
+						"char",
+						"@types\\chart.js\\chart.js.d.ts"
 					],
 					[
-						"intell",
-						"tools\\intellilock.url"
+						"anguin",
+						"@types\\angular\\index.d.ts"
 					],
 					[
-						"csvre",
-						"src\\CSVEditor\\CSVReader.cs"
+						"ang",
+						"@types\\angular\\index.d.ts"
 					],
 					[
-						"conver",
-						"src\\CSVEditor\\DXF\\Converter.cs"
+						"anguinde",
+						"@types\\angular\\index.d.ts"
 					],
 					[
-						"csveditocs",
-						"src\\CSVEditor\\CSVEditor.csproj"
+						"see",
+						"seed-gulp-ts.sublime-project"
 					],
 					[
-						"g",
-						"gulp.ts"
+						"pa",
+						"package.json"
 					],
 					[
-						"addstepcontro",
-						"platform\\src\\WebApp\\Scripts\\Areas\\ProcessLibrary\\Detail\\add-step-controller.js"
+						"tslin",
+						"tslint.json"
 					],
 					[
-						"addstepconto",
-						"platform\\src\\WebApp\\Scripts\\Areas\\ProcessLibrary\\Detail\\AddEdit-StepController.js"
+						"gre",
+						"src\\greeter.ts"
 					],
 					[
-						"scriptsperformancerating",
-						"platform\\src\\WebApp\\Scripts\\Areas\\Reports\\PerformanceRating\\view.cshtml"
+						"pac",
+						"package.json"
 					],
 					[
-						"platfoservicesimpl",
-						"platform\\src\\Neogov.Platform.Services.Implementation\\Neogov.Platform.Services.Implementation.csproj"
-					],
-					[
-						"webappwebconfi",
-						"platform\\src\\WebApp\\web.config"
-					],
-					[
-						"connectionstring",
-						"platform\\src\\WebApp\\ConfigurationFiles\\connectionStrings.config"
-					],
-					[
-						"evaluationqu",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\Queries\\Evaluation\\EvaluationQuery.cs"
-					],
-					[
-						"performarepoqu",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\Queries\\Reports\\PerformanceRatingReportQuery.cs"
-					],
-					[
-						"employeequ",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\Queries\\Administrative\\EmployeeQuery.cs"
-					],
-					[
-						"employeeinfosql",
-						"platform\\databases\\neogovpe\\01_scripts\\0207-PF-16183\\01_Create_Table_EmployeeInfo.sql"
-					],
-					[
-						"evaluationstatus",
-						"platform\\src\\PerformModules\\Perform.Common.Core\\Enums\\EvaluationStatus.cs"
-					],
-					[
-						"pecontentsectionitempci",
-						"platform\\src\\WebApp\\Scripts\\angular\\shared\\BusinessWidgets\\Components\\Content\\pe-content-section-item-picker.ts"
-					],
-					[
-						"goalchange",
-						"platform\\src\\PerformModules\\Perform.Common.Core\\DomainEvents\\GoalChangedEvent.cs"
-					],
-					[
-						"endposinjs",
-						"platform\\src\\WebApp\\Content\\CompiledTypescript\\framework\\endpoints\\Endpoints.js"
-					],
-					[
-						"employeeinsert",
-						"platform\\databases\\neogovpe\\04_stored_procedures\\dbo.Employees_Insert.StoredProcedure.sql"
-					],
-					[
-						"programhandler",
-						"platform\\src\\PerformModules\\Perform.EvaluationSetup.Core\\EventHandler\\PopulateProgramTargetsHandler.cs"
-					],
-					[
-						"stored_proceduresappli",
-						"platform\\databases\\neogovpe\\04_stored_procedures\\dbo.stp_GetApplicationSettingForEmployer.StoredProcedure.sql"
-					],
-					[
-						"applicationsettinprovi",
-						"platform\\src\\Neogov.PE.Platform\\Providers\\ApplicationSettingProvider.cs"
-					],
-					[
-						"workfloapiac",
-						"platform\\src\\WebApp\\Scripts\\CustomObjects\\WorkflowAPIAction.js"
-					],
-					[
-						"bundleconf",
-						"platform\\src\\WebApp\\App_Start\\BundleConfig.cs"
-					],
-					[
-						"rules.cs",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\Rules.cs"
-					],
-					[
-						"evaluationworkflowstagereviewers_select_byreviewerid",
-						"platform\\databases\\neogovpe\\04_stored_procedures\\dbo.EvaluationWorkflowStageReviewers_Select_ByReviewerID.StoredProcedure.sql"
-					],
-					[
-						"employeeevaluationsections_select_byemployeeevaluationid",
-						"platform\\databases\\neogovpe\\04_stored_procedures\\dbo.EmployeeEvaluationSections_Select_ByEmployeeEvaluationID.StoredProcedure.sql"
-					],
-					[
-						"webappcs",
-						"platform\\src\\WebApp\\WebApp.csproj"
-					],
-					[
-						"reportchartviets",
-						"platform\\src\\WebApp\\Scripts\\framework\\models\\IPerformanceRatingReportChartView.ts"
-					],
-					[
-						"ratingreportchartvits",
-						"platform\\src\\WebApp\\Scripts\\Areas\\Reports\\PerformanceRating\\Chart\\IPerformanceRatingReportChartView.ts"
-					],
-					[
-						"fetchandre",
-						"platform\\databases\\neogovpe\\04_stored_procedures\\dbo.EmployeeEvaluationCreationQueue_FetchAndReserve.sql"
-					],
-					[
-						"fetchand",
-						"platform\\databases\\neogovpe\\04_stored_procedures\\dbo.EmployeeEvaluationCreationQueue_FetchAndReserve.sql"
-					],
-					[
-						"controller",
-						"platform\\src\\WebApp\\Scripts\\Areas\\Reports\\PerformanceRating\\controller.ts"
-					],
-					[
-						"personalproje",
-						"personal\\neogov.sublime-project"
-					],
-					[
-						"performanceratingreportchartview",
-						"platform\\src\\PerformModules\\Perform.Readonly.Core\\Views\\PerformanceRatingReportChartView.cs"
-					],
-					[
-						"performratingqu",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\Queries\\Reports\\PerformanceRatingReportQuery.cs"
-					],
-					[
-						"performancratingservits",
-						"platform\\src\\WebApp\\Scripts\\Areas\\Reports\\PerformanceRating\\service.ts"
-					],
-					[
-						"evaluationworkfser",
-						"platform\\src\\PerformModules\\Perform.EvaluationSetup.Core\\ApplicationService\\Evaluation\\EvaluationWorkflowService.cs"
-					],
-					[
-						"canaddnetshifman",
-						"platform\\src\\PerformModules\\Perform.EvaluationSetup.Core\\DomainSpecifications\\Evaluation\\CanAddNextShiftManagerToEvaluation.cs"
-					],
-					[
-						"shift",
-						"platform\\src\\PerformModules\\Perform.EvaluationSetup.Core\\EventHandler\\EvaluationShiftManagerHandler.cs"
-					],
-					[
-						"scheduservi",
-						"platform\\src\\Scheduling.Service\\Service.cs"
-					],
-					[
-						"silenti",
-						"platform\\src\\Scheduling.Api\\Attributes\\SilentlyDisableConcurrentExecutionAttribute.cs"
-					],
-					[
-						"program",
-						"platform\\src\\WebApp.Test\\Program.cs"
-					],
-					[
-						"bundelc",
-						"platform\\src\\WebApp\\App_Start\\BundleConfig.cs"
-					],
-					[
-						"bundlecon",
-						"platform\\src\\WebApp\\App_Start\\BundleConfig.cs"
-					],
-					[
-						"webcsproj",
-						"platform\\src\\WebApp\\WebApp.csproj"
-					],
-					[
-						"webappcsproj",
-						"platform\\src\\WebApp\\WebApp.csproj"
-					],
-					[
-						"evaluationstatu",
-						"platform\\src\\PerformModules\\Perform.Common.Core\\Enums\\EvaluationStatus.cs"
-					],
-					[
-						"gridreq",
-						"platform\\src\\WebApp\\Common\\KendoGrid\\GridRequestModelBinder.cs"
-					],
-					[
-						"schedulinserciconnection",
-						"platform\\src\\Scheduling.Service\\ConfigurationFiles\\connectionStrings.config"
-					],
-					[
-						"employeeevaluationcreationqueue_fetchandreserve",
-						"platform\\databases\\neogovpe\\04_stored_procedures\\dbo.EmployeeEvaluationCreationQueue_FetchAndReserve.sql"
-					],
-					[
-						"positionsql",
-						"platform\\databases\\neogovpe\\03_views\\Core.Positions.sql"
-					],
-					[
-						"setupconsecsproj",
-						"platform\\src\\PerformModules\\Perform.EvaluationSetup.Core\\Perform.EvaluationSetup.Core.csproj"
-					],
-					[
-						"evaluationlistts",
-						"platform\\src\\WebApp\\scripts\\Areas\\Evaluation\\List\\Directives\\evaluationList.ts"
-					],
-					[
-						"evaluationquer",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\Queries\\Evaluation\\EvaluationQuery.cs"
-					],
-					[
-						"evaluationlistcontrots",
-						"platform\\src\\WebApp\\scripts\\Areas\\Evaluation\\List\\Controllers\\evaluationList.bulkArchive.ts"
-					],
-					[
-						"journalflc",
-						"platform\\src\\WebApp\\scripts\\angular\\shared\\BusinessWidgets\\Components\\Journal\\Flyouts\\journal-flyout-controller.ts"
-					],
-					[
-						"visibleto",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\Filters\\VisibleToHrAdminOrUser.cs"
-					],
-					[
-						"employeecontrolle",
-						"platform\\src\\WebApp\\APIs\\Employee\\Controllers\\EmployeeController.cs"
-					],
-					[
-						"employeequery",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\Queries\\Administrative\\EmployeeQuery.cs"
-					],
-					[
-						"insertupdatech",
-						"platform\\databases\\neogovpe\\04_stored_procedures\\dbo.InsertUpdateChecklistItem.StoredProcedure.sql"
-					],
-					[
-						"tagquery",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\Queries\\Administrative\\TagQuery.cs"
-					],
-					[
-						"usercontroll",
-						"platform\\src\\WebApp\\Areas\\Application\\Controllers\\UserController.cs"
-					],
-					[
-						"evalautoinsectionqu",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\Queries\\Evaluation\\EvaluationSectionsQuery.cs"
-					],
-					[
-						"evalautionsectionquer",
-						"platform\\src\\PerformModules\\Perform.Readonly.Core\\Queries\\Evaluation\\IEvaluationSectionsQuery.cs"
-					],
-					[
-						"getutcdatetimas",
-						"platform\\databases\\neogovpe\\02_functions\\dbo.fn_GetUTCDatetime_AsDate.UserDefinedFunction.sql"
-					],
-					[
-						"vw_employeeevaluationstatus",
-						"platform\\databases\\neogovpe\\03_views\\dbo.vw_EmployeeEvaluationStatus.sql"
-					],
-					[
-						"stp_employeeevaluationsforreport",
-						"platform\\databases\\neogovpe\\04_stored_procedures\\dbo.stp_EmployeeEvaluationsForReport.StoredProcedure.sql"
-					],
-					[
-						"stp_reports_employeestatus_chart",
-						"platform\\databases\\neogovpe\\04_stored_procedures\\dbo.stp_Reports_EmployeeStatus_Chart.StoredProcedure.sql"
-					],
-					[
-						"stp_reports_emplo",
-						"platform\\databases\\neogovpe\\04_stored_procedures\\dbo.stp_Reports_EmployeeStatusReport_Detailed.StoredProcedure.sql"
-					],
-					[
-						"stp_reports_emplosql",
-						"platform\\databases\\neogovpe\\04_stored_procedures\\dbo.stp_Reports_EmployeeStatusReport_Detailed.StoredProcedure.sql"
-					],
-					[
-						"apisevalcontro",
-						"platform\\src\\WebApp\\APIs\\Evaluation\\Controllers\\EvaluationController.cs"
-					],
-					[
-						"journafl",
-						"platform\\src\\WebApp\\scripts\\angular\\shared\\BusinessWidgets\\Components\\Journal\\Flyouts\\journal-flyout-controller.ts"
-					],
-					[
-						"evaluationcontroll",
-						"platform\\src\\WebApp\\APIs\\Evaluation\\Controllers\\EvaluationController.cs"
-					],
-					[
-						"httpint",
-						"platform\\src\\WebApp\\scripts\\angular\\shared\\SharedServices\\Services\\httpBaseInterceptor.js"
-					],
-					[
-						"journalservi",
-						"platform\\src\\PerformModules\\Perform.Administrative.Core\\ApplicationService\\JournalService.cs"
-					],
-					[
-						"journacontro",
-						"platform\\src\\WebApp\\scripts\\angular\\shared\\BusinessWidgets\\Components\\Journal\\Flyouts\\journal-flyout-controller.ts"
-					],
-					[
-						"singlepacontroller",
-						"platform\\src\\WebApp\\Controllers\\SinglePageApplicationBaseController.cs"
-					],
-					[
-						"apisemployeecontro",
-						"platform\\src\\WebApp\\APIs\\Employee\\Controllers\\EmployeeController.cs"
-					],
-					[
-						"employeeevalstatu",
-						"platform\\src\\Neogov.PE.Entities\\Implementation\\EmployeeEvaluationStatus.cs"
-					],
-					[
-						"photo",
-						"platform\\src\\WebApp\\scripts\\Areas\\Photocontrol\\photouploadevents.js"
-					],
-					[
-						"printrulebu",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\RuleBuilders\\EvaluationPrintPreviewRuleBuilder.cs"
-					],
-					[
-						"evaldetailrulebui",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\RuleBuilders\\EvaluationSectionDetailsRuleBuilder.cs"
-					],
-					[
-						"evaluationdetavi",
-						"platform\\src\\PerformModules\\Perform.Readonly.Core\\Views\\Evaluation\\Print\\EvaluationDetailView.cs"
-					],
-					[
-						"printpreviewview",
-						"platform\\src\\PerformModules\\Perform.Readonly.Core\\Views\\Evaluation\\Print\\EvaluationPrintPreviewView.cs"
-					],
-					[
-						"approvreva",
-						"platform\\src\\WebApp\\scripts\\Approval\\approvalRevamped.js"
-					],
-					[
-						"journalrepo",
-						"platform\\src\\WebApp\\scripts\\angular\\shared\\BusinessWidgets\\Components\\Journal\\Services\\JournalRepository.ts"
-					],
-					[
-						"apita",
-						"platform\\src\\WebApp\\scripts\\angular\\shared\\SharedServices\\Endpoints\\ApiTag.ts"
-					],
-					[
-						"perichtext",
-						"platform\\src\\WebApp\\scripts\\angular\\shared\\BusinessWidgets\\Components\\Directives\\pe-rich-text-editor.js"
-					],
-					[
-						"apitag",
-						"platform\\src\\WebApp\\scripts\\angular\\shared\\SharedServices\\Models\\ITagView.ts"
-					],
-					[
-						"xemployeejour",
-						"platform\\databases\\neogovpe\\01_scripts\\0207-PF-17077\\0001-Create-xEmployeeJournals_Employees-table.sql"
-					],
-					[
-						"neogovpejo",
-						"platform\\src\\Neogov.PE.Jobs\\Neogov.PE.Jobs.csproj"
-					],
-					[
-						"employeecontrol",
-						"platform\\src\\WebApp\\APIs\\Employee\\Controllers\\EmployeeController.cs"
-					],
-					[
-						"employeelook",
-						"platform\\src\\PerformModules\\Perform.Readonly.Core\\Views\\EmployeeLookupView.cs"
-					],
-					[
-						"storagestt",
-						"platform\\src\\WebApp\\ConfigurationFiles\\storageSettings.config"
-					],
-					[
-						"peconfi",
-						"platform\\src\\WebApp\\Common\\PEConfiguration.cs"
-					],
-					[
-						"webappappsettingtempla",
-						"platform\\src\\WebApp\\ConfigurationFiles\\appSettings.config.template"
-					],
-					[
-						"notificationse",
-						"platform\\src\\Neogov.PE.Jobs\\Notifications\\NotificationService.cs"
-					],
-					[
-						"notifcatoinconpro",
-						"platform\\src\\Neogov.PE.Platform\\Providers\\Notifications\\NotificationConfigurationProvider.cs"
-					],
-					[
-						"notificenu",
-						"platform\\src\\Neogov.PE.Jobs\\Notifications\\Notifications\\RaterUnlockedNotification.cs"
+						"pack",
+						"package.json"
 					]
 				],
 				"width": 0.0
@@ -2138,9 +783,13 @@
 			"select_project":
 			{
 				"height": 1250.0,
-				"last_filter": "plato",
+				"last_filter": "miner",
 				"selected_items":
 				[
+					[
+						"miner",
+						"D:\\Mining\\Code\\miner.sublime-project"
+					],
 					[
 						"plato",
 						"D:\\Code\\neogov\\personal\\neogov.platform.sublime-project"
@@ -2148,258 +797,6 @@
 					[
 						"pla",
 						"D:\\Code\\neogov\\personal\\neogov.platform.sublime-project"
-					],
-					[
-						"seed",
-						"D:\\Code\\seed-gulp-ts\\seed-gulp-ts.sublime-project"
-					],
-					[
-						"platform",
-						"D:\\Code\\neogov\\personal\\neogov.platform.sublime-project"
-					],
-					[
-						"platfo",
-						"D:\\Code\\neogov\\personal\\neogov.platform.sublime-project"
-					],
-					[
-						"pl",
-						"D:\\Code\\neogov\\personal\\neogov.platform.sublime-project"
-					],
-					[
-						"csv",
-						"D:\\Code\\bosnjak\\csv-editor\\csv-editor.sublime-project"
-					],
-					[
-						"cs",
-						"D:\\Code\\bosnjak\\csv-editor\\csv-editor.sublime-project"
-					],
-					[
-						"csvedi",
-						"D:\\Code\\bosnjak\\csv-editor\\csv-editor.sublime-project"
-					],
-					[
-						"jog",
-						"D:\\Code\\jog-tracker\\jog-tracker.sublime-project"
-					],
-					[
-						"",
-						"D:\\Code\\neogov\\personal\\neogov.all.sublime-project"
-					],
-					[
-						"all",
-						"D:\\Code\\neogov\\personal\\neogov.all.sublime-project"
-					],
-					[
-						"neogoalll",
-						"D:\\Code\\neogov\\personal\\neogov.all.sublime-project"
-					],
-					[
-						"csved",
-						"D:\\Code\\bosnjak\\csv-editor\\csv-editor.sublime-project"
-					],
-					[
-						"jogt",
-						"D:\\Code\\jog-tracker\\jog-tracker.sublime-project"
-					],
-					[
-						"jo",
-						"D:\\Code\\jog-tracker\\jog-tracker.sublime-project"
-					],
-					[
-						"jogtra",
-						"D:\\Code\\jog-tracker\\jog-tracker.sublime-project"
-					],
-					[
-						"neo",
-						"D:\\Code\\neogov\\personal\\neogov.all.sublime-project"
-					],
-					[
-						"j",
-						"D:\\Code\\jog-tracker\\jog-tracker.sublime-project"
-					],
-					[
-						"jogtr",
-						"D:\\Code\\jog-tracker\\jog-tracker.sublime-project"
-					],
-					[
-						"test",
-						"D:\\Code\\cs-test-mvc\\cs-test-mvc.sublime-project"
-					],
-					[
-						"zooo",
-						"D:\\Code\\cs-sample-zoo\\cs-sample-zoo.sublime-project"
-					],
-					[
-						"zoo",
-						"D:\\Code\\cs-sample-zoo\\cs-sample-zoo.sublime-project"
-					],
-					[
-						"private",
-						"D:\\DotNet\\_Private\\private.sublime-project"
-					],
-					[
-						"coditli",
-						"D:\\DotNet\\_Private\\Educ.Codility\\codility.sublime-project"
-					],
-					[
-						"priva",
-						"D:\\DotNet\\_Private\\private.sublime-project"
-					],
-					[
-						"in",
-						"D:\\Code\\cs-lib-inheritbdd-xunit\\inheritbdd-xunit.sublime-project"
-					],
-					[
-						"bdd",
-						"D:\\Code\\cs-lib-xunit-playground\\xunit-bdd.sublime-project"
-					],
-					[
-						"pneo",
-						"D:\\Code\\neogov\\personal\\neogov.sublime-project"
-					],
-					[
-						"neogoap",
-						"D:\\Code\\neogov\\personal\\neogov.all.sublime-project"
-					],
-					[
-						"neogovall",
-						"D:\\Code\\neogov\\personal\\neogov.all.sublime-project"
-					],
-					[
-						"neogo",
-						"D:\\Code\\neogov\\personal\\neogov.all.sublime-project"
-					],
-					[
-						"neogov",
-						"D:\\Code\\neogov\\personal\\neogov.sublime-project"
-					],
-					[
-						"pri",
-						"D:\\DotNet\\_Private\\private.sublime-project"
-					],
-					[
-						"neogovo",
-						"/D/Code/neogov/personal/neogov.sublime-project"
-					],
-					[
-						"booking",
-						"/D/Code/booking/Booking.sublime-project"
-					],
-					[
-						"jsno",
-						"/D/Code/js-node-visualstudio/js-node-visualstudio.sublime-project"
-					],
-					[
-						"priv",
-						"/D/DotNet/_Private/private.sublime-project"
-					],
-					[
-						"offerion",
-						"/D/Code/offerion/Offerion.sublime-project"
-					],
-					[
-						"offer",
-						"/D/Code/offerion/BookingIt.MoBill.sublime-project"
-					],
-					[
-						"core",
-						"/D/Code/neogov/personal/neogov.corehr.sublime-project"
-					],
-					[
-						"offe",
-						"/D/Code/offerion/Offerion.sublime-project"
-					],
-					[
-						"jsvi",
-						"/D/Code/js-node-visualstudio/js-node-visualstudio.sublime-project"
-					],
-					[
-						"lib",
-						"/D/Code/cs-lib-security-framework/cs-lib-security-framework.sublime-project"
-					],
-					[
-						"cstes",
-						"/D/Code/cs-test-mvc/cs-test-mvc.sublime-project"
-					],
-					[
-						"mobill",
-						"/D/Code/Inetpub/mobill-118-refactor-cijenika/BookingIt.MoBill.sublime-project"
-					],
-					[
-						"angula",
-						"/D/Code/angular-test/angular-test.sublime-project"
-					],
-					[
-						"noop",
-						"/D/Code/cs-example-nopcommerce/nopcommerce.sublime-project"
-					],
-					[
-						"anug",
-						"/D/Code/angular-test/angular-test.sublime-project"
-					],
-					[
-						"coreh",
-						"/D/Code/neogov/personal/neogov.corehr.sublime-project"
-					],
-					[
-						"angu",
-						"/D/Code/angular-test/angular-test.sublime-project"
-					],
-					[
-						"mo",
-						"/D/Code/Inetpub/wwwroot_mobill/BookingIt.MoBill.sublime-project"
-					],
-					[
-						"s",
-						"/D/Code/neogov_on_stash/neogov_on_stash.sublime-project"
-					],
-					[
-						"stasj",
-						"/D/Code/neogov_on_stash/neogov_on_stash.sublime-project"
-					],
-					[
-						"mobi",
-						"/D/old_c/Inetpub/wwwroot_mobill/BookingIt.MoBill.sublime-project"
-					],
-					[
-						"packa",
-						"/D/UserData/SublimeText2.0/Data/Packages/packages.sublime-project"
-					],
-					[
-						"radna",
-						"/C/inetpub/wwwroot/Radna/Booking.sublime-project"
-					],
-					[
-						"ww temp",
-						"/C/inetpub/wwwroot_TEMP/mobill_production/MoBill.Prod.sublime-project"
-					],
-					[
-						"ra",
-						"/C/inetpub/wwwroot/Radna/Booking.sublime-project"
-					],
-					[
-						"mobii",
-						"/C/inetpub/wwwroot_TEMP/mobill_production/MoBill.Prod.sublime-project"
-					],
-					[
-						"ursli",
-						"/D/DotNet/ODesk/CodeForNewDesign/Urslit.sublime-project"
-					],
-					[
-						"pac",
-						"/D/Dropbox/Private/SublimeText2.0/Data/Packages/packages.sublime-project"
-					],
-					[
-						"odes",
-						"/D/DotNet/ODesk/CodeForNewDesign/Urslit.sublime-project"
-					],
-					[
-						"pa",
-						"/D/Dropbox/Private/SublimeText2.0/Data/Packages/packages.sublime-project"
-					],
-					[
-						"rad",
-						"/C/inetpub/wwwroot/Radna/Booking.sublime-project"
 					]
 				],
 				"width": 950.0
@@ -2417,13 +814,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 676.0,
+			"side_bar_width": 643.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1600.0
+		"new_window_width": 1601.0
 	},
 	"windows":
 	[
@@ -2433,516 +830,148 @@
 				"selected_items":
 				[
 					[
-						"confi",
-						"configurationData\tparameter"
+						"recent",
+						"recentBallance\tlet"
 					],
 					[
-						"curr",
-						"currentEmployeeMatchesQuery\tlocal var"
+						"dur",
+						"Duration\tinterface"
 					],
 					[
-						"Create",
-						"CreateNotificationDataMap"
-					],
-					[
-						"Ratings",
-						"RatingScaleLevel"
-					],
-					[
-						"Assi",
-						"AssigneeID"
+						"pro",
+						"port\tproperty"
 					],
 					[
 						"st",
-						"styleUrl"
+						"statusMessage\tproperty"
 					],
 					[
-						"Emplo",
-						"EmployeeID"
+						"htt",
+						"HttpResponseCallback\ttype"
 					],
 					[
-						"X",
-						"xUsers_SecurityProfile"
+						"sta",
+						"startsWith\tmethod"
 					],
 					[
-						"user",
-						"UserId"
+						"Ihttp",
+						"IHttpBackendService\tinterface"
 					],
 					[
-						"xe",
-						"xUsers_SecurityProfile"
+						"wi",
+						"withCredentials\tparameter"
 					],
 					[
-						"emplo",
-						"EmployerID"
-					],
-					[
-						"Cr",
-						"CurrentManagerId"
-					],
-					[
-						"Repo",
-						"ReportingToEmployeeID"
-					],
-					[
-						"Old",
-						"OldManagerEmployeeID"
-					],
-					[
-						"Mana",
-						"ManagerProfileId"
-					],
-					[
-						"Activ",
-						"ActiveEvaluationFilterMode\tenum"
+						"$http",
+						"$httpBackend\tvar"
 					],
 					[
 						"req",
-						"request"
+						"RequestAPI\tinterface"
 					],
 					[
-						"Ne",
-						"NEW_TaskStatus"
+						"drop",
+						"DropletResponse\tinterface"
 					],
 					[
-						"task",
-						"taskModel"
+						"ca",
+						"CallbackAny\ttype"
 					],
 					[
-						"eval",
-						"evaluationId"
+						"mine",
+						"MinerFileRespone\ttype"
 					],
 					[
-						"cons",
-						"constructor\tkeyword"
+						"nu",
+						"number\tkeyword"
 					],
 					[
-						"User",
-						"UserId"
+						"re",
+						"resolve\tmethod"
 					],
 					[
-						"find",
-						"findWhere"
+						"Action",
+						"Action2\ttype"
 					],
 					[
-						"filt",
-						"filters"
+						"Dropl",
+						"DropletResponse\tinterface"
 					],
 					[
-						"Date",
-						"DateRestrict"
+						"to",
+						"toString\tmethod"
 					],
 					[
-						"filter",
-						"filterType"
+						"iang",
+						"IAngularStatic\tinterface"
 					],
 					[
-						"After",
-						"AfterTheSpecificDate"
+						"imp",
+						"implements\tkeyword"
 					],
 					[
-						"befor",
-						"BeforeTheSpecificDate"
+						"Ia",
+						"IAngularStatic\tmodule"
 					],
 					[
-						"datep",
-						"dateFilterOperator"
+						"Compo",
+						"ComponentClass\tinterface"
 					],
 					[
-						"upda",
-						"updateHeaderValue"
+						"miner",
+						"MinerQuery\tclass"
 					],
 					[
-						"filte",
-						"filterOperator"
+						"min",
+						"MinerQuery\tclass"
 					],
 					[
-						"upd",
-						"updateHeaderValue"
+						"minerfi",
+						"minerFile\tparameter"
 					],
 					[
-						"filr",
-						"filterOperator"
+						"minerfile",
+						"MinerFileRequest\ttype"
 					],
 					[
-						"oper",
-						"operator"
+						"Miner",
+						"MinerFileRequest\ttype"
 					],
 					[
-						"isv",
-						"isValueDate"
+						"Ihtt",
+						"IHttpService\tinterface"
 					],
 					[
-						"ext",
-						"extendDataSourceWithPrefilter"
+						"ihtt",
+						"IHttpService\tinterface"
 					],
 					[
-						"extend",
-						"extendDataSource"
+						"def",
+						"defer\tmethod"
 					],
 					[
-						"set",
-						"setFilter"
+						"Tre",
+						"TRequest\ttype parameter"
 					],
 					[
-						"file",
-						"filter"
+						"Chart",
+						"ChartData\tinterface"
 					],
 					[
-						"sele",
-						"selectionModel"
+						"mi",
+						"milliseconds\tmethod"
 					],
 					[
-						"apply",
-						"applyPredefinedFilterToUserFilter"
+						"folde",
+						"folder_exclude_patterns"
 					],
 					[
-						"data",
-						"dataSource"
+						"ran",
+						"range\tmethod"
 					],
 					[
-						"grid",
-						"gridInstance"
-					],
-					[
-						"le",
-						"length"
-					],
-					[
-						"va",
-						"value"
-					],
-					[
-						"trn",
-						"translateValue"
-					],
-					[
-						"trans",
-						"translateFilter"
-					],
-					[
-						"temp",
-						"tempFilter"
-					],
-					[
-						"Work",
-						"EvaluationWorkflowID"
-					],
-					[
-						"TestReposi",
-						"TestRepository"
-					],
-					[
-						"Is",
-						"IsOverdue"
-					],
-					[
-						"step",
-						"StepType_Rater"
-					],
-					[
-						"Step",
-						"StepType"
-					],
-					[
-						"TaskSt",
-						"TaskStatus_Current"
-					],
-					[
-						"Neogo",
-						"NeogovPeDb"
-					],
-					[
-						"employee",
-						"employeeRepository"
-					],
-					[
-						"evaluation",
-						"evaluationService"
-					],
-					[
-						"Curre",
-						"CurrentUserAsRater"
-					],
-					[
-						"Eval",
-						"EvaluationProcessStepView"
-					],
-					[
-						"Cur",
-						"Current"
-					],
-					[
-						"Curr",
-						"CurrentUser"
-					],
-					[
-						"Completion",
-						"CompletionType_Optional"
-					],
-					[
-						"EmployeeEval",
-						"EmployeeEvaluationID"
-					],
-					[
-						"Evalu",
-						"EvaluationProcessStep"
-					],
-					[
-						"Empl",
-						"EmployeeEvaluationSection"
-					],
-					[
-						"back",
-						"background-color"
-					],
-					[
-						"font",
-						"font-size"
-					],
-					[
-						"margin",
-						"margin"
-					],
-					[
-						"CRE",
-						"CreatedFromLibrarySectionID"
-					],
-					[
-						"Item",
-						"ItemAssignableToProgram"
-					],
-					[
-						"ite",
-						"ItemAssignableToProgram"
-					],
-					[
-						"log",
-						"logger"
-					],
-					[
-						"posi",
-						"positionID"
-					],
-					[
-						"entity",
-						"entityTypeCache"
-					],
-					[
-						"in",
-						"InstancePerLifetimeScope"
-					],
-					[
-						"sle",
-						"SelectedHierarchy"
-					],
-					[
-						"Ins",
-						"InstancePerLifetimeScope"
-					],
-					[
-						"As",
-						"AsSelf"
-					],
-					[
-						"Asso",
-						"AssociatedApproverId"
-					],
-					[
-						"Per",
-						"Performance"
-					],
-					[
-						"Perf",
-						"PerfEvalParentMenuID"
-					],
-					[
-						"per",
-						"PerfEvalParentMenuID"
-					],
-					[
-						"Tas",
-						"TaskID"
-					],
-					[
-						"Task",
-						"TaskID"
-					],
-					[
-						"ass",
-						"AssigneeEntityTypeID"
-					],
-					[
-						"Assigne",
-						"AssigneeEntityTypeID"
-					],
-					[
-						"Employ",
-						"EmployeeID"
-					],
-					[
-						"Ass",
-						"AssociatedEntityID"
-					],
-					[
-						"Associ",
-						"AssociatedEntityTypeID"
-					],
-					[
-						"Evaluation",
-						"EvaluationEntityType"
-					],
-					[
-						"Associa",
-						"AssociatedEvaluationId"
-					],
-					[
-						"asso",
-						"AssociatedApproverId"
-					],
-					[
-						"Config",
-						"ConfigurationManager"
-					],
-					[
-						"Send",
-						"SendToCustomEmployeeID"
-					],
-					[
-						"prob",
-						"probation"
-					],
-					[
-						"MAx",
-						"MaxProbationDate"
-					],
-					[
-						"Max",
-						"MaxProbationDate"
-					],
-					[
-						"Calc",
-						"CalculatedMaxProbationDate"
-					],
-					[
-						"Temp",
-						"TempDate"
-					],
-					[
-						"max",
-						"MaxProbationDate"
-					],
-					[
-						"Las",
-						"LastEvaluationDueDate"
-					],
-					[
-						"STa",
-						"StartingPoint_Immediatly"
-					],
-					[
-						"Sta",
-						"StartingPoint"
-					],
-					[
-						"dbsch",
-						"dbschemas"
-					],
-					[
-						"EMpl",
-						"EmployeeEvaluationID"
-					],
-					[
-						"sou",
-						"EmployeeEvaluationSourceID"
-					],
-					[
-						"sue",
-						"SupervisorID"
-					],
-					[
-						"Tasks",
-						"TaskStatusDate"
-					],
-					[
-						"wid",
-						"width"
-					],
-					[
-						"USe",
-						"UserData"
-					],
-					[
-						"Nex",
-						"NextDueDate"
-					],
-					[
-						"Fre",
-						"FrequencyBasis_LastProbitionary"
-					],
-					[
-						"Cre",
-						"CreationDate"
-					],
-					[
-						"Ove",
-						"OverrideOutputFormat"
-					],
-					[
-						"Templ",
-						"TemplateSourceID"
-					],
-					[
-						"ove",
-						"OverrideTemplateID"
-					],
-					[
-						"GoalVersion",
-						"GoalVersionID"
-					],
-					[
-						"EmployeeF",
-						"EmployeeFirstName"
-					],
-					[
-						"PE",
-						"PEStatus"
-					],
-					[
-						"cur",
-						"CurrentEvaluationStatus"
-					],
-					[
-						"empl",
-						"EmployeeEvaluationID"
-					],
-					[
-						"empo",
-						"EmployeeEvaluationID"
-					],
-					[
-						"eva",
-						"EmployeeEvaluationID"
-					],
-					[
-						"IsC",
-						"IsCancelled"
-					],
-					[
-						"core",
-						"corehr-services"
-					],
-					[
-						"conf",
-						"configuration"
-					],
-					[
-						"Pa",
-						"Pattern"
-					],
-					[
-						"add",
-						"Add"
+						"node",
+						"node_modules"
 					]
 				]
 			},
@@ -2956,531 +985,218 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 200.0,
-				"last_filter": "",
+				"height": 145.0,
+				"last_filter": "git status",
 				"selected_items":
 				[
 					[
-						"json",
-						"Indent JSON"
+						"git status",
+						"Git: Status"
 					],
 					[
-						"dele",
-						"File: Delete"
+						"re",
+						"TypeScript: Rename"
 					],
 					[
-						"renam",
-						"File: Rename"
+						"rnem",
+						"TypeScript: Rename"
 					],
 					[
 						"rena",
-						"File: Rename"
+						"TypeScript: Rename"
 					],
 					[
-						"project",
-						"Project: Close"
+						"form",
+						"TypeScript: Format Document"
 					],
 					[
-						"conver",
-						"Indentation: Convert to Spaces"
+						"formd",
+						"TypeScript: Format Document"
 					],
 					[
-						"book",
-						"Bookmarks: Clear All"
+						"ren",
+						"TypeScript: Rename"
 					],
 					[
-						"bookm",
-						"Bookmarks: Select All"
+						"comm",
+						"Git: Commit"
 					],
 					[
-						"bookma",
-						"Bookmarks: Toggle"
+						"add",
+						"Git: Add All"
 					],
 					[
-						"sql",
-						"Set Syntax: SQL"
-					],
-					[
-						"delete",
-						"File: Delete"
-					],
-					[
-						"dupl",
-						"File: Duplicate"
-					],
-					[
-						"ne",
-						"File: New File Relative to Current View"
-					],
-					[
-						"rene",
-						"File: Rename"
+						"git stat",
+						"Git: Status"
 					],
 					[
 						"rename",
 						"TypeScript: Rename"
 					],
 					[
-						"gitbla",
-						"Git: Blame"
-					],
-					[
-						"blame",
-						"Git: Blame"
-					],
-					[
-						"converto",
+						"conver",
 						"Indentation: Convert to Spaces"
 					],
 					[
-						"convert",
-						"Indentation: Convert to Spaces"
+						"renam",
+						"TypeScript: Rename"
 					],
 					[
-						"dlee",
-						"File: Delete"
+						"stat",
+						"Git: Status"
 					],
 					[
-						"convet",
-						"Indentation: Convert to Spaces"
+						"git adda",
+						"Git: Add All"
 					],
 					[
-						"ren",
-						"File: Rename"
+						"commit",
+						"Git: Commit"
 					],
 					[
-						"newfl",
-						"File: New File Relative to Current View"
+						"git sta",
+						"Git: Status"
 					],
 					[
-						"con",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"form",
-						"Format: Javascript"
-					],
-					[
-						"type",
-						"Set Syntax: TypeScript"
-					],
-					[
-						"new ",
-						"File: New File Relative to Current View"
-					],
-					[
-						"newf",
-						"File: New File Relative to Current View"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"removepa",
-						"Package Control: Remove Package"
-					],
-					[
-						"intallpa",
-						"Package Control: Install Package"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"filede",
-						"File: Delete"
-					],
-					[
-						"setsyjson",
-						"Set Syntax: JSON"
-					],
-					[
-						"js",
-						"Indent JSON"
-					],
-					[
-						"upda",
-						"Package Control: Upgrade/Overwrite All Packages"
-					],
-					[
-						"re",
-						"File: Rename"
-					],
-					[
-						"spaces",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"disablep",
-						"Package Control: Disable Package"
-					],
-					[
-						"iden",
-						"Auto indent"
-					],
-					[
-						"enab",
-						"Package Control: Enable Package"
-					],
-					[
-						"autod",
-						"Auto indent"
-					],
-					[
-						"ide",
-						"Indentation: Reindent Lines"
-					],
-					[
-						"autid",
-						"Auto indent"
-					],
-					[
-						"setjava",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"setsja",
-						"Set Syntax: Java Properties"
-					],
-					[
-						"disa",
-						"Package Control: Disable Package"
-					],
-					[
-						"conve",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"convetto",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"convr",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"installp",
-						"Package Control: Install Package"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
-					],
-					[
-						"convertto",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"spell",
-						"Google Spell Check"
-					],
-					[
-						"rem",
-						"File: Rename"
-					],
-					[
-						"text",
-						"Set Syntax: Plain Text"
-					],
-					[
-						"dev",
-						"DevDocs: Search From Input"
-					],
-					[
-						"xml",
-						"Set Syntax: XML"
-					],
-					[
-						"synttext",
-						"Set Syntax: Plain Text"
-					],
-					[
-						"setsyma",
-						"Set Syntax: Markdown"
-					],
-					[
-						"set",
-						"Set Syntax: Plain Text"
-					],
-					[
-						"file",
-						"File: Duplicate"
-					],
-					[
-						"packa",
-						"Package Control: List Packages"
-					],
-					[
-						"setpow",
-						"Set Syntax: PowerShell"
-					],
-					[
-						"setsynhtml",
-						"Set Syntax: HTML"
+						"gitadd",
+						"Git: Add All"
 					],
 					[
 						"installpa",
 						"Package Control: Install Package"
 					],
 					[
-						"listpa",
-						"Package Control: List Packages"
+						"enable",
+						"Package Control: Enable Package"
 					],
 					[
-						"sortli",
-						"Sort Lines"
+						"rne",
+						"TypeScript: Rename"
 					],
 					[
-						"c#",
-						"Set Syntax: C#"
+						"conve",
+						"Indentation: Convert to Spaces"
 					],
 					[
-						"delet",
-						"File: Delete"
+						"for",
+						"File: New Folder Relative to Project Root"
 					],
 					[
-						"du",
-						"File: Duplicate"
+						"fileree",
+						"File: Reveal"
 					],
 					[
-						"filedu",
-						"File: Duplicate"
+						"mo",
+						"File: Move"
 					],
 					[
-						"html",
-						"Set Syntax: HTML"
-					],
-					[
-						"power",
-						"Set Syntax: PowerShell"
-					],
-					[
-						"del",
-						"File: Delete"
-					],
-					[
-						"filene",
+						"new",
 						"File: New File Relative to Current View"
 					],
 					[
-						"filenew",
-						"File: New File Relative to Current View"
+						"move",
+						"File: Move"
 					],
 					[
-						"setsyhas",
-						"Set Syntax: Haskell"
-					],
-					[
-						"delte",
-						"File: Delete"
-					],
-					[
-						"cop",
-						"File: Copy Path"
-					],
-					[
-						"filed",
-						"File: Duplicate"
-					],
-					[
-						"ream",
-						"File: Rename"
-					],
-					[
-						"copy",
-						"File: Copy Path"
+						"rn",
+						"TypeScript: Rename"
 					],
 					[
 						"java",
 						"Set Syntax: JavaScript"
 					],
 					[
-						"upper",
-						"Convert Case: Upper Case"
+						"newrel",
+						"File: New File Relative to Current View"
 					],
 					[
-						"lowe",
-						"Convert Case: Lower Case"
+						"newfile",
+						"File: New File Relative to Current View"
 					],
 					[
-						"file dele",
+						"spaces",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"converto",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"dele",
 						"File: Delete"
 					],
 					[
-						"setsynthtml",
-						"Set Syntax: HTML"
+						"duplica",
+						"File: Duplicate"
 					],
 					[
-						"setsyntahtml",
-						"Set Syntax: HTML (ASP)"
+						"err",
+						"TypeScript: Show Error List"
 					],
 					[
-						"pacarem",
-						"Package Control: Remove Package"
+						"newfil",
+						"File: New File Relative to Current View"
 					],
 					[
-						"inst",
-						"Package Control: Install Package"
+						"newfi",
+						"File: New File Relative to Current View"
 					],
 					[
-						"disable",
-						"Package Control: Disable Package"
+						"forma",
+						"TypeScript: Format Document"
 					],
 					[
-						"upperca",
-						"Convert Case: Upper Case"
+						"get",
+						"Snippet: get-property …"
 					],
 					[
-						"uppe",
-						"Convert Case: Upper Case"
+						"doc",
+						"TypeScript: Format Document"
 					],
 					[
-						"conv",
-						"Indentation: Convert to Spaces"
+						"json",
+						"Indent JSON"
 					],
 					[
-						"filedel",
-						"File: Delete"
+						"renme",
+						"File: Rename"
 					],
 					[
-						"powe",
-						"Set Syntax: Powershell v2"
+						"typescript ",
+						"TypeScript: Signature Info"
 					],
 					[
-						"setpo",
-						"Set Syntax: Powershell v2"
+						"typere",
+						"TypeScript: Signature Info"
 					],
 					[
-						"setsyntc",
-						"Set Syntax: C#"
+						"file",
+						"File: New File Relative to Project Root"
 					],
 					[
-						"convertospa",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"space",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"converspa",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"reid",
-						"Indentation: Reindent Lines"
+						"tpefor",
+						"TypeScript: Format Document"
 					],
 					[
 						"ident",
 						"Indentation: Reindent Lines"
 					],
 					[
-						"convert to",
+						"relati",
+						"File: New File Relative to Current View"
+					],
+					[
+						"convert",
 						"Indentation: Convert to Spaces"
-					],
-					[
-						"convert t ",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"convertsp",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"convert to space",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"convert to ",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"wr",
-						"HTML: Wrap Selection With Tag"
-					],
-					[
-						"wra",
-						"HTML: Wrap Selection With Tag"
-					],
-					[
-						"wrap",
-						"HTML: Wrap Selection With Tag"
-					],
-					[
-						"remov",
-						"Package Control: Remove Package"
-					],
-					[
-						"remp",
-						"Package Control: Remove Package"
-					],
-					[
-						"jsli",
-						"JSLint"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"insa",
-						"Package Control: Install Package"
-					],
-					[
-						"bat",
-						"Set Syntax: Batch File"
-					],
-					[
-						"reve",
-						"File: Reveal"
-					],
-					[
-						"upd",
-						"Package Control: Upgrade/Overwrite All Packages"
-					],
-					[
-						"git",
-						"Git: Change Branch"
-					],
-					[
-						"git bran",
-						"Git: Change Branch"
-					],
-					[
-						"xm",
-						"Set Syntax: XML"
-					],
-					[
-						"id",
-						"Indent XML"
-					],
-					[
-						"sets",
-						"Set Syntax: HTML"
-					],
-					[
-						"snipp",
-						"Snippet: CDATA"
-					],
-					[
-						"set xml",
-						"Set Syntax: XML"
 					]
 				],
 				"width": 1320.0
 			},
 			"console":
 			{
-				"height": 269.0,
+				"height": 0.0,
 				"history":
 				[
-					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
 			"distraction_free":
@@ -3494,138 +1210,74 @@
 			},
 			"expanded_folders":
 			[
-				"/D/Code/neogov/platform"
+				"/D/Code/seed-gulp-ts"
 			],
 			"file_history":
 			[
-				"/D/UserData/SublimeText3.0/.git",
-				"/D/UserData/SublimeText3.0/.gitignore",
-				"/D/DotNet/_Private/_PowerShells/7z.bat",
-				"/D/Dropbox/Private/Certificates/augustin.juricic@gmail.com.pub",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/angular/shared/BusinessWidgets/Components/Content/Flyouts/Content-AddEditItemFlyout.ts",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/framework/Watts.config.json",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/Areas/Evaluation/Content/Directives/Evaluation-Content-SectionItemList.js",
-				"/D/Code/neogov/platform/src/WebApp/Content/CompiledTypescript/framework/services/flyout-caller-service.js",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/framework/services/flyout-caller-service.ts",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/Areas/Evaluation/AddEditGoal/Templates/Evaluation-Goal-Task-Detail.cshtml",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/Areas/Evaluation/AddEditGoal/Directives/goal-task-detail.ts",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/Areas/Evaluation/Content/Directives/Evaluation-Content-EvaluationContentSection-Details.cshtml",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/Areas/Evaluation/Content/Editors/Evaluation-Content-EvaluationDetailsContentSectionEditor.js",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/Areas/Evaluation/Content/Directives/Evaluation-Content-EvaluationContentSection-Details.js",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.GoalManagement.Infrastructure/Repositories/GoalRepository.cs",
-				"/D/Code/neogov/platform/src/WebApp/App_Start/BundleConfig.cs",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/angular/shared/BusinessWidgets/Components/Content/pe-content-section-item-picker.ts",
-				"/D/Code/neogov/platform/src/WebApp/APIs/Employee/Controllers/EmployeeController.cs",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/framework/components/flyout/goal-add-edit-flyout.ts",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/framework/widgets/goal/goal-add-edit.cshtml",
-				"/D/UserData/SublimeText3.0/Data/Local/Session.sublime_session",
-				"/D/Code/neogov/platform/mig-qa.config",
+				"/D/Code/seed-gulp-ts/gulpfile.js",
+				"/D/Code/seed-gulp-ts/package.json",
+				"/D/Code/seed-gulp-ts/seed-gulp-ts.sublime-project",
+				"/D/Code/seed-gulp-ts/.gitignore",
+				"/D/Code/seed-gulp-ts/src/main.ts",
 				"/D/Code/seed-gulp-ts/node_modules/@types/node/index.d.ts",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.Readonly.Infrastructure/Queries/Administrative/EmployeeGoalQuery.cs",
-				"/D/Code/bosnjak/csv-editor/assets/documents/csv-test-03-encoding.txt",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.GoalManagement.Core/DomainModels/PositionGoal.cs",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.GoalManagement.Core/DomainModels/DepartmentGoal.cs",
-				"/D/Code/neogov/platform/src/WebApp/APIs/Evaluation/Controllers/Content/ContentController.cs",
-				"/C/Program Files/UtilsDev/Query/Query.exe.config",
-				"/D/Code/neogov/platform/src/Scheduling.Service/ConfigurationFiles/connectionStrings.config",
-				"/D/Code/neogov/platform/src/WebApp/APIs/Administrative/Controllers/DepartmentController.cs",
-				"/D/Code/neogov/platform/src/Neogov.PE.Resources/ResLabels.resx",
-				"/D/Code/neogov/platform/src/Neogov.PE.Resources/ResPageTitle.resx",
-				"/D/Code/neogov/platform/src/WebApp/Common/KendoGrid/GridRequestModelAttribute.cs",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/framework/interfaces/Interfaces.ts",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.GoalManagement.Core/ApplicationService/GoalWorkflowService.cs",
-				"/D/Mining/miner01.wallet.recovery-words",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/angular/shared/BusinessWidgets/Templates/ContentEditor/pe-content-section-editor-main.cshtml",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/angular/shared/BusinessWidgets/Components/Content/pe-content-section-editor.js",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/angular/shared/BusinessWidgets/Components/Content/section-source-type.js",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/angular/shared/SharedServices/Models/Content/ContentSectionModels.js",
-				"/D/Code/bosnjak/csv-editor/assets/documents/geodeti.json",
-				"/D/Code/neogov/platform/databases/neogovpe/04_stored_procedures/400.dbo.UpdateEvaluationGoalVersionReference.sql",
-				"/D/Code/neogov/platform/databases/neogovpe/04_stored_procedures/050.dbo.stp_GetEvaluationStatus.sql",
-				"/D/Code/neogov/platform/databases/neogovpe/ManualScripts/01_PF-0000-phoenix-data/production/0100-fix-delete-excessive-automatic-evaluations.sql",
-				"/D/Code/neogov/platform/databases/neogovpe/ManualScripts/01_PF-0000-phoenix-data/obsolete/0020.qa-fix-remove_excessive_evaluations.sql",
-				"/D/Code/neogov/platform/databases/neogovpe/04_stored_procedures/dbo.stp_DeleteEvaluation.StoredProcedure.sql",
-				"/D/Code/neogov/platform/databases/neogovpe/04_stored_procedures/dbo.EmployeeEvaluationSectionItems_Select_ByEmployeeEvaluationID.StoredProcedure.sql",
-				"/D/Code/neogov/platform/databases/neogovpe/04_stored_procedures/dbo.EmployeeEvaluations_BulkDelete.sql",
-				"/D/Code/neogov/platform/databases/neogovpe/01_scripts/0232-PF-00000-goal-management/01-remove-unused-table.sql",
-				"/D/Code/neogov/platform/databases/neogovpe/01_scripts/0230-PF-17662-goal-extensions/01_Create_Table_EntityExtensionFields.sql",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.Readonly.Core/Entities/GoalApproval.cs",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.Readonly.Infrastructure/QueryContext.cs",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.GoalManagement.Infrastructure/TableMappers/GoalApprovalMap.cs",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.Readonly.Infrastructure/TableMappers/GoalApprovalMap.cs",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/framework/models/IMilestoneView.ts",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.EvaluationSetup.Core/DomainSpecifications/Content/QuestionAssignableToEvaluation.cs",
-				"/D/Code/neogov/platform/src/WebApp/APIs/Administrative/Controllers/NarrativeController.cs",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.EvaluationSetup.Core/DomainSpecifications/Content/CompetencyUsedOnEvaluation.cs",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.EvaluationSetup.Core/DomainSpecifications/Content/CompetencyAssignableToEvaluation.cs",
-				"/D/Code/neogov/platform/databases/neogovpe/04_stored_procedures/dbo.xDepartments_Goals_Access_Update.StoredProcedure.sql",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.Common.Test/Scheduling/Given_annual.cs",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.Readonly.Core/Entities/ClassSpecification.cs",
-				"/D/Code/bosnjak/csv-editor/src/CSVEditor/Licensing/GeoCSVApplication.cs",
-				"/C/Users/ajuricic/Desktop/X.Men.Apocalypse.2016.720p.HDTC.PINK.EDITION.X264-BOLACHASNUKU.srt",
-				"/D/Code/neogov/platform/databases/neogovpe/04_stored_procedures/dbo.stp_Reports_PerformanceRatingReport.StoredProcedure.sql",
-				"/D/Code/neogov/platform/src/WebApp/Areas/Application/Views/User/Edit.cshtml",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/Areas/Application/User/edit.js",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/Areas/Evaluation/List/Directives/evaluationList.ts",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/Areas/User/User-App.ts",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/Areas/User/Controllers/user.list.controller.ts",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.Readonly.Core/Views/GoalItemView.cs",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.Readonly.Core/Views/ContentItemView.cs",
-				"/D/Code/neogov/platform/databases/neogovpe/03_views/dbo.Employees.View.sql",
-				"/D/Code/neogov/platform/databases/neogovpe/01_scripts/0176_PF-15884-CoredataPush/03_EmployeePosition.Table.sql",
-				"/D/Code/neogov/platform/src/Scheduling.Service/ConfigurationFiles/appSettings.config",
-				"/D/Code/neogov/platform/src/Scheduling.Service/App.config",
-				"/D/Code/neogov/platform/src/Scheduling.Service/ConfigurationFiles/connectionStrings.config.template",
-				"/D/Code/neogov/platform/src/Scheduling.Service/ConfigurationFiles/hangfireConfiguration.config",
-				"/D/Code/neogov/platform/src/Scheduling.Service/ConfigurationFiles/hangfireConfiguration.config.template",
-				"/D/Code/neogov/platform/src/Scheduling.Service/ConfigurationFiles/Logging.Production.config",
-				"/D/Code/neogov/platform/src/Scheduling.Service/ConfigurationFiles/Logging.Production.config.template",
-				"/D/Code/neogov/platform/src/Scheduling.Service/ConfigurationFiles/mailSettings.config",
-				"/D/Code/neogov/platform/src/Scheduling.Service/ConfigurationFiles/mailSettings.config.template",
-				"/D/Code/neogov/platform/src/Scheduling.Service/ConfigurationFiles/pdfExportConfiguration.config",
-				"/D/Code/neogov/platform/src/Scheduling.Service/ConfigurationFiles/pdfExportConfiguration.config.template",
-				"/D/Code/neogov/platform/src/Scheduling.Service/ConfigurationFiles/appSettings.config.template",
-				"/D/Code/neogov/platform/src/Scheduling.Service/ConfigurationFiles/storageSettings.config.template",
-				"/D/Code/neogov/platform/src/Scheduling.Service/ConfigurationFiles/storageSettings.config",
-				"/D/Code/neogov/platform/src/Scheduling.Service/ConfigurationFiles/recurringJobsConfiguration.config",
-				"/D/Code/neogov/platform/src/WebApp/ConfigurationFiles/connectionStrings.config",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.Readonly.Infrastructure/Rules.cs",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.Readonly.Infrastructure/RuleBuilders/EvaluationGridRuleBuilder.cs",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.EvaluationSetup.Core/DomainSpecifications/Evaluation/CanReadRaterDetails.cs",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/Areas/ProcessLibrary/Detail/AddEdit-StepController.js",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/Areas/ProcessLibrary/Detail/add-step-controller.js",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/angular/shared/BusinessWidgets/Templates/Process/pe-process-rater.cshtml",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/angular/shared/BusinessWidgets/Templates/Process/pe-process-step.cshtml",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/angular/shared/BusinessWidgets/Components/pe-reminder-settings.js",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/Areas/Reports/PerformanceRating/view.cshtml",
-				"/D/Code/neogov/platform/src/WebApp/web.config",
-				"/D/Code/neogov/platform/src/Neogov.Platform.Services.Implementation/Neogov.Platform.Services.Implementation.csproj",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.Readonly.Infrastructure/Queries/Reports/PerformanceRatingReportQuery.cs",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.Readonly.Infrastructure/Queries/Evaluation/EvaluationQuery.cs",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.Readonly.Infrastructure/Queries/Administrative/EmployeeQuery.cs",
-				"/D/Code/neogov/platform/src/WebApp/ConfigurationFiles/hangfireConfiguration.config",
-				"/D/Code/neogov/platform/src/WebApp/ConfigurationFiles/appSettings.config",
-				"/D/Code/neogov/platform/databases/neogovpe/01_scripts/0207-PF-16183/01_Create_Table_EmployeeInfo.sql",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.Common.Core/Enums/EvaluationStatus.cs",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.Common.Core/DomainEvents/GoalChangedEvent.cs",
-				"/D/Code/neogov/platform/src/WebApp/Content/CompiledTypescript/framework/endpoints/Endpoints.js",
-				"/D/Code/neogov/platform/databases/neogovpe/04_stored_procedures/dbo.Employees_Insert.StoredProcedure.sql",
-				"/D/Code/neogov/platform/databases/neogovpe/04_stored_procedures/dbo.PrePositionDelete.StoredProcedure.sql",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.EvaluationSetup.Core/EventHandler/PopulateProgramTargetsHandler.cs",
-				"/D/Code/neogov/platform/databases/neogovpe/04_stored_procedures/dbo.stp_GetApplicationSettingForEmployer.StoredProcedure.sql",
-				"/D/Code/neogov/platform/databases/neogovpe/05_triggers/Positions_afterDelete.Trigger.sql",
-				"/D/Code/neogov/platform/databases/neogovpe/05_triggers/EmployeeDevelopmentPlans_afterUpdate.Trigger.sql",
-				"/D/Code/neogov/platform/databases/neogovpe/05_triggers/EmployeeGroups_afterUpdate.Trigger.sql",
-				"/D/Code/neogov/platform/databases/neogovpe/05_triggers/Positions_afterUpdate.Trigger.sql",
-				"/D/Code/neogov/platform/databases/neogovpe/05_triggers/tr_EmployeePosition_afterInsert.Trigger.sql",
-				"/D/Code/neogov/platform/databases/neogovpe/05_triggers/tr_EmployeePosition_afterUpdate.Trigger.sql",
-				"/D/Code/neogov/platform/src/Neogov.PE.Platform/Providers/ApplicationSettingProvider.cs",
-				"/D/Code/neogov/personal/build.ps1",
-				"/D/Code/neogov/platform/src/PerformModules/Perform.EvaluationSetup.Core.Test/Mocks/InfrastructureTables/MockEmployeeScheduledEvaluation.cs",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/angular/shared/BusinessWidgets/Controllers/Flyouts/viewProcessSectionFlyoutController.ts",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/angular/shared/BusinessWidgets/Controllers/Flyouts/Add-FromProcessLibraryController.ts",
-				"/D/Code/neogov/platform/src/WebApp/Content/CompiledTypescript/angular/shared/BusinessWidgets/Controllers/Flyouts/ViewProcessSectionFlyoutController.js",
-				"/D/Code/neogov/platform/src/WebApp/Scripts/CustomObjects/WorkflowAPIAction.js"
+				"/D/Code/seed-gulp-ts/tsconfig.json",
+				"/D/Code/seed-gulp-ts/src/index.html",
+				"/D/Code/seed-gulp-ts/src/miner-status.html",
+				"/D/Code/seed-gulp-ts/dist/main.js",
+				"/D/Code/seed-gulp-ts/dist/package.json",
+				"/D/Code/seed-gulp-ts/src/miner-status.ts",
+				"/D/Code/seed-gulp-ts/src/index.ts",
+				"/D/Code/seed-gulp-ts/src/dashboard.ts",
+				"/D/Code/seed-gulp-ts/node_modules/@types/request/index.d.ts",
+				"/D/Code/seed-gulp-ts/node_modules/@types/angular/index.d.ts",
+				"/D/Code/seed-gulp-ts/src/queries.ts",
+				"/D/Code/seed-gulp-ts/src/core.ts",
+				"/D/Code/seed-gulp-ts/src/decorators.ts",
+				"/D/Code/seed-gulp-ts/run.ps1",
+				"/D/Code/seed-gulp-ts/src/components.ts",
+				"/D/Code/seed-gulp-ts/TODO.md",
+				"/D/Code/seed-gulp-ts/README.md",
+				"/D/Code/seed-gulp-ts/src/do-wrapper.d.ts",
+				"/D/Code/seed-gulp-ts/tslint.json",
+				"/D/Code/seed-gulp-ts/src/dashboard.html",
+				"/D/Code/seed-gulp-ts/lib/dashboard.js",
+				"/D/Code/seed-gulp-ts/src/types.d.ts",
+				"/D/Code/seed-gulp-ts/src/do-api-service.ts",
+				"/D/Mining/Code/status-aggregator/TODO.md",
+				"/D/Code/seed-gulp-ts/node_modules/do-wrapper/docs/do-wrapper.md",
+				"/D/Mining/Code/status-aggregator/main.js",
+				"/D/Code/seed-gulp-ts/node_modules/do-wrapper/package.json",
+				"/D/Code/seed-gulp-ts/lib/miner-status.js",
+				"/D/Code/seed-gulp-ts/node_modules/angular/index.js",
+				"/D/Code/seed-gulp-ts/node_modules/angular/angular.js",
+				"/D/Code/seed-gulp-ts/lib/miner-status.d.ts",
+				"/D/Code/seed-gulp-ts/lib/core.js",
+				"/D/Code/seed-gulp-ts/lib/index.html",
+				"/D/Code/seed-gulp-ts/test/miner-status.spec.ts",
+				"/D/Code/seed-gulp-ts/lib/greeter.js",
+				"/D/Code/seed-gulp-ts/src/greeter.ts",
+				"/D/Code/seed-gulp-ts/lib/components.js",
+				"/D/Code/seed-gulp-ts/lib/core.d.ts",
+				"/D/Code/seed-gulp-ts/node_modules/moment/moment.d.ts",
+				"/D/Code/seed-gulp-ts/node_modules/@types/moment/README.md",
+				"/D/Code/seed-gulp-ts/lib/index.d.ts",
+				"/D/Code/seed-gulp-ts/lib/main.d.ts",
+				"/D/Code/seed-gulp-ts/lib/miner.js",
+				"/D/Code/seed-gulp-ts/src/bower_components/jquery/src/traversing/findFilter.js",
+				"/D/Code/seed-gulp-ts/node_modules/@types/lodash/index.d.ts",
+				"/D/Code/seed-gulp-ts/src/bower_components/jquery/dist/jquery.js",
+				"/D/Code/seed-gulp-ts/src/js/initialize.js",
+				"/D/Code/seed-gulp-ts/src/bower_components/bootstrap/package.js",
+				"/D/Code/seed-gulp-ts/node_modules/@types/chart.js/chart.js.d.ts",
+				"/D/Code/seed-gulp-ts/node_modules/typescript/lib/lib.d.ts",
+				"/D/Code/seed-gulp-ts/node_modules/@types/electron/index.d.ts",
+				"/D/Code/seed-gulp-ts/node_modules/lodash/package.json",
+				"/D/Code/seed-gulp-ts/lib/main.html",
+				"/D/Code/seed-gulp-ts/src/main.html",
+				"/D/Code/seed-gulp-ts/node_modules/@types/electron/package.json",
+				"/D/UserData/SublimeText3.0/.gitignore",
+				"/D/UserData/SublimeText3.0/Data/Local/Session.sublime_session",
+				"/D/UserData/SublimeText2.0/.git"
 			],
 			"find":
 			{
@@ -3636,134 +1288,7 @@
 				"height": 220.0,
 				"where_history":
 				[
-					"*.ts, *.js, *.cshtml",
-					"*.cshtml",
-					"*.resx",
-					"*.cshtml,*.html, *.js",
-					"*.cshtml,*.html",
-					"*.sql",
-					"*.ts, *.js, *.cshtml, *.cs, *.html",
-					"*.ts, *.js, *.cshtml, *.cs",
-					"*.ts, *.js, *.cshtml",
-					"*.ts",
-					"*.cs, *.sql",
-					"*.cs",
-					"*.sql",
-					"*.cs",
-					"*.js, *.ts, *.html, *.cshtml",
-					"*.js, *.ts",
-					"*.csproj",
-					"*.js",
-					"*.cs",
-					"*.sql",
-					"*.cs",
-					"",
-					"*.sql, *.cs",
-					"*.sql",
-					"*.cs",
-					"*.sql",
-					"*.ts, *.cshtml",
-					"*.ts",
-					"*.cs",
-					"*.js, *.ts",
-					"*.cshtml",
-					"*.sql, *.cs",
-					"*.sql",
-					"*.js,*.ts,*.html,*.cshtml",
-					"*.js,*.ts",
-					"*.js,*.ts,*.html,*.cshtml, *.cs",
-					"*.js,*.ts,*.html,*.cshtml",
-					"*.js,*.ts,*.html,*.cshtml, *.cs",
-					"*.js,*.ts,*.html,*.cshtml",
-					"*.js,*.ts,*.html",
-					"*.js,*.ts,*.cs",
-					"*.js,*.ts",
-					"*.sql",
-					"",
-					"*.cs",
-					"D:\\Code\\neogov\\platform\\src\\WebApp",
-					"",
-					"*.cs",
-					"*.csproj",
-					"*.sql",
-					"*.cs",
-					"*.sql",
-					"*.cs",
-					"*.ts,*.js",
-					"*.csproj",
-					"*.js",
-					"*.cshtml",
-					"*.js",
-					"",
-					"*.cs",
-					"*.cshtml, *.js",
-					"*.sql",
-					"*.csproj, *.cs, *.js, *.cshtml, *.html, *.sql",
-					"*.csproj, *.cs, *.js, *.cshtml, *.html",
-					"",
-					"*.csproj,*.cs,*.js,*.html,*.cshtml",
-					"*.js,*.html,*.cshtml",
-					"*.csproj",
-					"",
-					"*.csproj,*.sln",
-					"*.sql",
-					"D:\\Code\\neogov\\platform,*.csproj",
-					"D:\\Code\\neogov\\platform,*.cs",
-					"D:\\Code\\neogov\\platform,*.cs,*.js,*.cshtml",
-					"D:\\Code\\neogov,*.cs,*.js,*.cshtml",
-					"D:\\Code\\neogov,*.sql",
-					"D:\\Code\\neogov",
-					"D:\\Code\\neogov\\platform,*.sql",
-					"D:\\Code\\neogov\\platform,*.ts",
-					"D:\\Code\\neogov\\platform,*.cs, *.sql",
-					"D:\\Code\\neogov\\platform,*.cs",
-					"D:\\Code\\neogov\\platform,*.ts",
-					"D:\\Code\\neogov\\platform,*.js",
-					"D:\\Code\\neogov\\platform,*.cshtml",
-					"D:\\Code\\neogov\\platform,*.js",
-					"D:\\Code\\neogov\\platform,*.sql",
-					"D:\\Code\\neogov,*.ts",
-					"D:\\Code\\neogov,*.js,*.ts",
-					"D:\\Code\\neogov,*.cs, *.sql",
-					"D:\\Code\\neogov,*.cs",
-					"D:\\Code\\neogov\\platform,*.cs",
-					"D:\\Code\\neogov\\platform,*.sql",
-					"D:\\Code\\neogov\\platform\\src\\,*.sql",
-					"D:\\Code\\neogov\\platform\\src\\,*.js,*.cshtml,*.html,*.cs",
-					"D:\\Code\\neogov\\platform\\src\\WebApp,*.js, *.cshtml, *.html, *.cs",
-					"D:\\Code\\neogov\\platform\\src\\WebApp,*.js, *.cshtml, *.html",
-					"*.js, *.cshtml, *.html",
-					"*.cs",
-					"*.cshtml, *.html, *.js",
-					"*.cshtml, *.html",
-					"D:\\Code\\neogov\\platform\\src\\WebApp\\APIs,*.cs",
-					"*.cs",
-					"*.js,*.html,*.cshtml",
-					"D:\\Code\\neogov\\platform\\src,*.js,*.html,*.cshtml",
-					"D:\\Code\\neogov\\platform\\src,*.js,*.html,*.cshtml,*.cs, *.config",
-					"D:\\Code\\neogov\\platform\\src,*.js,*.html,*.cshtml,*.cs",
-					"D:\\Code\\neogov\\platform\\src,*.js,*.html,*.cshtml",
-					"D:\\Code\\neogov\\platform\\src,*.js",
-					"D:\\Code\\neogov\\platform\\src,*.cs",
-					"D:\\Code\\neogov\\platform\\src,*.js",
-					"D:\\Code\\neogov\\platform\\src,*.cs",
-					"D:\\Code\\neogov\\platform\\src,*.csproj",
-					"D:\\Code\\neogov\\platform\\src,*.js",
-					"D:\\Code\\neogov\\platform\\src\\WebApp\\scripts\\angular\\shared,*.js",
-					"D:\\Code\\neogov\\platform,*.js",
-					"D:\\Code\\neogov\\platform,*.sql",
-					"D:\\Code\\neogov\\platform,*.csproj",
-					"D:\\Code\\neogov\\platform,*.cs",
-					"D:\\Code\\neogov\\platform,*.sln",
-					"D:\\Code\\neogov\\platform,*.cs",
-					"D:\\Code\\neogov\\platform,*.csproj",
-					"D:\\Code\\neogov\\platform,*.cs",
-					"D:\\Code\\neogov\\platform,*.sql",
-					"D:\\Code\\neogov\\platform,*.js",
-					"D:\\Code\\neogov\\platform,*.cs",
-					"D:\\Code\\neogov\\platform,*.sln",
-					"D:\\Code\\neogov\\platform,*.sql,*.cs",
-					"D:\\Code\\neogov\\platform,*.sql"
+					""
 				]
 			},
 			"find_state":
@@ -3771,134 +1296,114 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"IAddEditFlyoutModel",
-					"openGoalAddEditFlyout",
-					"sectionItemList",
-					"revealAddIndividualItem",
-					"evaluation-details-content-section-editor",
-					"revealAddIndividualItem",
-					"contentNewItemService",
-					"busin",
-					"edit",
-					"revamped",
-					"GoalAddEditController",
-					"extensionFields",
-					"GoalAddEditController",
-					"\\",
-					"D:\\",
-					"sublime-project",
-					"Dashboard",
-					"dashbo",
+					"lib",
+					"this.model.",
+					"milliseconds",
+					"$ctrl.miner",
+					"chart()",
+					"$unsecuredHttps",
+					"$compileProvider",
+					", ",
+					"httpprov",
+					"static",
+					"var",
+					"         * ",
+					"* Update",
+					"* Request",
+					"* Create",
+					" */",
+					"          * ",
+					"*/",
+					"        * ",
+					"* ",
+					"* Delete",
+					"* Rename",
+					"* Add",
+					"* List",
+					"* **call",
+					"// ",
+					"//",
+					"// Get",
+					"\n        *",
+					"// ",
+					"loadMinerFile",
+					"slef",
+					"this",
+					"DropletRespone",
+					"declare",
+					"d",
+					"declare",
+					"export",
+					"($http: ng.IHttpService)",
+					"TView",
+					"string|{}",
+					"e784ba66d663ecd5cddbacec797505ff1ffec72bda0a8b2e4c8a38d9c66f4bf0",
+					"export",
+					"slu",
+					"query,",
+					"domainRecordId,",
+					"a",
+					"api.",
+					"public",
+					"    function",
+					"function g",
+					"app.get(",
+					"imageId,",
+					"callback: Function",
+					"keyIdentity,",
+					"name,",
+					"dropletId,",
+					"actionId,",
+					"callback)",
+					"ipAddress,",
+					"(ipAddress,",
+					"### DigitalOcean.",
+					"\n\n\n\n\n// Get Account Information\n// Info [https://developers.digitalocean.com/documentation/v2/#account account](https://developers.digitalocean.com/documentation/v2/#account account)\n// **Parameters**\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n\n### DigitalOcean.account(callback) \n\n\n\n\n\n\n\n\n// Get Account Actions\n// **Parameters**\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n\n### DigitalOcean.accountGetActions(query, callback) \n\n\n\n\n\n\n\n\n\n// Get Action Information for Account\n// Info: [https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-action retrieve-an-existing-action](https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-action retrieve-an-existing-action)\n// **Parameters**\n// **actionId**: `number`, The Id of the Action\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.accountGetAction(actionId, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// List all SSH Keys\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-all-keys list-all-keys](https://developers.digitalocean.com/documentation/v2/#list-all-keys list-all-keys)\n// **Parameters**\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.accountGetKeys(query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Add a new SSH Key\n// Info: [https://developers.digitalocean.com/documentation/v2/#create-a-new-key create-a-new-key](https://developers.digitalocean.com/documentation/v2/#create-a-new-key create-a-new-key)\n// **Parameters**\n// **configuration**: `*`, Information required to create SSH Key | {name: ?, public_key: ?}\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.accountAddKey(configuration, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Get an SSH Key via its Id\n// Info: [https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-key retrieve-an-existing-key](https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-key retrieve-an-existing-key)\n// **Parameters**\n// **keyId**: `number`, The Id of the Key\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.accountGetKeyById(keyId, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Get an SSH Key via its Fingerprint\n// Info: [https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-key retrieve-an-existing-key](https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-key retrieve-an-existing-key)\n// **Parameters**\n// **fingerprint**: `string`, The Fingerprint of the Key\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.accountGetKeyByFingerprint(fingerprint, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Rename a SSH Key\n// Info: [https://developers.digitalocean.com/documentation/v2/#update-a-key update-a-key](https://developers.digitalocean.com/documentation/v2/#update-a-key update-a-key)\n// **Parameters**\n// **keyIdentity**: `*`, The Id or Fingerprint of the SSH Key\n// **keyName**: `string`, What to rename the SSH Key to\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.accountRenameKey(keyIdentity, keyName, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Delete a SSH Key\n// Info: [https://developers.digitalocean.com/documentation/v2/#destroy-a-key destroy-a-key](https://developers.digitalocean.com/documentation/v2/#destroy-a-key destroy-a-key)\n// **Parameters**\n// **keyIdentity**: `*`, The Id or Fingerprint of the SSH Key\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.accountDeleteKey(keyIdentity, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Get a list of Droplets\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-all-droplets list-all-droplets](https://developers.digitalocean.com/documentation/v2/#list-all-droplets list-all-droplets)\n// **Parameters**\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.dropletsGetAll(query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Get a list of Kernels available for a Droplet\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-all-available-kernels-for-a-droplet list-all-available-kernels-for-a-droplet](https://developers.digitalocean.com/documentation/v2/#list-all-available-kernels-for-a-droplet list-all-available-kernels-for-a-droplet)\n// **Parameters**\n// **dropletId**: `number`, The Id of the Droplet\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.dropletsGetKernels(dropletId, query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Get a list of Snapshots for a Droplet\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-snapshots-for-a-droplet retrieve-snapshots-for-a-droplet](https://developers.digitalocean.com/documentation/v2/#list-snapshots-for-a-droplet retrieve-snapshots-for-a-droplet)\n// **Parameters**\n// **dropletId**: `number`, The Id of the Droplet\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.dropletsGetSnapshots(dropletId, query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Get a list of Backups for a Droplet\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-backups-for-a-droplet list-backups-for-a-droplet](https://developers.digitalocean.com/documentation/v2/#list-backups-for-a-droplet list-backups-for-a-droplet)\n// **Parameters**\n// **dropletId**: `number`, The Id of the Droplet\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.dropletsGetBackups(dropletId, query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Get a list of Actions for a Droplet\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-actions-for-a-droplet list-actions-for-a-droplet](https://developers.digitalocean.com/documentation/v2/#list-actions-for-a-droplet list-actions-for-a-droplet)\n// **Parameters**\n// **dropletId**: `number`, The Id of the Droplet\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.dropletsGetActions(dropletId, query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Create a New Droplet\n// Info: [https://developers.digitalocean.com/documentation/v2/#create-a-new-droplet create-a-new-droplet](https://developers.digitalocean.com/documentation/v2/#create-a-new-droplet create-a-new-droplet)\n// **Parameters**\n// **configuration**: `*`, Creation parameters, see info for more details.\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.dropletsCreate(configuration, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Get a Droplet by Id\n// Info: [https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-droplet-by-id retrieve-an-existing-droplet-by-id](https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-droplet-by-id retrieve-an-existing-droplet-by-id)\n// **Parameters**\n// **dropletId**: `number`, The Id of the Droplet\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.dropletsGetById(dropletId, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Delete a Droplet\n// Info: [https://developers.digitalocean.com/documentation/v2/#delete-a-droplet delete-a-droplet](https://developers.digitalocean.com/documentation/v2/#delete-a-droplet delete-a-droplet)\n// **Parameters**\n// **dropletId**: `number`, The Id of the Droplet\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.dropletsDelete(dropletId, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Get a list of Droplet Neighbors\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-neighbors-for-a-droplet list-neighbors-for-a-droplet](https://developers.digitalocean.com/documentation/v2/#list-neighbors-for-a-droplet list-neighbors-for-a-droplet)\n// **Parameters**\n// **dropletId**: `number`, The Id of the Droplet\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.dropletsGetNeighbors(dropletId, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Get a report of Droplets sharing the same hardware\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-all-droplet-neighbors list-all-droplet-neighbors](https://developers.digitalocean.com/documentation/v2/#list-all-droplet-neighbors list-all-droplet-neighbors)\n// **Parameters**\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n\n### DigitalOcean.dropletsGetNeighborsReport(callback) \n\n\n\n\n\n\n\n\n\n// Get a list of scheduled Droplet Upgrades\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-droplet-upgrades list-droplet-upgrades](https://developers.digitalocean.com/documentation/v2/#list-droplet-upgrades list-droplet-upgrades)\n// **Parameters**\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n\n### DigitalOcean.dropletsGetUpgrades(callback) \n\n\n\n\n\n\n\n\n\n// Request an Action on a Droplet\n// Info: [https://developers.digitalocean.com/documentation/v2/#droplet-actions droplet-actions](https://developers.digitalocean.com/documentation/v2/#droplet-actions droplet-actions)\n// **Parameters**\n// **dropletId**: `number`, The Id of the Droplet\n// **action**: `*`, Action Object\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.dropletsRequestAction(dropletId, action, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Get an Action for a Droplet\n// Info: [https://developers.digitalocean.com/documentation/v2/#retrieve-a-droplet-action retrieve-a-droplet-action](https://developers.digitalocean.com/documentation/v2/#retrieve-a-droplet-action retrieve-a-droplet-action)\n// **Parameters**\n// **dropletId**: `number`, The Id of the Droplet\n// **actionId**: `number`, The Id of the Action\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.dropletsGetAction(dropletId, actionId, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Get all Domains\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-all-domains list-all-domains](https://developers.digitalocean.com/documentation/v2/#list-all-domains list-all-domains)\n// **Parameters**\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.domainsGetAll(query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Add a new Domain\n// Info: [https://developers.digitalocean.com/documentation/v2/#create-a-new-domain create-a-new-domain](https://developers.digitalocean.com/documentation/v2/#create-a-new-domain create-a-new-domain)\n// **Parameters**\n// **name**: `string`, Domain Name\n// **ip**: `string`, The Ip of the Droplet\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.domainsCreate(name, ip, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Get a Domain\n// Info: [https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-domain retrieve-an-existing-domain](https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-domain retrieve-an-existing-domain)\n// **Parameters**\n// **name**: `string`, The Domain Name\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.domainsGet(name, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Delete a Domain\n// Info: [https://developers.digitalocean.com/documentation/v2/#delete-a-domain delete-a-domain](https://developers.digitalocean.com/documentation/v2/#delete-a-domain delete-a-domain)\n// **Parameters**\n// **name**: `string`, The Domain Name\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.domainsDelete(name, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Get all Domain Records for a Domain\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-all-domain-records list-all-domain-records](https://developers.digitalocean.com/documentation/v2/#list-all-domain-records list-all-domain-records)\n// **Parameters**\n// **name**: `string`, The Domain Name\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.domainRecordsGetAll(name, query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Create a new Domain Record on a Domain\n// Info: [https://developers.digitalocean.com/documentation/v2/#create-a-new-domain-record create-a-new-domain-record](https://developers.digitalocean.com/documentation/v2/#create-a-new-domain-record create-a-new-domain-record)\n// **Parameters**\n// **name**: `string`, The Domain Name\n// **configuration**: `*`, Data required to create the Domain Record\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.domainRecordsCreate(name, configuration, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Get a single Domain Record\n// Info: [https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-domain-record retrieve-an-existing-domain-record](https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-domain-record retrieve-an-existing-domain-record)\n// **Parameters**\n// **name**: `string`, The Domain Name\n// **domainRecordId**: `number`, The Id of the Domain Record\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.domainRecordsGet(name, domainRecordId, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Update a Domain Record\n// Info: [https://developers.digitalocean.com/documentation/v2/#update-a-domain-record update-a-domain-record](https://developers.digitalocean.com/documentation/v2/#update-a-domain-record update-a-domain-record)\n// **Parameters**\n// **name**: `string`, The Domain Name\n// **domainRecordId**: `number`, The Id of the Domain Record\n// **configuration**: `*`, Data required to update the Domain Record\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n### DigitalOcean.domainRecordsUpdate(name, domainRecordId, configuration, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Delete a Domain Record\n// Info: [https://developers.digitalocean.com/documentation/v2/#delete-a-domain-record delete-a-domain-record](https://developers.digitalocean.com/documentation/v2/#delete-a-domain-record delete-a-domain-record)\n// **Parameters**\n// **name**: `string`, The Domain Name\n// **domainRecordId**: `number`, The Id of the Domain Record\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.domainRecordsDelete(name, domainRecordId, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Get all Regions\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-all-regions list-all-regions](https://developers.digitalocean.com/documentation/v2/#list-all-regions list-all-regions)\n// **Parameters**\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.regionsGetAll(query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Get all Droplet sizes\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-all-sizes list-all-sizes](https://developers.digitalocean.com/documentation/v2/#list-all-sizes list-all-sizes)\n// **Parameters**\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.sizesGetAll(query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Get all Images\n// Include type=[distribution,application] or private=true in the query object to limit results.\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-all-images list-all-images](https://developers.digitalocean.com/documentation/v2/#list-all-images list-all-images)\n// **Parameters**\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.imagesGetAll(query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Get an Image using its Id\n// Info: [https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-image-by-id retrieve-an-existing-image-by-id](https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-image-by-id retrieve-an-existing-image-by-id)\n// **Parameters**\n// **imageId**: `number`, The Id of the Image\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.imagesGetById(imageId, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Get an Image using its Slug\n// Info: [https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-image-by-slug retrieve-an-existing-image-by-slug](https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-image-by-slug retrieve-an-existing-image-by-slug)\n// **Parameters**\n// **slug**: `string`, The Slug of the Image\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.imagesGetBySlug(slug, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Get all Actions for an Image\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-all-actions-for-an-image list-all-actions-for-an-image](https://developers.digitalocean.com/documentation/v2/#list-all-actions-for-an-image list-all-actions-for-an-image)\n// **Parameters**\n// **imageId**: `number`, The Id of the Image\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.imagesGetActions(imageId, query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Update the name of an Image\n// Info: [https://developers.digitalocean.com/documentation/v2/#update-an-image update-an-image](https://developers.digitalocean.com/documentation/v2/#update-an-image update-an-image)\n// **Parameters**\n// **imageId**: `number`, The Id of the Image\n// **name**: `string`, The Name to update the Image to\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.imagesUpdate(imageId, name, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Delete an Image\n// Info: [https://developers.digitalocean.com/documentation/v2/#delete-an-image delete-an-image](https://developers.digitalocean.com/documentation/v2/#delete-an-image delete-an-image)\n// **Parameters**\n// **imageId**: `number`, The Id of the Image\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.imagesDelete(imageId, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Request an Action on an Image\n// Info: [https://developers.digitalocean.com/documentation/v2/#image-actions image-actions](https://developers.digitalocean.com/documentation/v2/#image-actions image-actions)\n// **Parameters**\n// **imageId**: `number`, The Id of the Image\n// **action**: `*`, Action Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.imagesRequestAction(imageId, action, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Get the status of an Action\n// Info: [https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-image-action retrieve-an-existing-image-action](https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-image-action retrieve-an-existing-image-action)\n// **Parameters**\n// **imageId**: `number`, The Id of the Image\n// **actionId**: `number`, The Id of the Action\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.imagesGetAction(imageId, actionId, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Get all Floating IPs\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-all-floating-ips list-all-floating-ips](https://developers.digitalocean.com/documentation/v2/#list-all-floating-ips list-all-floating-ips)\n// **Parameters**\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.floatingIpsGetAll(query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Create and assign a Floating IP to a specific droplet.\n// Info: [https://developers.digitalocean.com/documentation/v2/#create-a-new-floating-ip-assigned-to-a-droplet create-a-new-floating-ip-assigned-to-a-droplet](https://developers.digitalocean.com/documentation/v2/#create-a-new-floating-ip-assigned-to-a-droplet create-a-new-floating-ip-assigned-to-a-droplet)\n// **Parameters**\n// **dropletId**: `number`, The ID of Droplet that the Floating IP will be assigned to.\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.floatingIpsAssignDroplet(dropletId, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Create and assign a Floating IP to a region.\n// Info: [https://developers.digitalocean.com/documentation/v2/#create-a-new-floating-ip-assigned-to-a-droplet create-a-new-floating-ip-assigned-to-a-droplet](https://developers.digitalocean.com/documentation/v2/#create-a-new-floating-ip-assigned-to-a-droplet create-a-new-floating-ip-assigned-to-a-droplet)\n// **Parameters**\n// **region**: `string`, The slug identifier for the region the Floating IP will be reserved to.\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.floatingIpsAssignRegion(region, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Retrieve an existing Floating IP\n// Info: [https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-floating-ip retrieve-an-existing-floating-ip](https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-floating-ip retrieve-an-existing-floating-ip)\n// **Parameters**\n// **ipAddress**: `string`, Floating IP address.\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.floatingIpsGet(ipAddress, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Delete a Floating IP\n// Info: [https://developers.digitalocean.com/documentation/v2/#delete-a-floating-ips delete-a-floating-ips](https://developers.digitalocean.com/documentation/v2/#delete-a-floating-ips delete-a-floating-ips)\n// **Parameters**\n// **ipAddress**: `string`, Floating IP address\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n\n### DigitalOcean.floatingIpsDelete(ipAddress, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n// Request an action on a Floating IP\n// Info: [https://developers.digitalocean.com/documentation/v2/#floating-ip-actions floating-ip-actions](https://developers.digitalocean.com/documentation/v2/#floating-ip-actions floating-ip-actions)\n// **Parameters**\n// **ipAddress**: `string`, Floating IP address\n// **action**: `*`, Action options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.floatingIpsRequestAction(ipAddress, action, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// List all actions for a Floating IP\n// Info: [https://developers.digitalocean.com/documentation/v2/#list-all-actions-for-a-floating-ip list-all-actions-for-a-floating-ip](https://developers.digitalocean.com/documentation/v2/#list-all-actions-for-a-floating-ip list-all-actions-for-a-floating-ip)\n// **Parameters**\n// **ipAddress**: `string`, Floating IP address\n// **query**: `Object`, Query Options\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.floatingIpsGetActions(ipAddress, query, callback) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// Retrieve an existing Floating IP action\n// Info: [https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-floating-ip-action retrieve-an-existing-floating-ip-action](https://developers.digitalocean.com/documentation/v2/#retrieve-an-existing-floating-ip-action retrieve-an-existing-floating-ip-action)\n// **Parameters**\n// **ipAddress**: `string`, Floating IP address\n// **actionId**: `number`, The Id of the action\n// **callback**: `*`, Function to execute on completion\n\n\n\n\n\n### DigitalOcean.floatingIpsGetAction(ipAddress, actionId, callback) \n\n",
+					"### DigitalOcean.",
+					"public",
+					"### DigitalOce",
+					"### Digi",
+					"### DigitalOcean",
+					"public",
+					"### DigitalOce",
+					"### DigitalOcean.",
+					"require",
+					"type",
+					"https",
+					": ",
+					"public",
+					"$inject",
+					"klass",
+					"    function",
+					"function",
+					"minerFile",
+					"export",
+					"MinerStatusController",
+					"Components",
+					"this",
+					"miner",
+					"class",
+					"interface",
+					"$ctrl.miner.chart",
+					"let",
+					"self.miner",
+					"self.hist",
+					"miner",
+					"miner.chart",
+					"miner",
+					"miner.chart",
+					"nogloba",
+					"  ",
+					"times",
+					"IInt",
+					"interval",
+					"declare ",
+					"module",
+					"type",
 					"\"",
-					"IIdGeneric",
-					"IdGeneric1",
-					"\"",
-					"contentSectionModels",
-					"section-source-type",
-					"peContentSectionEditor",
-					"AddNewSectionController",
-					"\"ZUPANIJA\":",
-					"EvaluationSectionItem",
-					"disable=",
-					"pe-checkbox-form-element",
-					"ResolveContentItemsIds",
-					"QuestionAssignableToEvaluation",
-					"EmployerStructureItem",
-					"EmployeeStructureItem",
-					"NumericScoring",
-					"numer",
-					"hide",
-					"showLoading",
-					"hideLoading",
-					"showLoadin",
-					"GoalTypeId",
-					"CanReadRater",
-					"Flyout.addFromProcessLibraryController",
-					"AddFromProcessLibraryController",
-					"controller",
-					"addEditStepController",
-					"AddEditStep-Controller",
-					"canEnableReminderNotifications",
-					"isReminderNoticeDisabled",
-					"is-reminder-notice-disabled",
-					"isReminderNoticeDisabled",
-					"$flyoutController",
-					"<pe-reminder-settings",
-					"isReminderNoticeDisabled",
-					"UserCanReadRater",
-					"setup",
-					"a-oltpdb.neogo",
-					"qa-oltpdb.neogo",
-					"canViewRaterDetails",
-					"mongo",
-					"rce=.",
-					"    providerName=\"System.Data.SqlClient\" />\n",
-					"providerName=\"System.Data.SqlClient\" />",
-					"GoalChangedEvent",
-					"employeeposi",
-					"EmployeePosition",
-					"UserAddedEvent",
-					"userpro",
-					"UserProductStatus",
-					"stp_GetApplicationSettingForEmployer",
-					"EventOnAction",
-					"NGV_MSBUILD_PATH",
-					"Activator.Create",
-					"TaskRepository",
-					"processBaseRepository",
-					"WorkflowAPIAction",
-					"scripts/NeogovGrid_Prime",
-					"prime",
-					"sidePopup.close()",
-					"sidePopup.close",
-					"externalreferences",
-					"\\packages",
-					"<HintPath",
-					"..\\\\.*\\.dll",
-					"..\\\\.*\\.csproj",
-					"src\\\\.*\\.csproj",
-					"src.*\\.dll",
-					"PerformModules.*\\.csproj",
-					"PerformModules.*\\.dll",
-					"PerformModules.*csproj",
-					"PerformModules\\\\.*csproj\\<",
-					"PerformModules\\\\.*dll\\<",
-					"PerformModules\\.*dll<",
-					"PerformModules",
-					"withDepartmentId",
-					"AllRaters",
-					"EnsureRaterLoaded",
-					"CurrentUserIsRaterOfRecordOnEvaluation",
-					"useriss",
-					"EmployeeEvaluationSections_Select_ByEmployeeEvaluationID",
-					"IsVisibleToEmployee",
-					"CanSeeEvaluationSection",
-					"TypeScript",
-					"Type",
-					"typescri",
-					"CSV_Editor_v2",
-					"pack",
-					"form",
-					"assets/vendo",
-					"assets/vendor",
-					"assets/vendo",
-					"assets/vendor",
-					"VendorDownloadPath",
-					"VendorSubmodulePath",
-					"VendorPath",
-					"asse",
-					"assets",
-					"GetJQueryBundle",
-					"assets",
-					"assets/vendor",
-					"contentLibraryScripts",
-					"kendo.angular",
-					"conten",
-					"assets/vendo",
-					"assets/vendor",
-					"\"Scripts",
-					"\"scripts",
-					"scripts"
+					"process",
+					"module \"os",
+					"module"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -3906,113 +1411,6 @@
 				"regex": false,
 				"replace_history":
 				[
-					"Workflow",
-					"Neogov.NetSuite.SyncEngine",
-					"DomainModel.Program",
-					"Perform.Readonly.Core.Views",
-					"Resources",
-					"EmployerId",
-					"CurrentUser.HasAccess",
-					"EmployeeCanEditEvaluation",
-					"new ",
-					"Subquery",
-					"IPhoenixQuery",
-					"httpBaseInterceptor",
-					"\"pe.httpBaseInterceptor\"",
-					"addEllipsisToText",
-					"addEllipsisToCSV",
-					"task.type",
-					"step.type",
-					"workflow.SubmitRating(",
-					"6.1.3\\lib\\net45",
-					"<TargetFrameworkVersion>v4.5",
-					"spec.Express().MatchType",
-					"spec",
-					"Where(IDbSpecification",
-					"query, request",
-					"Adjusted.For",
-					"new EmployeeVisibleToUser",
-					"..\\..\\packages",
-					"externalreferences\\Autofac\\Autofac.Mvc5.3.1.0\\lib\\net45\\Autofac.Integration.Mvc.dll",
-					"Version=3.4.1",
-					"\"~/less\\1less\"",
-					"Id",
-					"configuration.UserSetting",
-					"EvaluationStatus.Canceled",
-					"#608021",
-					"#D04020",
-					"Autofac, Version=2.6.1.841",
-					"externalreferences\\Autofac\\2.6.4.841\\Autofac.dll",
-					"clock.Change",
-					"System.Web.Mvc, Version=3.0.0.0",
-					"GetEmployeeEvaluations",
-					"httpGetEnabled=\"false\"",
-					"net.pipe://localhost/corehr-services/",
-					"localhost/corehr-services",
-					"localhost/corehr-service",
-					":59240",
-					"ErrorMessage = ResClass.",
-					".CoreHr.",
-					"= @EmployerID",
-					"..\\lib",
-					"..\\packages",
-					"..\\</SolutionDir>",
-					"database",
-					"mig.engine",
-					"<PlatformTarget>AnyCPU</PlatformTarget>",
-					"bin\\Release",
-					"Unified.Tests.Console",
-					"create procedure",
-					"key=\"SMTPServer\" value=\"127.0.0.1\"",
-					"Unified.Infrastructure",
-					"Unified.Infrastructre",
-					"<MvcBuildViews>false</MvcBuildViews>",
-					"@model Contacts.Web",
-					"\"Contact\"",
-					"@model Contacts.Contact",
-					"Contacts.AllModel",
-					"Contacts.Models;",
-					"key.napomena_o_nabavnoj_prodajnoj",
-					"key.zaboravili_lozinku",
-					"key.isteklo_vrijeme_izmjene_lozinke",
-					"key.opis_klijenata_ponuda_racuna",
-					"key.opis_unosa_stavke",
-					"key.nije_pronadjen_racun",
-					"key.nije_pronadjen_klijent",
-					"\"ReceiptNew\"",
-					"\"ReceiptNewFromTender\"",
-					"key.opis_unosa_u_cijenik",
-					"key.niti_jedan_predlozak",
-					"key.pitanje_obrisi_cijenik",
-					"",
-					"Group",
-					"Product",
-					"\\1,\\2",
-					"DataFormatString = \"{0:#,0.00}\"",
-					"PrintCurr()",
-					".\\1",
-					"\\1.\\2",
-					"\\10",
-					"",
-					"\\1.\\2",
-					"\\0.\\1",
-					"\\1.\\1",
-					"Finance.Round",
-					"FinRound",
-					"\\'",
-					"\\\\",
-					"\\>",
-					"\\<",
-					"\\'",
-					"RebateModified",
-					"NettoModified",
-					"key.promijeni_prodajnu_cijenu_svima",
-					"key.info.adjust_prices.message",
-					"key.title.adjust_prices",
-					"mb_postavke_ispisa",
-					"da_li_zelite_izbrisati_nesto",
-					"\")</div>",
-					"</div>"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -4030,11 +1428,11 @@
 			],
 			"incremental_find":
 			{
-				"height": 47.0
+				"height": 44.0
 			},
 			"input":
 			{
-				"height": 76.0
+				"height": 69.0
 			},
 			"layout":
 			{
@@ -4065,26 +1463,22 @@
 			},
 			"output.errorlist":
 			{
-				"height": 399.0
-			},
-			"output.exec":
-			{
-				"height": 432.0
+				"height": 424.0
 			},
 			"output.find_results":
 			{
-				"height": 100.0
+				"height": 0.0
 			},
 			"output.git":
 			{
-				"height": 100.0
+				"height": 230.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,1644,306,306,1939",
-			"project": "neogov.platform.sublime-project",
+			"position": "0,2,3,-1,-1,-1,-1,1826,488,488,2121",
+			"project": "seed-gulp-ts.sublime-project",
 			"replace":
 			{
-				"height": 90.0
+				"height": 88.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -4094,516 +1488,148 @@
 				"selected_items":
 				[
 					[
-						"evaluationcontensecidetalis",
-						"platform\\src\\WebApp\\Scripts\\Areas\\Evaluation\\Content\\Directives\\Evaluation-Content-EvaluationContentSection-Details.js"
+						"packa",
+						"seed-gulp-ts\\package.json"
 					],
 					[
-						"evaluationgoaltaskdetail",
-						"platform\\src\\WebApp\\Scripts\\Areas\\Evaluation\\AddEditGoal\\Directives\\goal-task-detail.ts"
+						"pack",
+						"seed-gulp-ts\\package.json"
 					],
 					[
-						"goalrepo",
-						"platform\\src\\PerformModules\\Perform.GoalManagement.Infrastructure\\Repositories\\GoalRepository.cs"
+						"gulp",
+						"seed-gulp-ts\\gulpfile.js"
 					],
 					[
-						"budnlecon",
-						"platform\\src\\WebApp\\App_Start\\BundleConfig.cs"
+						"ma",
+						"seed-gulp-ts\\src\\main.ts"
 					],
 					[
-						"bundleconfi",
-						"platform\\src\\WebApp\\App_Start\\BundleConfig.cs"
+						"ine",
+						"seed-gulp-ts\\src\\index.html"
 					],
 					[
-						"employeecontro",
-						"platform\\src\\WebApp\\APIs\\Employee\\Controllers\\EmployeeController.cs"
+						"in",
+						"seed-gulp-ts\\src\\index.html"
 					],
 					[
-						"employeegoalq",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\Queries\\Administrative\\EmployeeGoalQuery.cs"
+						"run",
+						"seed-gulp-ts\\run.ps1"
 					],
 					[
-						"positiongoal",
-						"platform\\src\\PerformModules\\Perform.GoalManagement.Core\\DomainModels\\PositionGoal.cs"
+						"querie",
+						"seed-gulp-ts\\src\\queries.ts"
 					],
 					[
-						"departmentgoal",
-						"platform\\src\\PerformModules\\Perform.GoalManagement.Core\\DomainModels\\DepartmentGoal.cs"
+						"inde",
+						"@types\\angular\\index.d.ts"
 					],
 					[
-						"contentcontrol",
-						"platform\\src\\WebApp\\APIs\\Evaluation\\Controllers\\Content\\ContentController.cs"
+						"typean",
+						"@types\\angular\\index.d.ts"
 					],
 					[
-						"connectionconfig",
-						"platform\\src\\Scheduling.Service\\ConfigurationFiles\\connectionStrings.config"
+						"",
+						"seed-gulp-ts\\package.json"
 					],
 					[
-						"departmentcontoll",
-						"platform\\src\\WebApp\\APIs\\Administrative\\Controllers\\DepartmentController.cs"
+						"miners",
+						"seed-gulp-ts\\src\\miner-status.ts"
 					],
 					[
-						"restit",
-						"platform\\src\\Neogov.PE.Resources\\ResPageTitle.resx"
+						"dash",
+						"seed-gulp-ts\\src\\dashboard.ts"
 					],
 					[
-						"resla",
-						"platform\\src\\Neogov.PE.Resources\\ResLabels.resx"
+						"compo",
+						"seed-gulp-ts\\src\\components.ts"
 					],
 					[
-						"gridrequestmodel",
-						"platform\\src\\WebApp\\Common\\KendoGrid\\GridRequestModelAttribute.cs"
+						"miner",
+						"seed-gulp-ts\\src\\miner-status.ts"
 					],
 					[
-						"inter",
-						"platform\\src\\WebApp\\Scripts\\framework\\interfaces\\Interfaces.ts"
+						"do",
+						"seed-gulp-ts\\src\\do-wrapper.d.ts"
 					],
 					[
-						"interfacts",
-						"platform\\src\\WebApp\\Scripts\\framework\\interfaces\\Interfaces.ts"
+						"comp",
+						"seed-gulp-ts\\src\\components.ts"
 					],
 					[
-						"goalwork",
-						"platform\\src\\PerformModules\\Perform.GoalManagement.Core\\ApplicationService\\GoalWorkflowService.cs"
+						"ind",
+						"seed-gulp-ts\\src\\index.html"
 					],
 					[
-						"pe-content-section-editor-main",
-						"platform\\src\\WebApp\\Scripts\\angular\\shared\\BusinessWidgets\\Templates\\ContentEditor\\pe-content-section-editor-main.cshtml"
+						"dashboa",
+						"seed-gulp-ts\\src\\dashboard.ts"
 					],
 					[
-						"updateevaluationgoalversionreference",
-						"platform\\databases\\neogovpe\\04_stored_procedures\\400.dbo.UpdateEvaluationGoalVersionReference.sql"
+						"dow",
+						"seed-gulp-ts\\src\\do-wrapper.d.ts"
 					],
 					[
-						"goalappo",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\TableMappers\\GoalApprovalMap.cs"
+						"indexts",
+						"seed-gulp-ts\\src\\index.ts"
 					],
 					[
-						"goalappromap",
-						"platform\\src\\PerformModules\\Perform.GoalManagement.Infrastructure\\TableMappers\\GoalApprovalMap.cs"
+						"mine",
+						"seed-gulp-ts\\lib\\miner-status.js"
 					],
 					[
-						"querconte",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\QueryContext.cs"
+						"angulad",
+						"@types\\angular\\index.d.ts"
 					],
 					[
-						"assignabletoeval",
-						"platform\\src\\PerformModules\\Perform.EvaluationSetup.Core\\DomainSpecifications\\Content\\QuestionAssignableToEvaluation.cs"
+						"testgree",
+						"seed-gulp-ts\\test\\greeter-spec.ts"
 					],
 					[
-						"competencyused",
-						"platform\\src\\PerformModules\\Perform.EvaluationSetup.Core\\DomainSpecifications\\Content\\CompetencyUsedOnEvaluation.cs"
+						"gree",
+						"seed-gulp-ts\\lib\\greeter.js"
 					],
 					[
-						"competencyassignabletoevaluation",
-						"platform\\src\\PerformModules\\Perform.EvaluationSetup.Core\\DomainSpecifications\\Content\\CompetencyAssignableToEvaluation.cs"
+						"tscon",
+						"seed-gulp-ts\\tsconfig.json"
 					],
 					[
-						"questionassign",
-						"platform\\src\\PerformModules\\Perform.EvaluationSetup.Core\\DomainSpecifications\\Content\\QuestionAssignableToEvaluation.cs"
+						"tsconfif",
+						"seed-gulp-ts\\src\\bower_components\\jquery\\src\\traversing\\findFilter.js"
 					],
 					[
-						"xdepartments_goals_access_update",
-						"platform\\databases\\neogovpe\\04_stored_procedures\\dbo.xDepartments_Goals_Access_Update.StoredProcedure.sql"
+						"char",
+						"@types\\chart.js\\chart.js.d.ts"
 					],
 					[
-						"givenann",
-						"platform\\src\\PerformModules\\Perform.Common.Test\\Scheduling\\Given_annual.cs"
+						"anguin",
+						"@types\\angular\\index.d.ts"
 					],
 					[
-						"reportsql",
-						"platform\\databases\\neogovpe\\04_stored_procedures\\dbo.stp_Reports_PerformanceRatingReport.StoredProcedure.sql"
+						"ang",
+						"@types\\angular\\index.d.ts"
 					],
 					[
-						"evaluationlistts",
-						"platform\\src\\WebApp\\Scripts\\Areas\\Evaluation\\List\\Directives\\evaluationList.ts"
+						"anguinde",
+						"@types\\angular\\index.d.ts"
 					],
 					[
-						"usereditcsh",
-						"platform\\src\\WebApp\\Areas\\Application\\Views\\User\\Edit.cshtml"
+						"see",
+						"seed-gulp-ts.sublime-project"
 					],
 					[
-						"applicatinuseredit",
-						"platform\\src\\WebApp\\Scripts\\Areas\\Application\\User\\edit.js"
+						"pa",
+						"package.json"
 					],
 					[
-						"areasuser",
-						"platform\\src\\WebApp\\Scripts\\Areas\\User\\Controllers\\user.list.controller.ts"
+						"tslin",
+						"tslint.json"
 					],
 					[
-						"readonlycontentitemvie",
-						"platform\\src\\PerformModules\\Perform.Readonly.Core\\Views\\ContentItemView.cs"
+						"gre",
+						"src\\greeter.ts"
 					],
 					[
-						"readonlygoalview",
-						"platform\\src\\PerformModules\\Perform.Readonly.Core\\Views\\GoalItemView.cs"
-					],
-					[
-						"employeeviewsql",
-						"platform\\databases\\neogovpe\\03_views\\dbo.Employees.View.sql"
-					],
-					[
-						"employees.s",
-						"platform\\databases\\neogovpe\\03_views\\dbo.Employees.View.sql"
-					],
-					[
-						"coreemployeesql",
-						"platform\\databases\\neogovpe\\01_scripts\\0176_PF-15884-CoredataPush\\03_EmployeePosition.Table.sql"
-					],
-					[
-						"webappconnection",
-						"platform\\src\\WebApp\\ConfigurationFiles\\connectionStrings.config"
-					],
-					[
-						"canreadra",
-						"platform\\src\\PerformModules\\Perform.EvaluationSetup.Core\\DomainSpecifications\\Evaluation\\CanReadRaterDetails.cs"
-					],
-					[
-						"rule",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\Rules.cs"
-					],
-					[
-						"addstepcontro",
-						"platform\\src\\WebApp\\Scripts\\Areas\\ProcessLibrary\\Detail\\add-step-controller.js"
-					],
-					[
-						"addstepconto",
-						"platform\\src\\WebApp\\Scripts\\Areas\\ProcessLibrary\\Detail\\AddEdit-StepController.js"
-					],
-					[
-						"scriptsperformancerating",
-						"platform\\src\\WebApp\\Scripts\\Areas\\Reports\\PerformanceRating\\view.cshtml"
-					],
-					[
-						"platfoservicesimpl",
-						"platform\\src\\Neogov.Platform.Services.Implementation\\Neogov.Platform.Services.Implementation.csproj"
-					],
-					[
-						"webappwebconfi",
-						"platform\\src\\WebApp\\web.config"
-					],
-					[
-						"connectionstring",
-						"platform\\src\\WebApp\\ConfigurationFiles\\connectionStrings.config"
-					],
-					[
-						"evaluationqu",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\Queries\\Evaluation\\EvaluationQuery.cs"
-					],
-					[
-						"performarepoqu",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\Queries\\Reports\\PerformanceRatingReportQuery.cs"
-					],
-					[
-						"employeequ",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\Queries\\Administrative\\EmployeeQuery.cs"
-					],
-					[
-						"employeeinfosql",
-						"platform\\databases\\neogovpe\\01_scripts\\0207-PF-16183\\01_Create_Table_EmployeeInfo.sql"
-					],
-					[
-						"evaluationstatus",
-						"platform\\src\\PerformModules\\Perform.Common.Core\\Enums\\EvaluationStatus.cs"
-					],
-					[
-						"pecontentsectionitempci",
-						"platform\\src\\WebApp\\Scripts\\angular\\shared\\BusinessWidgets\\Components\\Content\\pe-content-section-item-picker.ts"
-					],
-					[
-						"goalchange",
-						"platform\\src\\PerformModules\\Perform.Common.Core\\DomainEvents\\GoalChangedEvent.cs"
-					],
-					[
-						"endposinjs",
-						"platform\\src\\WebApp\\Content\\CompiledTypescript\\framework\\endpoints\\Endpoints.js"
-					],
-					[
-						"employeeinsert",
-						"platform\\databases\\neogovpe\\04_stored_procedures\\dbo.Employees_Insert.StoredProcedure.sql"
-					],
-					[
-						"programhandler",
-						"platform\\src\\PerformModules\\Perform.EvaluationSetup.Core\\EventHandler\\PopulateProgramTargetsHandler.cs"
-					],
-					[
-						"stored_proceduresappli",
-						"platform\\databases\\neogovpe\\04_stored_procedures\\dbo.stp_GetApplicationSettingForEmployer.StoredProcedure.sql"
-					],
-					[
-						"applicationsettinprovi",
-						"platform\\src\\Neogov.PE.Platform\\Providers\\ApplicationSettingProvider.cs"
-					],
-					[
-						"workfloapiac",
-						"platform\\src\\WebApp\\Scripts\\CustomObjects\\WorkflowAPIAction.js"
-					],
-					[
-						"bundleconf",
-						"platform\\src\\WebApp\\App_Start\\BundleConfig.cs"
-					],
-					[
-						"bui",
-						"personal\\build.ps1"
-					],
-					[
-						"rules.cs",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\Rules.cs"
-					],
-					[
-						"evaluationworkflowstagereviewers_select_byreviewerid",
-						"platform\\databases\\neogovpe\\04_stored_procedures\\dbo.EvaluationWorkflowStageReviewers_Select_ByReviewerID.StoredProcedure.sql"
-					],
-					[
-						"employeeevaluationsections_select_byemployeeevaluationid",
-						"platform\\databases\\neogovpe\\04_stored_procedures\\dbo.EmployeeEvaluationSections_Select_ByEmployeeEvaluationID.StoredProcedure.sql"
-					],
-					[
-						"webappcs",
-						"platform\\src\\WebApp\\WebApp.csproj"
-					],
-					[
-						"reportchartviets",
-						"platform\\src\\WebApp\\Scripts\\framework\\models\\IPerformanceRatingReportChartView.ts"
-					],
-					[
-						"ratingreportchartvits",
-						"platform\\src\\WebApp\\Scripts\\Areas\\Reports\\PerformanceRating\\Chart\\IPerformanceRatingReportChartView.ts"
-					],
-					[
-						"fetchandre",
-						"platform\\databases\\neogovpe\\04_stored_procedures\\dbo.EmployeeEvaluationCreationQueue_FetchAndReserve.sql"
-					],
-					[
-						"fetchand",
-						"platform\\databases\\neogovpe\\04_stored_procedures\\dbo.EmployeeEvaluationCreationQueue_FetchAndReserve.sql"
-					],
-					[
-						"controller",
-						"platform\\src\\WebApp\\Scripts\\Areas\\Reports\\PerformanceRating\\controller.ts"
-					],
-					[
-						"personalproje",
-						"personal\\neogov.sublime-project"
-					],
-					[
-						"performanceratingreportchartview",
-						"platform\\src\\PerformModules\\Perform.Readonly.Core\\Views\\PerformanceRatingReportChartView.cs"
-					],
-					[
-						"performratingqu",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\Queries\\Reports\\PerformanceRatingReportQuery.cs"
-					],
-					[
-						"performancratingservits",
-						"platform\\src\\WebApp\\Scripts\\Areas\\Reports\\PerformanceRating\\service.ts"
-					],
-					[
-						"evaluationworkfser",
-						"platform\\src\\PerformModules\\Perform.EvaluationSetup.Core\\ApplicationService\\Evaluation\\EvaluationWorkflowService.cs"
-					],
-					[
-						"canaddnetshifman",
-						"platform\\src\\PerformModules\\Perform.EvaluationSetup.Core\\DomainSpecifications\\Evaluation\\CanAddNextShiftManagerToEvaluation.cs"
-					],
-					[
-						"shift",
-						"platform\\src\\PerformModules\\Perform.EvaluationSetup.Core\\EventHandler\\EvaluationShiftManagerHandler.cs"
-					],
-					[
-						"scheduservi",
-						"platform\\src\\Scheduling.Service\\Service.cs"
-					],
-					[
-						"silenti",
-						"platform\\src\\Scheduling.Api\\Attributes\\SilentlyDisableConcurrentExecutionAttribute.cs"
-					],
-					[
-						"program",
-						"platform\\src\\WebApp.Test\\Program.cs"
-					],
-					[
-						"bundelc",
-						"platform\\src\\WebApp\\App_Start\\BundleConfig.cs"
-					],
-					[
-						"bundlecon",
-						"platform\\src\\WebApp\\App_Start\\BundleConfig.cs"
-					],
-					[
-						"webcsproj",
-						"platform\\src\\WebApp\\WebApp.csproj"
-					],
-					[
-						"webappcsproj",
-						"platform\\src\\WebApp\\WebApp.csproj"
-					],
-					[
-						"evaluationstatu",
-						"platform\\src\\PerformModules\\Perform.Common.Core\\Enums\\EvaluationStatus.cs"
-					],
-					[
-						"gridreq",
-						"platform\\src\\WebApp\\Common\\KendoGrid\\GridRequestModelBinder.cs"
-					],
-					[
-						"schedulinserciconnection",
-						"platform\\src\\Scheduling.Service\\ConfigurationFiles\\connectionStrings.config"
-					],
-					[
-						"employeeevaluationcreationqueue_fetchandreserve",
-						"platform\\databases\\neogovpe\\04_stored_procedures\\dbo.EmployeeEvaluationCreationQueue_FetchAndReserve.sql"
-					],
-					[
-						"positionsql",
-						"platform\\databases\\neogovpe\\03_views\\Core.Positions.sql"
-					],
-					[
-						"setupconsecsproj",
-						"platform\\src\\PerformModules\\Perform.EvaluationSetup.Core\\Perform.EvaluationSetup.Core.csproj"
-					],
-					[
-						"evaluationquer",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\Queries\\Evaluation\\EvaluationQuery.cs"
-					],
-					[
-						"evaluationlistcontrots",
-						"platform\\src\\WebApp\\scripts\\Areas\\Evaluation\\List\\Controllers\\evaluationList.bulkArchive.ts"
-					],
-					[
-						"journalflc",
-						"platform\\src\\WebApp\\scripts\\angular\\shared\\BusinessWidgets\\Components\\Journal\\Flyouts\\journal-flyout-controller.ts"
-					],
-					[
-						"visibleto",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\Filters\\VisibleToHrAdminOrUser.cs"
-					],
-					[
-						"employeecontrolle",
-						"platform\\src\\WebApp\\APIs\\Employee\\Controllers\\EmployeeController.cs"
-					],
-					[
-						"employeequery",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\Queries\\Administrative\\EmployeeQuery.cs"
-					],
-					[
-						"insertupdatech",
-						"platform\\databases\\neogovpe\\04_stored_procedures\\dbo.InsertUpdateChecklistItem.StoredProcedure.sql"
-					],
-					[
-						"tagquery",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\Queries\\Administrative\\TagQuery.cs"
-					],
-					[
-						"usercontroll",
-						"platform\\src\\WebApp\\Areas\\Application\\Controllers\\UserController.cs"
-					],
-					[
-						"evalautoinsectionqu",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\Queries\\Evaluation\\EvaluationSectionsQuery.cs"
-					],
-					[
-						"evalautionsectionquer",
-						"platform\\src\\PerformModules\\Perform.Readonly.Core\\Queries\\Evaluation\\IEvaluationSectionsQuery.cs"
-					],
-					[
-						"getutcdatetimas",
-						"platform\\databases\\neogovpe\\02_functions\\dbo.fn_GetUTCDatetime_AsDate.UserDefinedFunction.sql"
-					],
-					[
-						"vw_employeeevaluationstatus",
-						"platform\\databases\\neogovpe\\03_views\\dbo.vw_EmployeeEvaluationStatus.sql"
-					],
-					[
-						"stp_employeeevaluationsforreport",
-						"platform\\databases\\neogovpe\\04_stored_procedures\\dbo.stp_EmployeeEvaluationsForReport.StoredProcedure.sql"
-					],
-					[
-						"stp_reports_employeestatus_chart",
-						"platform\\databases\\neogovpe\\04_stored_procedures\\dbo.stp_Reports_EmployeeStatus_Chart.StoredProcedure.sql"
-					],
-					[
-						"stp_reports_emplo",
-						"platform\\databases\\neogovpe\\04_stored_procedures\\dbo.stp_Reports_EmployeeStatusReport_Detailed.StoredProcedure.sql"
-					],
-					[
-						"stp_reports_emplosql",
-						"platform\\databases\\neogovpe\\04_stored_procedures\\dbo.stp_Reports_EmployeeStatusReport_Detailed.StoredProcedure.sql"
-					],
-					[
-						"apisevalcontro",
-						"platform\\src\\WebApp\\APIs\\Evaluation\\Controllers\\EvaluationController.cs"
-					],
-					[
-						"journafl",
-						"platform\\src\\WebApp\\scripts\\angular\\shared\\BusinessWidgets\\Components\\Journal\\Flyouts\\journal-flyout-controller.ts"
-					],
-					[
-						"evaluationcontroll",
-						"platform\\src\\WebApp\\APIs\\Evaluation\\Controllers\\EvaluationController.cs"
-					],
-					[
-						"httpint",
-						"platform\\src\\WebApp\\scripts\\angular\\shared\\SharedServices\\Services\\httpBaseInterceptor.js"
-					],
-					[
-						"journalservi",
-						"platform\\src\\PerformModules\\Perform.Administrative.Core\\ApplicationService\\JournalService.cs"
-					],
-					[
-						"journacontro",
-						"platform\\src\\WebApp\\scripts\\angular\\shared\\BusinessWidgets\\Components\\Journal\\Flyouts\\journal-flyout-controller.ts"
-					],
-					[
-						"singlepacontroller",
-						"platform\\src\\WebApp\\Controllers\\SinglePageApplicationBaseController.cs"
-					],
-					[
-						"apisemployeecontro",
-						"platform\\src\\WebApp\\APIs\\Employee\\Controllers\\EmployeeController.cs"
-					],
-					[
-						"employeeevalstatu",
-						"platform\\src\\Neogov.PE.Entities\\Implementation\\EmployeeEvaluationStatus.cs"
-					],
-					[
-						"photo",
-						"platform\\src\\WebApp\\scripts\\Areas\\Photocontrol\\photouploadevents.js"
-					],
-					[
-						"printrulebu",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\RuleBuilders\\EvaluationPrintPreviewRuleBuilder.cs"
-					],
-					[
-						"evaldetailrulebui",
-						"platform\\src\\PerformModules\\Perform.Readonly.Infrastructure\\RuleBuilders\\EvaluationSectionDetailsRuleBuilder.cs"
-					],
-					[
-						"evaluationdetavi",
-						"platform\\src\\PerformModules\\Perform.Readonly.Core\\Views\\Evaluation\\Print\\EvaluationDetailView.cs"
-					],
-					[
-						"printpreviewview",
-						"platform\\src\\PerformModules\\Perform.Readonly.Core\\Views\\Evaluation\\Print\\EvaluationPrintPreviewView.cs"
-					],
-					[
-						"approvreva",
-						"platform\\src\\WebApp\\scripts\\Approval\\approvalRevamped.js"
-					],
-					[
-						"journalrepo",
-						"platform\\src\\WebApp\\scripts\\angular\\shared\\BusinessWidgets\\Components\\Journal\\Services\\JournalRepository.ts"
-					],
-					[
-						"apita",
-						"platform\\src\\WebApp\\scripts\\angular\\shared\\SharedServices\\Endpoints\\ApiTag.ts"
-					],
-					[
-						"perichtext",
-						"platform\\src\\WebApp\\scripts\\angular\\shared\\BusinessWidgets\\Components\\Directives\\pe-rich-text-editor.js"
-					],
-					[
-						"apitag",
-						"platform\\src\\WebApp\\scripts\\angular\\shared\\SharedServices\\Models\\ITagView.ts"
+						"pac",
+						"package.json"
 					]
 				],
 				"width": 0.0
@@ -4611,264 +1637,20 @@
 			"select_project":
 			{
 				"height": 1250.0,
-				"last_filter": "csvd",
+				"last_filter": "miner",
 				"selected_items":
 				[
 					[
-						"csvd",
-						"D:\\Code\\bosnjak\\csv-editor\\csv-editor.sublime-project"
+						"miner",
+						"D:\\Mining\\Code\\miner.sublime-project"
 					],
 					[
-						"seed",
-						"D:\\Code\\seed-gulp-ts\\seed-gulp-ts.sublime-project"
+						"plato",
+						"D:\\Code\\neogov\\personal\\neogov.platform.sublime-project"
 					],
 					[
-						"see",
-						"D:\\Code\\seed-gulp-ts\\seed-gulp-ts.sublime-project"
-					],
-					[
-						"v",
-						"D:\\Code\\bosnjak\\csv-editor\\csv-editor.sublime-project"
-					],
-					[
-						"cs",
-						"D:\\Code\\bosnjak\\csv-editor\\csv-editor.sublime-project"
-					],
-					[
-						"csv",
-						"D:\\Code\\bosnjak\\csv-editor\\csv-editor.sublime-project"
-					],
-					[
-						"",
-						"D:\\Code\\neogov\\personal\\neogov.all.sublime-project"
-					],
-					[
-						"all",
-						"D:\\Code\\neogov\\personal\\neogov.all.sublime-project"
-					],
-					[
-						"neogoalll",
-						"D:\\Code\\neogov\\personal\\neogov.all.sublime-project"
-					],
-					[
-						"csved",
-						"D:\\Code\\bosnjak\\csv-editor\\csv-editor.sublime-project"
-					],
-					[
-						"jogt",
-						"D:\\Code\\jog-tracker\\jog-tracker.sublime-project"
-					],
-					[
-						"jo",
-						"D:\\Code\\jog-tracker\\jog-tracker.sublime-project"
-					],
-					[
-						"jog",
-						"D:\\Code\\jog-tracker\\jog-tracker.sublime-project"
-					],
-					[
-						"jogtra",
-						"D:\\Code\\jog-tracker\\jog-tracker.sublime-project"
-					],
-					[
-						"neo",
-						"D:\\Code\\neogov\\personal\\neogov.all.sublime-project"
-					],
-					[
-						"j",
-						"D:\\Code\\jog-tracker\\jog-tracker.sublime-project"
-					],
-					[
-						"jogtr",
-						"D:\\Code\\jog-tracker\\jog-tracker.sublime-project"
-					],
-					[
-						"test",
-						"D:\\Code\\cs-test-mvc\\cs-test-mvc.sublime-project"
-					],
-					[
-						"zooo",
-						"D:\\Code\\cs-sample-zoo\\cs-sample-zoo.sublime-project"
-					],
-					[
-						"zoo",
-						"D:\\Code\\cs-sample-zoo\\cs-sample-zoo.sublime-project"
-					],
-					[
-						"private",
-						"D:\\DotNet\\_Private\\private.sublime-project"
-					],
-					[
-						"coditli",
-						"D:\\DotNet\\_Private\\Educ.Codility\\codility.sublime-project"
-					],
-					[
-						"priva",
-						"D:\\DotNet\\_Private\\private.sublime-project"
-					],
-					[
-						"in",
-						"D:\\Code\\cs-lib-inheritbdd-xunit\\inheritbdd-xunit.sublime-project"
-					],
-					[
-						"bdd",
-						"D:\\Code\\cs-lib-xunit-playground\\xunit-bdd.sublime-project"
-					],
-					[
-						"pneo",
-						"D:\\Code\\neogov\\personal\\neogov.sublime-project"
-					],
-					[
-						"neogoap",
-						"D:\\Code\\neogov\\personal\\neogov.all.sublime-project"
-					],
-					[
-						"neogovall",
-						"D:\\Code\\neogov\\personal\\neogov.all.sublime-project"
-					],
-					[
-						"neogo",
-						"D:\\Code\\neogov\\personal\\neogov.all.sublime-project"
-					],
-					[
-						"neogov",
-						"D:\\Code\\neogov\\personal\\neogov.sublime-project"
-					],
-					[
-						"pri",
-						"D:\\DotNet\\_Private\\private.sublime-project"
-					],
-					[
-						"pl",
-						"/D/Code/neogov/personal/neogov.platform.sublime-project"
-					],
-					[
-						"neogovo",
-						"/D/Code/neogov/personal/neogov.sublime-project"
-					],
-					[
-						"booking",
-						"/D/Code/booking/Booking.sublime-project"
-					],
-					[
-						"jsno",
-						"/D/Code/js-node-visualstudio/js-node-visualstudio.sublime-project"
-					],
-					[
-						"priv",
-						"/D/DotNet/_Private/private.sublime-project"
-					],
-					[
-						"offerion",
-						"/D/Code/offerion/Offerion.sublime-project"
-					],
-					[
-						"offer",
-						"/D/Code/offerion/BookingIt.MoBill.sublime-project"
-					],
-					[
-						"core",
-						"/D/Code/neogov/personal/neogov.corehr.sublime-project"
-					],
-					[
-						"offe",
-						"/D/Code/offerion/Offerion.sublime-project"
-					],
-					[
-						"jsvi",
-						"/D/Code/js-node-visualstudio/js-node-visualstudio.sublime-project"
-					],
-					[
-						"lib",
-						"/D/Code/cs-lib-security-framework/cs-lib-security-framework.sublime-project"
-					],
-					[
-						"cstes",
-						"/D/Code/cs-test-mvc/cs-test-mvc.sublime-project"
-					],
-					[
-						"mobill",
-						"/D/Code/Inetpub/mobill-118-refactor-cijenika/BookingIt.MoBill.sublime-project"
-					],
-					[
-						"platform",
-						"/D/Code/neogov/personal/neogov.platform.sublime-project"
-					],
-					[
-						"angula",
-						"/D/Code/angular-test/angular-test.sublime-project"
-					],
-					[
-						"noop",
-						"/D/Code/cs-example-nopcommerce/nopcommerce.sublime-project"
-					],
-					[
-						"anug",
-						"/D/Code/angular-test/angular-test.sublime-project"
-					],
-					[
-						"coreh",
-						"/D/Code/neogov/personal/neogov.corehr.sublime-project"
-					],
-					[
-						"angu",
-						"/D/Code/angular-test/angular-test.sublime-project"
-					],
-					[
-						"mo",
-						"/D/Code/Inetpub/wwwroot_mobill/BookingIt.MoBill.sublime-project"
-					],
-					[
-						"s",
-						"/D/Code/neogov_on_stash/neogov_on_stash.sublime-project"
-					],
-					[
-						"stasj",
-						"/D/Code/neogov_on_stash/neogov_on_stash.sublime-project"
-					],
-					[
-						"mobi",
-						"/D/old_c/Inetpub/wwwroot_mobill/BookingIt.MoBill.sublime-project"
-					],
-					[
-						"packa",
-						"/D/UserData/SublimeText2.0/Data/Packages/packages.sublime-project"
-					],
-					[
-						"radna",
-						"/C/inetpub/wwwroot/Radna/Booking.sublime-project"
-					],
-					[
-						"ww temp",
-						"/C/inetpub/wwwroot_TEMP/mobill_production/MoBill.Prod.sublime-project"
-					],
-					[
-						"ra",
-						"/C/inetpub/wwwroot/Radna/Booking.sublime-project"
-					],
-					[
-						"mobii",
-						"/C/inetpub/wwwroot_TEMP/mobill_production/MoBill.Prod.sublime-project"
-					],
-					[
-						"ursli",
-						"/D/DotNet/ODesk/CodeForNewDesign/Urslit.sublime-project"
-					],
-					[
-						"pac",
-						"/D/Dropbox/Private/SublimeText2.0/Data/Packages/packages.sublime-project"
-					],
-					[
-						"odes",
-						"/D/DotNet/ODesk/CodeForNewDesign/Urslit.sublime-project"
-					],
-					[
-						"pa",
-						"/D/Dropbox/Private/SublimeText2.0/Data/Packages/packages.sublime-project"
-					],
-					[
-						"rad",
-						"/C/inetpub/wwwroot/Radna/Booking.sublime-project"
+						"pla",
+						"D:\\Code\\neogov\\personal\\neogov.platform.sublime-project"
 					]
 				],
 				"width": 950.0
@@ -4890,22 +1672,25 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 805.0,
+			"side_bar_width": 643.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 2,
-			"workspace_name": "/D/Code/neogov/personal/neogov.platform.sublime-workspace"
+			"window_id": 14,
+			"workspace_name": "/D/Code/seed-gulp-ts/seed-gulp-ts.sublime-workspace"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
-			"/D/Code/neogov/personal/neogov.platform.sublime-workspace",
-			"/D/Code/bosnjak/csv-editor/csv-editor.sublime-workspace",
 			"/D/Code/seed-gulp-ts/seed-gulp-ts.sublime-workspace",
+			"/D/Code/neogov/personal/neogov.platform.sublime-workspace",
+			"/D/Mining/Code/miner.sublime-workspace",
+			"/D/Code/evolv.io/evolv.io.sublime-workspace",
+			"/D/Mining/Droplets/droplets.sublime-workspace",
+			"/D/Code/bosnjak/csv-editor/csv-editor.sublime-workspace",
 			"/D/Code/angular-taiga-front/angular-taiga-front.sublime-workspace",
 			"/D/Code/angular-test/angular-test.sublime-workspace",
 			"/D/Code/booking/Booking.sublime-workspace",

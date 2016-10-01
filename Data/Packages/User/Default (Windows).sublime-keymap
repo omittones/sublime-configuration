@@ -28,8 +28,6 @@
 	{ "keys": ["alt+shift+left"], "command": "move", "args": {"by": "word_ends", "forward": false, "extend": true} },
 	{ "keys": ["alt+shift+right"], "command": "move", "args": {"by": "word_ends", "forward": true, "extend": true} },
 
-	{ "keys": ["alt+up"], "command": "run_macro_file", "args": {"file": "Packages/User/MoveUp5Lines.sublime-macro" } },
-	{ "keys": ["alt+down"], "command": "run_macro_file", "args": {"file": "Packages/User/MoveDown5Lines.sublime-macro" } },
 	{ "keys": ["alt+shift+up"], "command": "run_macro_file", "args": {"file": "Packages/User/MoveUp5LinesExtend.sublime-macro" } },
 	{ "keys": ["alt+shift+down"], "command": "run_macro_file", "args": {"file": "Packages/User/MoveDown5LinesExtend.sublime-macro" } },
 
