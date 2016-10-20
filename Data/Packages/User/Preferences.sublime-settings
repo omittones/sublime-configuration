@@ -50,6 +50,7 @@
 	"font_size": 9.0,
 	"ignored_packages":
 	[
+		"AngularJS",
 		"AutoFileName",
 		"Sublime Files",
 		"Tino",
