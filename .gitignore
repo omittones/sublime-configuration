@@ -5,3 +5,4 @@
 /Data/Packages/*.sublime-workspace
 /Data/Backup
 *.cache
+*.dmp

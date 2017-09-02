@@ -11,8 +11,11 @@
 		"AutoFileName",
 		"Better CoffeeScript",
 		"BracketHighlighter",
+		"C# Snippets",
+		"Case Conversion",
 		"CMake",
 		"ColorPicker",
+		"CUDA C++",
 		"DeleteBlankLines",
 		"DevDocs",
 		"Emmet",
@@ -20,11 +23,15 @@
 		"Google Spell Check",
 		"Indent XML",
 		"JsFormat",
+		"LESS",
 		"Nodejs",
+		"OmniSharp",
+		"OpenCL",
 		"Package Control",
 		"PowerShell",
 		"SideBarEnhancements",
 		"Sublime Files",
+		"Text Pastry",
 		"TypeScript"
 	]
 }
