@@ -6,3 +6,5 @@
 /Data/Backup
 *.cache
 *.dmp
+*.last-run
+*.sublime_session
