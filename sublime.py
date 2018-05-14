@@ -525,12 +525,20 @@ class Window(object):
         return self.template_settings_object
 
     def lookup_symbol_in_index(self, sym):
-        """ Finds all files and locations where sym in defined, using the symbol index """
+        """ Finds all files and locations where sym is defined, using the symbol index """
         return sublime_api.window_lookup_symbol(self.window_id, sym)
 
     def lookup_symbol_in_open_files(self, sym):
-        """ Finds all files and locations where sym in defined, searching through open files """
+        """ Finds all files and locations where sym is defined, searching through open files """
         return sublime_api.window_lookup_symbol_in_open_files(self.window_id, sym)
+
+    def lookup_references_in_index(self, sym):
+        """ Finds all files and locations where sym is referenced, using the symbol index """
+        return sublime_api.window_lookup_references(self.window_id, sym)
+
+    def lookup_references_in_open_files(self, sym):
+        """ Finds all files and locations where sym is referenced, searching through open files """
+        return sublime_api.window_lookup_references_in_open_files(self.window_id, sym)
 
     def extract_variables(self):
         return sublime_api.window_extract_variables(self.window_id)
@@ -866,6 +874,9 @@ class View(object):
     def meta_info(self, key, pt):
         return sublime_api.view_meta_info(self.view_id, key, pt)
 
+    def extract_tokens_with_scopes(self, r):
+        return sublime_api.view_extract_tokens_with_scopes(self.view_id, r.begin(), r.end())
+
     def extract_scope(self, pt):
         return sublime_api.view_extract_scope(self.view_id, pt)
 
@@ -880,6 +891,12 @@ class View(object):
 
     def find_by_selector(self, selector):
         return sublime_api.view_find_by_selector(self.view_id, selector)
+
+    def style(self):
+        return sublime_api.view_style(self.view_id)
+
+    def style_for_scope(self, scope):
+        return sublime_api.view_style_for_scope(self.view_id, scope)
 
     def indented_region(self, pt):
         return sublime_api.view_indented_region(self.view_id, pt)
@@ -986,14 +1003,24 @@ class View(object):
         """ Converts a text point to layout coordinates """
         return sublime_api.view_text_to_layout(self.view_id, tp)
 
+    def text_to_window(self, tp):
+        """ Converts a text point to window coordinates """
+        return self.layout_to_window(self.text_to_layout(tp))
+
     def layout_to_text(self, xy):
-        """ Converts a point in layout coordinates to a text coodinate """
+        """ Converts layout coordinates to a text point """
         return sublime_api.view_layout_to_text(self.view_id, xy)
 
+    def layout_to_window(self, xy):
+        """ Converts layout coordinates to window coordinates """
+        return sublime_api.view_layout_to_window(self.view_id, xy)
+
     def window_to_layout(self, xy):
+        """ Converts window coordinates to layout coordinates """
         return sublime_api.view_window_to_layout(self.view_id, xy)
 
     def window_to_text(self, xy):
+        """ Converts window coordinates to a text point """
         return self.layout_to_text(self.window_to_layout(xy))
 
     def line_height(self):
@@ -1067,6 +1094,9 @@ class View(object):
 
     def indexed_symbols(self):
         return sublime_api.view_indexed_symbols(self.view_id)
+
+    def indexed_references(self):
+        return sublime_api.view_indexed_references(self.view_id)
 
     def set_status(self, key, value):
         sublime_api.view_set_status(self.view_id, key, value)
@@ -1195,3 +1225,13 @@ class PhantomSet(object):
                 self.view.erase_phantom_by_id(p.id)
 
         self.phantoms = new_phantoms
+
+
+class Html(object):
+    __slots__ = ['data']
+
+    def __init__(self, data):
+        self.data = data
+
+    def __str__(self):
+        return "Html(" + str(self.data) + ")"
