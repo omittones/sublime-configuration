@@ -1,11 +1,13 @@
 ![SQLTools](https://github.com/mtxr/SQLTools/raw/images/icon.png?raw=true) SQLTools
 ===============
 
+[![Join the chat at https://gitter.im/SQLTools/Lobby](https://badges.gitter.im/SQLTools/Lobby.svg)](https://gitter.im/SQLTools/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Your swiss knife SQL for Sublime Text.
 
 Write your SQL with smart completions and handy table and function definitions, execute SQL and explain queries, format your queries and save them in history.
 
-Project website: [http://mtxr.github.io/SQLTools/](http://mtxr.github.io/SQLTools/)
+Project website: [https://code.mteixeira.dev/SublimeText-SQLTools/](https://code.mteixeira.dev/SublimeText-SQLTools/)
 
 > If you are looking for VSCode version go to [https://github.com/mtxr/vscode-sqltools](https://github.com/mtxr/vscode-sqltools).
 
@@ -15,11 +17,11 @@ SQLTools was developed with ♥ to save us time during our programming journey. 
 
 SQLTools will save you (for sure) a lot of time and help you to increase your productivity so, I hope you can donate and help SQLTools to become more awesome than ever.
 
-<span class="badge-paypal"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RSMB6DGK238V8" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPal donate button" /></a></span>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RSMB6DGK238V8" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPal donate button" /></a>
 
 ## Features
 
-* Works with PostgreSQL, MySQL, Oracle, MSSQL, SQLite, Vertica, Firebird
+* Works with PostgreSQL, MySQL, Oracle, MSSQL, SQLite, Vertica, Firebird and Snowflake
 * Smart completions (except SQLite)
 * Run SQL Queries &nbsp; <kbd>CTRL+e</kbd>, <kbd>CTRL+e</kbd>
 ![Auto complete and run SQL queries](https://github.com/mtxr/SQLTools/raw/images/execute_auto_complete.gif?raw=true)
@@ -52,7 +54,7 @@ If you are using [Sublime Package Control](https://packagecontrol.io/packages/SQ
 
 I strongly recommend you to use Package Control. It helps you to keep the package updated with the last version.
 
-1. Download the files zip file [here](http://mtxr.github.io/SQLTools/)
+1. Download the latest released zip file [here](https://github.com/mtxr/SublimeText-SQLTools/releases/latest)
 2. Unzip the files and rename the folder to `SQLTools`
 3. Find your `Packages` directory using the menu item  `Preferences -> Browse Packages...`
 4. Copy the folder into your Sublime Text `Packages` directory
@@ -63,11 +65,13 @@ Sublime Text has it's environment variable `PATH` set from launchctl, not by you
 
 ## Contributors
 
-These fellows helped SQLTools to become better than ever. Thank you so much!
+This project exists thanks to all the people who [contribute](https://github.com/mtxr/SublimeText-SQLTools/graphs/contributors).
 
-* [@tkopets](https://github.com/tkopets)
-* [@gabrielebarbieri](https://github.com/gabrielebarbieri)
 
 ## Configuration 
 
-Documentation: [http://mtxr.github.io/SQLTools/](http://mtxr.github.io/SQLTools/)
+Documentation: [https://code.mteixeira.dev/SublimeText-SQLTools/](https://code.mteixeira.dev/SublimeText-SQLTools/)
+
+
+
+

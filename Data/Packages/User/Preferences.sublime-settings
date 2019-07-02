@@ -25,11 +25,15 @@
 		"*.jpg",
 		"*.pdf",
 		"*.png",
+		"*.sublime-workspace",
 		"*.swf",
 		"*.tga",
 		"*.ttf",
 		"*.zip",
-		"src/WebApp/Content/CompiledTypescript/**"
+		"Data/Backup/**",
+		"packages/**",
+		"src/WebApp/Content/CompiledTypescript/**",
+		"venv/**"
 	],
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
@@ -64,14 +68,12 @@
 		"CVS"
 	],
 	"font_face": "Consolas",
-	"font_size": 9.0,
+	"font_size": 10.0,
 	"ignored_packages":
 	[
 		"AngularJS",
 		"AutoFileName",
 		"JsFormat",
-		"Nodejs",
-		"OmniSharp",
 		"Sublime Files",
 		"Text Pastry",
 		"Tino",

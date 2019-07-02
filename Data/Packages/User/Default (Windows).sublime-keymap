@@ -36,9 +36,15 @@
 	},
 
 	{
-		"keys": ["alt+ctrl+g"],
+		"keys": ["ctrl+alt+g"],
 		"command": "insert",
 		"args": {"characters": "]"}
+	},
+
+	{
+		"keys": ["ctrl+alt+f"],
+		"command": "insert",
+		"args": {"characters": "["}
 	},
 
 	{

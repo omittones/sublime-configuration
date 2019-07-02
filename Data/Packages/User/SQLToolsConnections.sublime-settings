@@ -1,10 +1,17 @@
 {
   "connections": {
 
-    "Neoov local database": {
+    "neogovpe@local": {
       "type"    : "mssql",
       "host"    : "localhost",
       "database": "neogovpe",
+      "encoding": "utf-8"
+    },
+
+    "adminalvarohr_next@local": {
+      "type"    : "mssql",
+      "host"    : "AJURICIC-W10/MSSQL2014",
+      "database": "adminalvarohr_next",
       "encoding": "utf-8"
     },
 

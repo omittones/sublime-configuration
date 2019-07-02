@@ -8,6 +8,7 @@
 	[
 		"Alignment",
 		"AngularJS",
+		"ANTLR syntax highlight",
 		"AutoFileName",
 		"BracketHighlighter",
 		"C# Snippets",
@@ -22,17 +23,18 @@
 		"Google Spell Check",
 		"Indent XML",
 		"JsFormat",
+		"JSON Reindent",
 		"LESS",
 		"MarkdownPreview",
-		"Nodejs",
-		"OmniSharp",
 		"OpenCL",
 		"Package Control",
 		"PowerShell",
+		"requirementstxt",
+		"Sass",
 		"SideBarEnhancements",
 		"SQLTools",
 		"Sublime Files",
 		"Text Pastry",
-		"TypeScript"
+		"TypeScript Syntax"
 	]
 }

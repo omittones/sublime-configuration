@@ -1,10 +1,21 @@
 {
 	//set to true to insert spaces when tab is pressed
-	"translate_tabs_to_spaces": false,
+	"translate_tabs_to_spaces": true,
 
 	//if translate_tabs_to_spaces is true, use_tab_stops will make tab and
 	//backspace insert/delete up to the next tabstop
 	"use_tab_stops": true,
 
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+
+	// editor options
+	"draw_white_space": false,
+
+	// tabs and whitespace
+	"auto_indent": true,
+	"rulers": [79],
+	"smart_indent": true,
+	"tab_size": 4,
+	"trim_automatic_white_space": true,
+	"word_wrap": false
 }

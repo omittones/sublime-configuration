@@ -1,1 +1,1 @@
-{"platforms": ["*"], "url": "http://mtxr.github.io/SQLTools", "version": "0.9.11", "dependencies": [], "sublime_text": ">=3000", "description": "SQLTools for Sublime Text 3"}
+{"url": "https://code.mteixeira.dev/SublimeText-SQLTools/", "platforms": ["*"], "sublime_text": ">=3000", "description": "SQLTools for Sublime Text 3", "dependencies": [], "version": "0.9.12"}
